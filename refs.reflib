@@ -1698,5 +1698,86 @@
     <bib_extra key="Publisher">Pergamon Press, Inc.</bib_extra>
     <bib_extra key="Url">http://dx.doi.org/10.1016/j.engappai.2010.09.007</bib_extra>
   </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>vempala</key>
+    <notes></notes>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Random Projection Method</bib_title>
+    <bib_authors>Vempala, S. S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Isbn">9780821871072</bib_extra>
+    <bib_extra key="Publisher">American Mathematical Society</bib_extra>
+    <bib_extra key="Series">DIMACS Series</bib_extra>
+    <bib_extra key="Url">http://books.google.com/books?id=L5L2J0UEY4QC</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>fernrandom</key>
+    <notes></notes>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Random projection for high dimensional data clustering: A cluster ensemble approach</bib_title>
+    <bib_authors>Fern, Xiaoli Zhang and Brodley, Carla E.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year></bib_year>
+    <bib_extra key="BookTitle"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Urruty2007</key>
+    <notes></notes>
+    <bib_type>InCollection</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Clustering by Random Projections</bib_title>
+    <bib_authors>Urruty, Thierry and Djeraba, Chabane and Simovici, DanA.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume>4597</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>107-119</bib_pages>
+    <bib_year>2007</bib_year>
+    <bib_extra key="BookTitle">Advances in Data Mining. Theoretical Aspects and Applications</bib_extra>
+    <bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+    <bib_extra key="Doi">10.1007/978-3-540-73435-2_9</bib_extra>
+    <bib_extra key="Editor">Perner, Petra</bib_extra>
+    <bib_extra key="Isbn">978-3-540-73434-5</bib_extra>
+    <bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+    <bib_extra key="Url">http://dx.doi.org/10.1007/978-3-540-73435-2_9</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Dasgupta2000</key>
+    <notes></notes>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Experiments with random projection</bib_title>
+    <bib_authors>Dasgupta, Sanjoy</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>143-151</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Acmid">2073964</bib_extra>
+    <bib_extra key="Address">San Francisco, CA, USA</bib_extra>
+    <bib_extra key="BookTitle">Proceedings of the Sixteenth conference on Uncertainty in artificial intelligence</bib_extra>
+    <bib_extra key="Isbn">1-55860-709-9</bib_extra>
+    <bib_extra key="Location">Stanford, California</bib_extra>
+    <bib_extra key="Numpages">9</bib_extra>
+    <bib_extra key="Publisher">Morgan Kaufmann Publishers Inc.</bib_extra>
+    <bib_extra key="Series">UAI’00</bib_extra>
+    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=2073946.2073964</bib_extra>
+  </doc>
 </doclist>
 </library>
