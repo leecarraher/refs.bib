@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{Carreira}
+M.~A. Carreira-Perpinan, ``Gaussian mean-shift is an em algorithm,'' {\em
+  Pattern Analysis and Machine Intelligence, IEEE Transactions on}, vol.~29,
+  pp.~767--776, may 2007.
+
+\bibitem{Bingham}
+E.~Bingham and H.~Mannila, ``Random projection in dimensionality reduction:
+  Applications to image and text data,'' in {\em in Knowledge Discovery and
+  Data Mining}, pp.~245--250, ACM Press, 2001.
+
+\end{thebibliography}
