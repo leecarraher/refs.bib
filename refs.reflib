@@ -1,1984 +1,2107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
-<manage_target braces="false" utf8="false"></manage_target>
-<library_folder monitor="true"></library_folder>
-<taglist>
-</taglist>
-<doclist>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Gollapudi</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The power of two min-hashes for similarity search among hierarchical data objects</bib_title>
-    <bib_authors>Gollapudi, Sreenivas and Panigrahy, Rina</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>211-220</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Acmid">1376946</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/1376916.1376946</bib_extra>
-    <bib_extra key="Isbn">978-1-60558-152-1</bib_extra>
-    <bib_extra key="Keywords">earth movers distance, locality sensitive hashing, similarity</bib_extra>
-    <bib_extra key="Location">Vancouver, Canada</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">PODS ’08</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1376916.1376946</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Vardy</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Maximum likelihood decoding of the Leech lattice</bib_title>
-    <bib_authors>Vardy, A. and Be’ery, Y.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>39</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>1435-1444</bib_pages>
-    <bib_year>1993</bib_year>
-    <bib_extra key="Doi">10.1109/18.243466</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">(6,3,4) quaternary code;Leech lattice;binary Golay code;cosets;hexacode;lattice partitions;maximum likelihood decoding;decoding;lattice theory and statistics;maximum likelihood estimation;</bib_extra>
-    <bib_extra key="Month">jul</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Lowe</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Object recognition from local scale-invariant features</bib_title>
-    <bib_authors>Lowe, D. G.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume>2</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1150-1157</bib_pages>
-    <bib_year>1999</bib_year>
-    <bib_extra key="BookTitle">Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/ICCV.1999.790410</bib_extra>
-    <bib_extra key="Keywords">3D projection;blurred image gradients;candidate object matches;cluttered partially occluded images;computation time;inferior temporal cortex;local geometric deformations;local image features;local scale-invariant features;low residual least squares solution;multiple orientation planes;nearest neighbor indexing method;primate vision;robust object recognition;staged filtering approach;unknown model parameters;computational geometry;feature extraction;image matching;least squares approximations;object recognition;</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>cuda</key>
-    <notes></notes>
-    <bib_type>Misc</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>NVIDIA CUDA C Programming Guide</bib_title>
-    <bib_authors>Corporation, N. V. I. D. I. A.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="Added-at">2011-05-06T13:22:35.000+0200</bib_extra>
-    <bib_extra key="Biburl">http://www.bibsonomy.org/bibtex/2e90a6474d85eac083c921cf5be29f6ef/toevanen</bib_extra>
-    <bib_extra key="Interhash">b29ebbf94430d6d1720b5562b86f6a32</bib_extra>
-    <bib_extra key="Intrahash">e90a6474d85eac083c921cf5be29f6ef</bib_extra>
-    <bib_extra key="Keywords">CUDA</bib_extra>
-    <bib_extra key="Note">Version 3.2</bib_extra>
-    <bib_extra key="Timestamp">2011-05-06T13:22:35.000+0200</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Sun</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The Leech lattice, the octacode, and decoding algorithms</bib_title>
-    <bib_authors>Sun, Feng-Wen and van Tilborg, H. C. A.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>41</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>1097-1106</bib_pages>
-    <bib_year>1995</bib_year>
-    <bib_extra key="Doi">10.1109/18.391252</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">Golay code;Leech lattice;bounded distance decoding;bounded-distance decoder;bounded-distance decoders;coset decoding;decoding algorithms;effective error coefficient;glue code;holy construction;lattice partition chain;linear code;multilevel representation;octacode;permuted Turyn construction;self dual code;subcode;Golay codes;decoding;dual codes;linear codes;</bib_extra>
-    <bib_extra key="Month">jul</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>calderbank</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The art of signaling: fifty years of coding theory</bib_title>
-    <bib_authors>Calderbank, A. R.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>44</bib_volume>
-    <bib_number>6</bib_number>
-    <bib_pages>2561-2595</bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Doi">10.1109/18.720549</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">Euclidean space;Gaussian channel;Gilbert-Varshamov bound;Hamming space;algebraic theory;algebraic-geometry codes;block codes;channel capacity;coding theory;data networking;error probability;error-correcting codes;fundamental limits;history;noisy channels;polynomial time;quantum information theory;reliable communication;review;signaling;wireless communication;algebraic geometric codes;block codes;channel capacity;decoding;encoding;error correction codes;history;reviews;telecommunication signalling;</bib_extra>
-    <bib_extra key="Month">oct</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Amrani</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The Leech lattice and the Golay code: bounded-distance decoding and multilevel constructions</bib_title>
-    <bib_authors>Amrani, O. and Be’ery, Y. and Vardy, A. and Sun, Feng-Wen and van Tilborg, H. C. A.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>40</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>1030-1043</bib_pages>
-    <bib_year>1994</bib_year>
-    <bib_extra key="Doi">10.1109/18.335970</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">AWGN channel;BER;Leech lattice;binary Golay code;bounded-distance decoder;bounded-distance decoding;coding-gain;computer simulation;decoder complexity;decoding algorithms;error-correction radius;maximum-likelihood decoder;multilevel constructions;decoding;error correction codes;maximum likelihood estimation;random noise;telecommunication channels;white noise;</bib_extra>
-    <bib_extra key="Month">jul</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Lowe04</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Distinctive Image Features from Scale-Invariant Keypoints</bib_title>
-    <bib_authors>Lowe, David G.</bib_authors>
-    <bib_journal>Int. J. Comput. Vision</bib_journal>
-    <bib_volume>60</bib_volume>
-    <bib_number>2</bib_number>
-    <bib_pages>91-110</bib_pages>
-    <bib_year>2004</bib_year>
-    <bib_extra key="Acmid">996342</bib_extra>
-    <bib_extra key="Address">Hingham, MA, USA</bib_extra>
-    <bib_extra key="Doi">10.1023/B:VISI.0000029664.99615.94</bib_extra>
-    <bib_extra key="Issn">0920-5691</bib_extra>
-    <bib_extra key="Keywords">image matching, invariant features, object recognition, scale invariance</bib_extra>
-    <bib_extra key="Month">November</bib_extra>
-    <bib_extra key="Numpages">20</bib_extra>
-    <bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=993451.996342</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Andoni</key>
-    <notes></notes>
-    <bib_type>PhdThesis</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Nearest Neighbor Search: the Old, the New, and the Impossible</bib_title>
-    <bib_authors>Andoni, Alexandr</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2009</bib_year>
-    <bib_extra key="Month">September</bib_extra>
-    <bib_extra key="School">MASSACHUSETTS INSTITUTE OF TECHNOLOGY</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>panigrahy</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Entropy based nearest neighbor search in high dimensions</bib_title>
-    <bib_authors>Panigrahy, Rina</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1186-1195</bib_pages>
-    <bib_year>2006</bib_year>
-    <bib_extra key="Acmid">1109688</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/1109557.1109688</bib_extra>
-    <bib_extra key="Isbn">0-89871-605-5</bib_extra>
-    <bib_extra key="Location">Miami, Florida</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">SODA ’06</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1109557.1109688</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Tarokh1</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Trellis complexity versus the coding gain of lattices. I</bib_title>
-    <bib_authors>Tarokh, V. and Blake, I. F.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>42</bib_volume>
-    <bib_number>6</bib_number>
-    <bib_pages>1796-1807</bib_pages>
-    <bib_year>1996</bib_year>
-    <bib_extra key="Doi">10.1109/18.556675</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
-    <bib_extra key="Month">nov</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Tarokh2</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Trellis complexity versus the coding gain of lattices. I</bib_title>
-    <bib_authors>Tarokh, V. and Blake, I. F.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>42</bib_volume>
-    <bib_number>6</bib_number>
-    <bib_pages>1796-1807</bib_pages>
-    <bib_year>1996</bib_year>
-    <bib_extra key="Doi">10.1109/18.556675</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
-    <bib_extra key="Month">nov</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Sun2</key>
-    <notes></notes>
-    <bib_type>PhdThesis</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Decoding Techniques and Modulations Scheme for Band-Limited Communication Channels</bib_title>
-    <bib_authors>Sun, Feng-wen</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1994</bib_year>
-    <bib_extra key="Month">February</bib_extra>
-    <bib_extra key="School">Technical University of Eidenhoven</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Andoni08</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Near-optimal hashing algorithms for approximate nearest neighbor in high dimensions</bib_title>
-    <bib_authors>Andoni, Alexandr and Indyk, Piotr</bib_authors>
-    <bib_journal>Commun. ACM</bib_journal>
-    <bib_volume>51</bib_volume>
-    <bib_number>1</bib_number>
-    <bib_pages>117-122</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Acmid">1327494</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/1327452.1327494</bib_extra>
-    <bib_extra key="Issn">0001-0782</bib_extra>
-    <bib_extra key="Issue_date">January 2008</bib_extra>
-    <bib_extra key="Month">January</bib_extra>
-    <bib_extra key="Numpages">6</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1327452.1327494</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>caltech</key>
-    <notes></notes>
-    <bib_type>TechReport</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Caltech-256 Object Category Dataset</bib_title>
-    <bib_authors>Griffin, G. and Holub, A. and Perona, P.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number>7694</bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Publisher">California Institute of Technology</bib_extra>
-    <bib_extra key="Url">http://authors.library.caltech.edu/7694</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Be&apos;ery</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Efficient bounded-distance decoding of the hexacode and associated decoders for the Leech lattice and the Golay code</bib_title>
-    <bib_authors>Amrani, O. and Beery, Y.</bib_authors>
-    <bib_journal>Communications, IEEE Transactions on</bib_journal>
-    <bib_volume>44</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>534-537</bib_pages>
-    <bib_year>1996</bib_year>
-    <bib_extra key="Doi">10.1109/26.494294</bib_extra>
-    <bib_extra key="Issn">0090-6778</bib_extra>
-    <bib_extra key="Keywords">Golay code;Leech lattice;bounded-distance decoding;decoders;efficient bounded-distance decoding;hexacode;minimum Euclidean distance;near-optimal performance;quaternary code;real-number operations;simulation;soft-decision decoding algorithms;trellis codes;Golay codes;codes;decoding;</bib_extra>
-    <bib_extra key="Month">may</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Georgescu</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Mean shift based clustering in high dimensions: a texture classification example</bib_title>
-    <bib_authors>Georgescu, B. and Shimshoni, I. and Meer, P.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>456-463</bib_pages>
-    <bib_year>2003</bib_year>
-    <bib_extra key="BookTitle">Computer Vision, 2003. Proceedings. Ninth IEEE International Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/ICCV.2003.1238382</bib_extra>
-    <bib_extra key="Keywords">computer vision;feature space analysis;mean shift based clustering;texture classification;computer vision;feature extraction;image classification;image texture;pattern clustering;</bib_extra>
-    <bib_extra key="Month">oct.</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>meanShift</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Mean shift is a bound optimization</bib_title>
-    <bib_authors>Fashing, M. and Tomasi, C.</bib_authors>
-    <bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
-    <bib_volume>27</bib_volume>
-    <bib_number>3</bib_number>
-    <bib_pages>471-474</bib_pages>
-    <bib_year>2005</bib_year>
-    <bib_extra key="Doi">10.1109/TPAMI.2005.59</bib_extra>
-    <bib_extra key="Issn">0162-8828</bib_extra>
-    <bib_extra key="Keywords">Newton method;bound optimization;gradient methods;mean shift procedure;piecewise constant kernels;quadratic bound maximization;Newton method;gradient methods;quadratic programming;Algorithms;Artificial Intelligence;Cluster Analysis;Computer Graphics;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Numerical Analysis, Computer-Assisted;Pattern Recognition, Automated;Sample Size;Signal Processing, Computer-Assisted;</bib_extra>
-    <bib_extra key="Month">march </bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Andoni06</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions</bib_title>
-    <bib_authors>Andoni, Alexandr and Indyk, Piotr</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>459-468</bib_pages>
-    <bib_year>2006</bib_year>
-    <bib_extra key="BookTitle">Foundations of Computer Science, 2006. FOCS ’06. 47th Annual IEEE Symposium on</bib_extra>
-    <bib_extra key="Doi">10.1109/FOCS.2006.49</bib_extra>
-    <bib_extra key="Issn">0272-5428</bib_extra>
-    <bib_extra key="Keywords">Leech lattice;bounded-distance decoder;c-approximate nearest neighbor;d-dimensional Euclidean space;near-optimal hashing algorithms;computational complexity;file organisation;</bib_extra>
-    <bib_extra key="Month">oct. </bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Jegou1</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Locality sensitive hashing: A comparison of hash function types and querying mechanisms</bib_title>
-    <bib_authors>Paulevé, Loïc and Jégou, Hervé and Amsaleg, Laurent</bib_authors>
-    <bib_journal>Pattern Recognition Letters</bib_journal>
-    <bib_volume>31</bib_volume>
-    <bib_number>11</bib_number>
-    <bib_pages>1348-1358</bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="Doi">10.1016/j.patrec.2010.04.004</bib_extra>
-    <bib_extra key="Issn">0167-8655</bib_extra>
-    <bib_extra key="Keywords">Search methods; Image databases; Quantization; Database searching; Information retrieval; LSH</bib_extra>
-    <bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0167865510001169</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Leech</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Notes on sphere packings</bib_title>
-    <bib_authors>Leech, John</bib_authors>
-    <bib_journal>Canadian Journal of Mathematics</bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1967</bib_year>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Forney</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A bounded-distance decoding algorithm for the Leech lattice, with generalizations</bib_title>
-    <bib_authors>Forney, G.  D.  ,.  Jr.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>35</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>906-909</bib_pages>
-    <bib_year>1989</bib_year>
-    <bib_extra key="Doi">10.1109/18.32173</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">Leech lattice;binary code formulas;bounded-distance decoding algorithm;construction B lattices;effective error coefficient;effective minimum distance;multistage algorithms;decoding;</bib_extra>
-    <bib_extra key="Month">jul</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Jegou</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Query-adaptive locality sensitive hashing</bib_title>
-    <bib_authors>Jégou, H.  ,. Amsaleg, L.  ,. Schmid, C.  ,. Gros, P.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Booktitle">Internat. Conf. Acoustics, Speech, and Signal Processing 2008</bib_extra>
-    <bib_extra key="Url">In International Conference on Acoustics, Speech, and Signal Processing. IEEE</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Samet</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Foundations of Multidimensional and Metric Data Structures</bib_title>
-    <bib_authors>Samet, Hanan</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2006</bib_year>
-    <bib_extra key="Publisher">Morgan Kaufmann</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>SPLAG</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Sphere Packings Lattices and Groups Third Edition</bib_title>
-    <bib_authors>Conway, John and Sloane, Neil</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Address">New York</bib_extra>
-    <bib_extra key="Publisher">Springer</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Qin</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Multi-probe LSH: efficient indexing for high-dimensional similarity search</bib_title>
-    <bib_authors>Lv, Qin and Josephson, William and Wang, Zhe and Charikar, Moses and Li, Kai</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>950-961</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Acmid">1325958</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 33rd international conference on Very large data bases</bib_extra>
-    <bib_extra key="Isbn">978-1-59593-649-3</bib_extra>
-    <bib_extra key="Location">Vienna, Austria</bib_extra>
-    <bib_extra key="Numpages">12</bib_extra>
-    <bib_extra key="Publisher">VLDB Endowment</bib_extra>
-    <bib_extra key="Series">VLDB ’07</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1325851.1325958</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Har-Peled</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A replacement for Voronoi diagrams of near linear size</bib_title>
-    <bib_authors>Har-Peled, S.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>94-103</bib_pages>
-    <bib_year>2001</bib_year>
-    <bib_extra key="BookTitle">Foundations of Computer Science, 2001. Proceedings. 42nd IEEE Symposium on</bib_extra>
-    <bib_extra key="Doi">10.1109/SFCS.2001.959884</bib_extra>
-    <bib_extra key="Issn"> </bib_extra>
-    <bib_extra key="Keywords"> Voronoi diagram replacement; complexity; distance function; geometric computing; near linear size Voronoi diagrams; space decomposition; standard Voronoi diagram; epsi;-approximation; computational complexity; computational geometry; set theory;</bib_extra>
-    <bib_extra key="Month">oct.</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Forney05</key>
-    <notes></notes>
-    <bib_type>Unpublished</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Chapter 14: Introduction to lattice and trellis codes</bib_title>
-    <bib_authors>Forney, David</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2005</bib_year>
-    <bib_extra key="Note">Lecture: Principles of Digital Communication</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Weber</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces</bib_title>
-    <bib_authors>Weber, Roger and Schek, Hans-Jörg and Blott, Stephen</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>194-205</bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Acmid">671192</bib_extra>
-    <bib_extra key="Address">San Francisco, CA, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 24rd International Conference on Very Large Data Bases</bib_extra>
-    <bib_extra key="Isbn">1-55860-566-5</bib_extra>
-    <bib_extra key="Numpages">12</bib_extra>
-    <bib_extra key="Publisher">Morgan Kaufmann Publishers Inc.</bib_extra>
-    <bib_extra key="Series">VLDB ’98</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=645924.671192</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Indyk</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Approximate nearest neighbors: towards removing the curse of dimensionality</bib_title>
-    <bib_authors>Indyk, Piotr and Motwani, Rajeev</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>604-613</bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Acmid">276876</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the thirtieth annual ACM symposium on Theory of computing</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/276698.276876</bib_extra>
-    <bib_extra key="Isbn">0-89791-962-9</bib_extra>
-    <bib_extra key="Location">Dallas, Texas, United States</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">STOC ’98</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/276698.276876</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Datar</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Locality-sensitive hashing scheme based on p-stable distributions</bib_title>
-    <bib_authors>Datar, Mayur and Immorlica, Nicole and Indyk, Piotr and Mirrokni, Vahab S.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>253-262</bib_pages>
-    <bib_year>2004</bib_year>
-    <bib_extra key="Acmid">997857</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the twentieth annual symposium on Computational geometry</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/997817.997857</bib_extra>
-    <bib_extra key="Isbn">1-58113-885-7</bib_extra>
-    <bib_extra key="Keywords">p-stable distributions, approximate nearest neighbor, locally sensitive hashing, sublinear algorithm</bib_extra>
-    <bib_extra key="Location">Brooklyn, New York, USA</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">SCG ’04</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/997817.997857</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Pless</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Fundamentals of Error-Correcting Codes</bib_title>
-    <bib_authors>Huffman W. , Pless V.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2003</bib_year>
-    <bib_extra key="Edition">1</bib_extra>
-    <bib_extra key="Publisher">Cambridge University Press</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Wicker</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Error control systems for digital communication and storage</bib_title>
-    <bib_authors>Wicker, Stephen B.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1995</bib_year>
-    <bib_extra key="Address">Upper Saddle River, NJ, USA</bib_extra>
-    <bib_extra key="Isbn">0-13-200809-2</bib_extra>
-    <bib_extra key="Publisher">Prentice-Hall, Inc.</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Woelfel</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Asymmetric balanced allocation with simple hash functions</bib_title>
-    <bib_authors>Woelfel, Philipp</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>424-433</bib_pages>
-    <bib_year>2006</bib_year>
-    <bib_extra key="Acmid">1109605</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/1109557.1109605</bib_extra>
-    <bib_extra key="Isbn">0-89871-605-5</bib_extra>
-    <bib_extra key="Location">Miami, Florida</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">SODA ’06</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1109557.1109605</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Ostlin</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Uniform hashing in constant time and linear space</bib_title>
-    <bib_authors>Ostlin, Anna and Pagh, Rasmus</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>622-628</bib_pages>
-    <bib_year>2003</bib_year>
-    <bib_extra key="Acmid">780633</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the thirty-fifth annual ACM symposium on Theory of computing</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/780542.780633</bib_extra>
-    <bib_extra key="Isbn">1-58113-674-9</bib_extra>
-    <bib_extra key="Keywords">data structures, hash function, uniform hashing</bib_extra>
-    <bib_extra key="Location">San Diego, CA, USA</bib_extra>
-    <bib_extra key="Numpages">7</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">STOC ’03</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/780542.780633</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Cohn</key>
-    <notes></notes>
-    <bib_type>TechReport</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Optimality and Uniqueness of the Leech Lattice Among Lattices</bib_title>
-    <bib_authors>Cohn, Henry and Kumar, Abhinav</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2004</bib_year>
-    <bib_extra key="Publisher">arXiv:math.MG/04 03263v1 16</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>FLANN</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration</bib_title>
-    <bib_authors>Muja, Marius and Lowe, David G.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>331-340</bib_pages>
-    <bib_year>2009</bib_year>
-    <bib_extra key="BookTitle">International Conference on Computer Vision Theory and Application VISSAPP’09)</bib_extra>
-    <bib_extra key="Publisher">INSTICC Press</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>imagemagick</key>
-    <notes></notes>
-    <bib_type>Manual</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>ImageMagick v6 Examples – Reference Index</bib_title>
-    <bib_authors>Thyssen, Anthony</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="Organisation">Imagemagick</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Curtis</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A new combinatorial approach to M24</bib_title>
-    <bib_authors>Curtis, R. T.</bib_authors>
-    <bib_journal>Mathematical Proceedings of the Cambridge Philosophical Society</bib_journal>
-    <bib_volume>79</bib_volume>
-    <bib_number>01</bib_number>
-    <bib_pages>25-42</bib_pages>
-    <bib_year>1976</bib_year>
-    <bib_extra key="Doi">10.1017/S0305004100052075</bib_extra>
-    <bib_extra key="Eprint">http://journals.cambridge.org/article_S0305004100052075</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1017/S0305004100052075</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Shakhnarovich</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Fast Pose Estimation with Parameter-Sensitive Hashing</bib_title>
-    <bib_authors>Shakhnarovich, Gregory and Viola, Paul A. and Darrell, Trevor</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>750-759</bib_pages>
-    <bib_year>2003</bib_year>
-    <bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
-    <bib_extra key="BookTitle">ICCV</bib_extra>
-    <bib_extra key="Ee">http://doi.ieeecomputersociety.org/10.1109/ICCV.2003.1238424</bib_extra>
-    <bib_extra key="Isbn">0-7695-1950-4</bib_extra>
-    <bib_extra key="Publisher">IEEE Computer Society</bib_extra>
-    <bib_extra key="Series">9th IEEE International Conference on Computer Vision (ICCV 2003), 14-17 October 2003, Nice, France</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Forney1</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Modulation and coding for linear Gaussian channels</bib_title>
-    <bib_authors>Forney, G.  D.  ,.  Jr. and Ungerboeck, G.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>44</bib_volume>
-    <bib_number>6</bib_number>
-    <bib_pages>2384-2415</bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Doi">10.1109/18.720542</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">SNR;binary coding;channel capacity;combined coding/precoding;high-signal-to-noise ratio;intersymbol-interference channels;linear Gaussian channels;low-signal-to-noise ratio;multilevel coding;nonbinary coding;orthogonal minimum-bandwidth modulation;review;turbo coding;turbo decoding;Gaussian channels;channel capacity;decoding;encoding;modulation;reviews;</bib_extra>
-    <bib_extra key="Month">oct</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Irving</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>An efficient algorithm for the optimal stable marriage</bib_title>
-    <bib_authors>Irving, Robert W. and Leather, Paul and Gusfield, Dan</bib_authors>
-    <bib_journal>J. ACM</bib_journal>
-    <bib_volume>34</bib_volume>
-    <bib_number>3</bib_number>
-    <bib_pages>532-543</bib_pages>
-    <bib_year>1987</bib_year>
-    <bib_extra key="Acmid">28871</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/28869.28871</bib_extra>
-    <bib_extra key="Issn">0004-5411</bib_extra>
-    <bib_extra key="Month">July</bib_extra>
-    <bib_extra key="Numpages">12</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/28869.28871</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>SLSH</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Spherical LSH for Approximate Nearest Neighbor Search on Unit Hypersphere</bib_title>
-    <bib_authors>Terasawa, Kengo and Tanaka, Yuzuru</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>27-38</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
-    <bib_extra key="BookTitle">WADS</bib_extra>
-    <bib_extra key="Crossref">DBLP:conf/wads/2007</bib_extra>
-    <bib_extra key="Ee">http://dx.doi.org/10.1007/978-3-540-73951-7_4</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Garcia</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Fast k nearest neighbor search using GPU</bib_title>
-    <bib_authors>Garcia, V. and Debreuve, E. and Barlaud, M.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Address">Anchorage, Alaska, USA</bib_extra>
-    <bib_extra key="BookTitle">CVPR Workshop on Computer Vision on GPU</bib_extra>
-    <bib_extra key="Month">June</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Li</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A variant of adaptive mean shift-based clustering</bib_title>
-    <bib_authors>Li, Fajie and Klette, Reinhard</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1002-1009</bib_pages>
-    <bib_year>2009</bib_year>
-    <bib_extra key="Acmid">1813621</bib_extra>
-    <bib_extra key="Address">Berlin, Heidelberg</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 15th international conference on Advances in neuro-information processing - Volume Part I</bib_extra>
-    <bib_extra key="Isbn">3-642-02489-0, 978-3-642-02489-4</bib_extra>
-    <bib_extra key="Location">Auckland, New Zealand</bib_extra>
-    <bib_extra key="Numpages">8</bib_extra>
-    <bib_extra key="Publisher">Springer-Verlag</bib_extra>
-    <bib_extra key="Series">ICONIP’08</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1813488.1813621</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Karger</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Minimum cuts in near-linear time</bib_title>
-    <bib_authors>Karger, David R.</bib_authors>
-    <bib_journal>J. ACM</bib_journal>
-    <bib_volume>47</bib_volume>
-    <bib_number>1</bib_number>
-    <bib_pages>46-76</bib_pages>
-    <bib_year>2000</bib_year>
-    <bib_extra key="Acmid">331608</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">http://doi.acm.org/10.1145/331605.331608</bib_extra>
-    <bib_extra key="Issn">0004-5411</bib_extra>
-    <bib_extra key="Keywords">Monte Carlo algorithm, connectivity, min-cut, optimization, tree packing</bib_extra>
-    <bib_extra key="Month">January</bib_extra>
-    <bib_extra key="Numpages">31</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/331605.331608</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Ullman</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Mining of Massive Datasets</bib_title>
-    <bib_authors>Rajaraman, A. and Ullman, J. D.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="Isbn">9781107015357</bib_extra>
-    <bib_extra key="Publisher">Cambridge University Press</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-    <bib_extra key="Url">http://books.google.com/books?id=OefRhZyYOb0C</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>berg</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Computational geometry : algorithms and applications</bib_title>
-    <bib_authors>Berg, Mark de and Kreveld, Marc van and ], Mark Overmars.  .. ..  .. ..  [et al.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2000</bib_year>
-    <bib_extra key="Address">Berlin</bib_extra>
-    <bib_extra key="Isbn">3-540-65620-0</bib_extra>
-    <bib_extra key="Publisher">Springer</bib_extra>
-    <bib_extra key="Series"></bib_extra>
-    <bib_extra key="Url">http://opac.inria.fr/record=b1096186</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Beyer</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>When Is &quot;Nearest Neighbor&quot; Meaningful?</bib_title>
-    <bib_authors>Beyer, Kevin and Goldstein, Jonathan and Ramakrishnan, Raghu and Shaft, Uri</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>217-235</bib_pages>
-    <bib_year>1999</bib_year>
-    <bib_extra key="BookTitle">In Int. Conf. on Database Theory</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Harish</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Accelerating large graph algorithms on the GPU using CUDA</bib_title>
-    <bib_authors>Harish, Pawan and Narayanan, P. J.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>197-208</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Acmid">1782200</bib_extra>
-    <bib_extra key="Address">Berlin, Heidelberg</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 14th international conference on High performance computing</bib_extra>
-    <bib_extra key="Isbn">3-540-77219-7, 978-3-540-77219-4</bib_extra>
-    <bib_extra key="Location">Goa, India</bib_extra>
-    <bib_extra key="Numpages">12</bib_extra>
-    <bib_extra key="Publisher">Springer-Verlag</bib_extra>
-    <bib_extra key="Series">HiPC’07</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1782174.1782200</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Zhou</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Real-time KD-tree construction on graphics hardware</bib_title>
-    <bib_authors>Zhou, Kun and Hou, Qiming and Wang, Rui and Guo, Baining</bib_authors>
-    <bib_journal>ACM Trans. Graph.</bib_journal>
-    <bib_volume>27</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>126-1</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Acmid">1409079</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Articleno">126</bib_extra>
-    <bib_extra key="Doi">10.1145/1409060.1409079</bib_extra>
-    <bib_extra key="Issn">0730-0301</bib_extra>
-    <bib_extra key="Issue_date">December 2008</bib_extra>
-    <bib_extra key="Keywords">kd-tree, photon mapping, point cloud modeling, programable graphics hardware, ray tracing</bib_extra>
-    <bib_extra key="Month">dec</bib_extra>
-    <bib_extra key="Numpages">11</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1409060.1409079</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Freeman</key>
-    <notes></notes>
-    <bib_type>TechReport</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Parallel Algorithms for Depth-First Search</bib_title>
-    <bib_authors>Freeman, Jon</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number>MS-CIS-91-71</bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1991</bib_year>
-    <bib_extra key="Month">October</bib_extra>
-    <bib_extra key="Publisher">University of Pennsylvania</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Bell</key>
-    <notes></notes>
-    <bib_type>TechReport</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Efficient Sparse Matrix-Vector Multiplication on CUDA</bib_title>
-    <bib_authors>Bell, Nathan and Garland, Michael</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number>NVR-2008-004</bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Month">dec</bib_extra>
-    <bib_extra key="Publisher">NVIDIA Corporation</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>ANN</key>
-    <notes></notes>
-    <bib_type>Misc</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>ANN: A library for approximate nearest neighbor searching</bib_title>
-    <bib_authors>Mount, D. M. and , S. Arya.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="Url">http://www.cs.umd.edu/ mount/ANN/</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Arya</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Expected-case complexity of approximate nearest neighbor searching</bib_title>
-    <bib_authors>Arya, Sunil and Fu, Ho-Yam Addy</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>379-388</bib_pages>
-    <bib_year>2000</bib_year>
-    <bib_extra key="Acmid">338583</bib_extra>
-    <bib_extra key="Address">Philadelphia, PA, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the eleventh annual ACM-SIAM symposium on Discrete algorithms</bib_extra>
-    <bib_extra key="Isbn">0-89871-453-2</bib_extra>
-    <bib_extra key="Location">San Francisco, California, United States</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">Society for Industrial and Applied Mathematics</bib_extra>
-    <bib_extra key="Series">SODA ’00</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=338219.338583</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Kaski98</key>
-    <notes></notes>
-    <bib_type>Misc</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Dimensionality Reduction by Random Mapping: Fast Similarity Computation for Clustering</bib_title>
-    <bib_authors>Kaski, Samuel</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>1998</bib_year>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>hecht</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Context vectors: general purpose approximate meaning representations self-organized from raw data</bib_title>
-    <bib_authors>Hecht-Nielsen, R.</bib_authors>
-    <bib_journal>Computational intelligence: Imitating life</bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>43-56</bib_pages>
-    <bib_year>1994</bib_year>
-    <bib_extra key="Publisher">IEEE press</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Meer</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Mean shift: a robust approach toward feature space analysis</bib_title>
-    <bib_authors>Comaniciu, D. and Meer, P.</bib_authors>
-    <bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
-    <bib_volume>24</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>603-619</bib_pages>
-    <bib_year>2002</bib_year>
-    <bib_extra key="Doi">10.1109/34.1000236</bib_extra>
-    <bib_extra key="Issn">0162-8828</bib_extra>
-    <bib_extra key="Keywords">Convergence;Density functional theory;Image analysis;Image color analysis;Image resolution;Image segmentation;Kernel;Pattern recognition;Robustness;Smoothing methods;computer vision;estimation theory;image segmentation;nonparametric statistics;pattern clustering;smoothing methods;Nadaraya-Watson estimator;algorithm performance;analysis resolution;arbitrarily shaped cluster delineation;color images;complex multimodal feature space;computational module;convergence;density function;density modes detection;discontinuity-preserving image smoothing;discrete data;gray-level images;image segmentation;kernel regression;location estimation;low-level vision algorithms;mean shift;nearest stationary point;nonparametric technique;pattern recognition procedure;recursive mean shift procedure;robust M-estimators;robust feature space analysis;user-set parameter;</bib_extra>
-    <bib_extra key="Month">may</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Bingham</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Random projection in dimensionality reduction: Applications to image and text data</bib_title>
-    <bib_authors>Bingham, Ella and Mannila, Heikki</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>245-250</bib_pages>
-    <bib_year>2001</bib_year>
-    <bib_extra key="BookTitle">in Knowledge Discovery and Data Mining</bib_extra>
-    <bib_extra key="Publisher">ACM Press</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Boutsidis</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Random Projections for $k$-means Clustering</bib_title>
-    <bib_authors>Boutsidis, Christos and Zouzias, Anastasios and Drineas, Petros</bib_authors>
-    <bib_journal>CoRR</bib_journal>
-    <bib_volume>abs/1011.4632</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
-    <bib_extra key="Ee">http://arxiv.org/abs/1011.4632</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>carraher</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A Parallel Algorithm for Query Adaptive, Locality Sensitive Hash Search</bib_title>
-    <bib_authors>l.  carraher, f.  annexstein</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2012</bib_year>
-    <bib_extra key="Url">http://homepages.uc.edu/~carrahle/thesis.pdf</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>carraher2</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A GPGPU Algorithm for c-Approximate r-Nearest Neighbor Search in High Dimensions</bib_title>
-    <bib_authors>l.  carraher, p.  wilsey</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2012</bib_year>
-    <bib_extra key="Url">http://homepages.uc.edu/~carrahle/ipdps.pdf</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Marlin</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Unsupervised pattern discovery in electronic health care data using probabilistic clustering models</bib_title>
-    <bib_authors>Marlin, Benjamin M. and Kale, David C. and Khemani, Robinder G. and Wetzel, Randall C.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>389-398</bib_pages>
-    <bib_year>2012</bib_year>
-    <bib_extra key="Acmid">2110408</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium</bib_extra>
-    <bib_extra key="Doi">10.1145/2110363.2110408</bib_extra>
-    <bib_extra key="Isbn">978-1-4503-0781-9</bib_extra>
-    <bib_extra key="Keywords">clustering, critical care, electronic health records, pediatrics, probabilistic models, time series</bib_extra>
-    <bib_extra key="Location">Miami, Florida, USA</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">IHI ’12</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/2110363.2110408</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Vattani</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>k-means requires exponentially many iterations even in the plane</bib_title>
-    <bib_authors>Vattani, Andrea</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>324-332</bib_pages>
-    <bib_year>2009</bib_year>
-    <bib_extra key="Acmid">1542419</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 25th annual symposium on Computational geometry</bib_extra>
-    <bib_extra key="Doi">10.1145/1542362.1542419</bib_extra>
-    <bib_extra key="Isbn">978-1-60558-501-7</bib_extra>
-    <bib_extra key="Keywords">k-means, lower bounds</bib_extra>
-    <bib_extra key="Location">Aarhus, Denmark</bib_extra>
-    <bib_extra key="Numpages">9</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">SCG ’09</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1542362.1542419</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Sivara07</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Kernels for Large Margin Time-Series Classification</bib_title>
-    <bib_authors>Sivaramakrishnan, K. R. and Karthik, K. and Bhattacharyya, C.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>2746-2751</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="BookTitle">Neural Networks, 2007. IJCNN 2007. International Joint Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
-    <bib_extra key="Issn">1098-7576</bib_extra>
-    <bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
-    <bib_extra key="Month">aug.</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Warren</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Clustering of time series data–-a survey</bib_title>
-    <bib_authors>Liao, T.  Warren</bib_authors>
-    <bib_journal>Pattern Recognition</bib_journal>
-    <bib_volume>38</bib_volume>
-    <bib_number>11</bib_number>
-    <bib_pages>1857-1874</bib_pages>
-    <bib_year>2005</bib_year>
-    <bib_extra key="Doi">10.1016/j.patcog.2005.01.025</bib_extra>
-    <bib_extra key="Issn">0031-3203</bib_extra>
-    <bib_extra key="Keywords">Time series data; Clustering; Distance measure; Data mining</bib_extra>
-    <bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0031320305001305</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Liu2011</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Learning with multiple Gaussian distance kernels for time series classification</bib_title>
-    <bib_authors>Liu, Lei and Zuo, Wangmeng and Zhang, D. and Zhang, Dongyu</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>624-628</bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="BookTitle">Advanced Computer Control (ICACC), 2011 3rd International Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/ICACC.2011.6016490</bib_extra>
-    <bib_extra key="Keywords">Classification algorithms;Electrocardiography;Kernel;Marine animals;Support vector machines;Gaussian processes;distance measurement;learning (artificial intelligence);pattern classification;support vector machines;time series;GRBF;Gaussian RBF kernel;Gaussian elastic metric distance kernel;MKL;SVM;SimpleMKL;UCR time series data sets;distance measures;kernel classifier;multiple Gaussian distance kernels;multiple kernel learning method;support vector machine-based classification;time series classification;kernel method;multiple kernel learning;support vector machine;time series classification;</bib_extra>
-    <bib_extra key="Month">jan.</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Sung09</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Quantifying morphology changes in time series data with skew</bib_title>
-    <bib_authors>Sung, P. and Syed, Z. and Guttag, J.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>477-480</bib_pages>
-    <bib_year>2009</bib_year>
-    <bib_extra key="BookTitle">Acoustics, Speech and Signal Processing, 2009. ICASSP 2009. IEEE International Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/ICASSP.2009.4959624</bib_extra>
-    <bib_extra key="Issn">1520-6149</bib_extra>
-    <bib_extra key="Keywords">Earth;Electrical resistance measurement;Electrocardiography;High definition video;Morphology;Noise shaping;Power measurement;Shape measurement;Time measurement;Timing;mathematical morphology;signal processing;time series;ECG signals;Earth movers distance;Frechet distance;Hausdorff distance;dynamic time-warping;morphology changes;morphology difference metrics;signal shape comparison;time series data;time skew;shape matching;time skew;</bib_extra>
-    <bib_extra key="Month">april</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Dilts95</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Using cluster analysis for medical resource decision making</bib_title>
-    <bib_authors>Dilts, D. and Khamalah, J. and Plotkin, A. T. I. T. L. E.</bib_authors>
-    <bib_journal>Med Decis Making</bib_journal>
-    <bib_volume>15</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>333-47</bib_pages>
-    <bib_year></bib_year>
-    <bib_extra key="Issn">0272-989X</bib_extra>
-    <bib_extra key="Pubmedid">8544677</bib_extra>
-    <bib_extra key="Url">http://www.biomedsearch.com/nih/Using-cluster-analysis-medical-resource/8544677.html</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Carreira</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Gaussian Mean-Shift Is an EM Algorithm</bib_title>
-    <bib_authors>Carreira-Perpinan, M. A.</bib_authors>
-    <bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
-    <bib_volume>29</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>767-776</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Doi">10.1109/TPAMI.2007.1057</bib_extra>
-    <bib_extra key="Issn">0162-8828</bib_extra>
-    <bib_extra key="Keywords">Acceleration;Application software;Clustering algorithms;Clustering methods;Computer vision;Convergence;Fractals;Image converters;Image segmentation;Kernel;Gaussian processes;computer vision;expectation-maximisation algorithm;Gaussian mean-shift algorithm;computer vision;expectation-maximization algorithm;hill-climbing algorithm;image segmentation;image tracking;kernel density estimate;nonparametric clustering method;sublinear convergence;superlinear convergence;EM algorithm;Gaussian mixtures;Mean-shift algorithm;clustering.;kernel density estimators;Algorithms;Artificial Intelligence;Computer Simulation;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Likelihood Functions;Models, Statistical;Normal Distribution;Pattern Recognition, Automated;</bib_extra>
-    <bib_extra key="Month">may </bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>mahout</key>
-    <notes></notes>
-    <bib_type>Manual</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Apache Mahout:: Scalable machine-learning and data-mining library</bib_title>
-    <bib_authors>Foundation, Apache Software</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="Abstract">Apache Mahout’s goal is to build scalable machine learning libraries. With scalable we mean: Scalable to reasonably large data sets. Our core algorithms for clustering, classfication and batch based collaborative filtering are implemented on top of Apache Hadoop using the map/reduce paradigm. However we do not restrict contributions to Hadoop based implementations: Contributions that run on a single node or on a non-Hadoop cluster are welcome as well. The core libraries are highly optimized to allow for good performance also for non-distributed algorithms</bib_extra>
-    <bib_extra key="Bdsk-url-1">http://mahout.apache.org</bib_extra>
-    <bib_extra key="Date-added">2011-03-15 13:39:56 +0100</bib_extra>
-    <bib_extra key="Date-modified">2011-04-29 14:12:11 +0200</bib_extra>
-    <bib_extra key="Description">	Mahout’s goal is to build scalable machine learning libraries. With scalable we mean: Scalable to reasonably large data sets. Our core algorithms for clustering, classfication and batch based collaborative filtering are implemented on top of Apache Hadoop using the map/reduce paradigm. However we do not restrict contributions to Hadoop based implementations: Contributions that run on a single node or on a non-Hadoop cluster are welcome as well. The core libraries are highly optimized to allow for good performance also for non-distributed algorithms. Scalable to support your business case. Mahout is distributed under a commercially friendly Apache Software license. Scalable community. The goal of Mahout is to build a vibrant, responsive, diverse community to facilitate discussions not only on the project itself but also on potential use cases. Come to the mailing lists to find out more.</bib_extra>
-    <bib_extra key="Distribution">Global</bib_extra>
-    <bib_extra key="Keywords">apache, apache hadoop, apache hive, apache incubator, apache lucene, apache solr, apache taste, apache thrift, apache xml, business data mining, cloudbase hadoop, cluster analysis, collaborative filtering, data extraction, data filtering, data framework, data integration, data matching, data mining, data mining algorithms, data mining analysis, data mining data, data mining introduction, data mining pdf, data mining software, data mining sql, data mining techniques, data representation, data set, data visualization, datamining, distributed solr, feature extraction, fuzzy k means, genetic algorithm, hadoop, hadoop cluster, hadoop download, hadoop forum, hadoop gfs, hadoop lucene, hadoop pig latin, hadoop sequence file, hadoop sequencefile, hierarchical clustering, high dimensional, hive hadoop, install solr, introduction to data mining, kmeans, knowledge discovery, learning approach, learning approaches, learning methods, learning techniques, lucene, machine learning, machine translation, mahout apache, mahout taste, map reduce hadoop, mining data, mining methods, naive bayes, natural language processing, open source search engine, open source search engine software, opencms search, org apache lucene, pattern recognition, pattern recognition and machine learning, pig apache, pig hadoop, search algorithms, search engine, solr api, solr faceted, solr open source, solr search engine, solr tika, statistical consulting, statistical data mining, supervised, text mining, time series data, unsupervised, web data mining, zookeeper, zookeeper apache</bib_extra>
-    <bib_extra key="Lastchecked">2011-03-15</bib_extra>
-    <bib_extra key="Month">April</bib_extra>
-    <bib_extra key="Robots">index,follow</bib_extra>
-    <bib_extra key="Url">http://mahout.apache.org</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Liao</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Clustering of time series data–-a survey</bib_title>
-    <bib_authors>Liao, T.  Warren</bib_authors>
-    <bib_journal>Pattern Recognition</bib_journal>
-    <bib_volume>38</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1857-1874</bib_pages>
-    <bib_year>2005</bib_year>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>MIMICII</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Multiparameter Intelligent Monitoring in Intensive Care II (MIMIC-II): A public-access intensive care unit database</bib_title>
-    <bib_authors>Saeed, Mohammed and Villarroel, Mauricio and Reisner, Andrew T. and Clifford, Gari and Lehman, Li-Wei and Moody, George and Heldt, Thomas and Kyaw, Tin H. and Moody, Benjamin and Mark, Roger G.</bib_authors>
-    <bib_journal>Critical Care Medicine</bib_journal>
-    <bib_volume>39</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>952-960</bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="Month">May</bib_extra>
-    <bib_extra key="Url">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124312/</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Hofmann</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Unsupervised Learning by Probabilistic Latent Semantic Analysis</bib_title>
-    <bib_authors>Hofmann, Thomas</bib_authors>
-    <bib_journal>Mach. Learn.</bib_journal>
-    <bib_volume>42</bib_volume>
-    <bib_number>1-2</bib_number>
-    <bib_pages>177-196</bib_pages>
-    <bib_year>2001</bib_year>
-    <bib_extra key="Acmid">599631</bib_extra>
-    <bib_extra key="Address">Hingham, MA, USA</bib_extra>
-    <bib_extra key="Doi">10.1023/A:1007617005950</bib_extra>
-    <bib_extra key="Issn">0885-6125</bib_extra>
-    <bib_extra key="Issue_date">January-February 2001</bib_extra>
-    <bib_extra key="Keywords">EM algorithm, dimension reduction, information retrieval, language modeling, latent class models, mixture models, natural language processing, unsupervised learning</bib_extra>
-    <bib_extra key="Month">jan</bib_extra>
-    <bib_extra key="Numpages">20</bib_extra>
-    <bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1023/A:1007617005950</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Yang</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Temporal Data Clustering via Weighted Clustering Ensemble with Different Representations</bib_title>
-    <bib_authors>Yang, Yun and Chen, Ke</bib_authors>
-    <bib_journal>Knowledge and Data Engineering, IEEE Transactions on</bib_journal>
-    <bib_volume>23</bib_volume>
-    <bib_number>2</bib_number>
-    <bib_pages>307-320</bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="Doi">10.1109/TKDE.2010.112</bib_extra>
-    <bib_extra key="Issn">1041-4347</bib_extra>
-    <bib_extra key="Keywords">Algorithm design and analysis;Clustering algorithms;Context modeling;Data mining;Data processing;Partitioning algorithms;Unsupervised learning;data structures;formal verification;pattern clustering;temporal databases;time series;benchmark time series;clustering analysis;data set;formal analysis;motion trajectory;temporal data clustering;temporal data representations;time-series data stream;underpinning techniques;weighted clustering;Temporal data clustering;clustering ensemble;different representations;model selection.;weighted consensus function;</bib_extra>
-    <bib_extra key="Month">feb. </bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Fajie</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A Variant of Adaptive Mean Shift-Based Clustering</bib_title>
-    <bib_authors>Li, Fajie and Klette, Reinhard</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1002-1009</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
-    <bib_extra key="BookTitle">ICONIP (1)</bib_extra>
-    <bib_extra key="Crossref">DBLP:conf/iconip/2009-1</bib_extra>
-    <bib_extra key="Ee">http://dx.doi.org/10.1007/978-3-642-02490-0_122</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Arias2013</key>
-    <notes></notes>
-    <bib_type>InCollection</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Advances in Intelligent Systems and Computing: Application to Atmospheric Pollutants</bib_title>
-    <bib_authors>Arias, Marta and Troncoso, Alicia and Riquelme, JoséC.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume>188</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>417-426</bib_pages>
-    <bib_year>2013</bib_year>
-    <bib_extra key="BookTitle">Soft Computing Models in Industrial and Environmental Applications</bib_extra>
-    <bib_extra key="Chapter">A Kernel for Time Series Classification</bib_extra>
-    <bib_extra key="Doi">10.1007/978-3-642-32922-7_43</bib_extra>
-    <bib_extra key="Editor">Snášel, Václav and Abraham, Ajith and Corchado, Emilio S.</bib_extra>
-    <bib_extra key="Isbn">978-3-642-32921-0</bib_extra>
-    <bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1007/978-3-642-32922-7_43</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Sivaramakrishnan</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Kernels for Large Margin Time-Series Classification</bib_title>
-    <bib_authors>Sivaramakrishnan, K. R. and Karthik, K. and Bhattacharyya, C.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>2746-2751</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="BookTitle">Neural Networks, 2007. IJCNN 2007. International Joint Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
-    <bib_extra key="Issn">1098-7576</bib_extra>
-    <bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
-    <bib_extra key="Month">aug.</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>deident</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Identifying personal genomes by surname inference</bib_title>
-    <bib_authors>Gymrek M, McGuire AL, Golan D, Halperin E. and Y, Erlich</bib_authors>
-    <bib_journal>Science</bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number>339</bib_number>
-    <bib_pages>321-324</bib_pages>
-    <bib_year>2013</bib_year>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>deanon1</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A Brief Survey on De-anonymization Attacks in Online Social Networks</bib_title>
-    <bib_authors>Ding, Xuan and Zhang, Lan and Wan, Zhiguo and Gu, Ming</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>611-615</bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="BookTitle">Computational Aspects of Social Networks (CASoN), 2010 International Conference on</bib_extra>
-    <bib_extra key="Doi">10.1109/CASoN.2010.139</bib_extra>
-    <bib_extra key="Keywords">data privacy;social networking (online);anonymization techniques;deanonymization attacks;feature matching;online social networks;privacy preservation;Context;Data privacy;History;Knowledge engineering;Privacy;Security;Social network services;De-anonymization;Online Social Network;Privacy</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>deanon2</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Robust De-anonymization of Large Sparse Datasets</bib_title>
-    <bib_authors>Narayanan, A. and Shmatikov, V.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>111-125</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="BookTitle">Security and Privacy, 2008. SP 2008. IEEE Symposium on</bib_extra>
-    <bib_extra key="Doi">10.1109/SP.2008.33</bib_extra>
-    <bib_extra key="Issn">1081-6011</bib_extra>
-    <bib_extra key="Keywords">Internet;data mining;data privacy;very large databases;Internet movie database;Netflix prize dataset;data mining;large sparse dataset;online movie rental service;privacy risk;statistical de-anonymization attack;DVD;Data mining;Data privacy;Data security;Internet;Motion pictures;Probability;Robustness;Tail;Transaction databases;Anonymity;Attack;Privacy</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Azzouzi</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Analysing time series structure with hidden Markov models</bib_title>
-    <bib_authors>Azzouzi, M. and Nabney, I. T.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>402-408</bib_pages>
-    <bib_year>1998</bib_year>
-    <bib_extra key="BookTitle">Neural Networks for Signal Processing VIII, 1998. Proceedings of the 1998 IEEE Signal Processing Society Workshop</bib_extra>
-    <bib_extra key="Doi">10.1109/NNSP.1998.710670</bib_extra>
-    <bib_extra key="Issn">1089-3555</bib_extra>
-    <bib_extra key="Keywords">hidden Markov models;pattern recognition;time series;hidden Markov models;nonlinear nonstationary environment;oil drilling process;synthetic data;time series structure;Character generation;Data mining;Fluctuations;Hidden Markov models;Monitoring;Oil drilling;Petroleum;Random variables;Time series analysis;Tin</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Dasha</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Mining for similarities in time series data using wavelet-based feature vectors and neural networks </bib_title>
-    <bib_authors>Dash, P. K. and Nayak, Maya and Senapati, M. R. and Lee, I. W. C.</bib_authors>
-    <bib_journal>Engineering Applications of Artificial Intelligence </bib_journal>
-    <bib_volume>20</bib_volume>
-    <bib_number>2</bib_number>
-    <bib_pages>185-201</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="Doi">http://dx.doi.org/10.1016/j.engappai.2006.06.018</bib_extra>
-    <bib_extra key="Issn">0952-1976</bib_extra>
-    <bib_extra key="Keywords">Wavelet Transform; S-transform; Time series; Similarity detection; Classification; Knowledge discovery; Data mining </bib_extra>
-    <bib_extra key="Note">&lt;ce:title&gt;Special Issue on Applications of Artificial Intelligence in Process Systems Engineering&lt;/ce:title&gt; </bib_extra>
-    <bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0952197606001187</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Pratt</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>SEARCH FOR PATTERNS IN COMPRESSED TIME SERIES</bib_title>
-    <bib_authors>PRATT, KEVIN B. and FINK, EUGENE</bib_authors>
-    <bib_journal>International Journal of Image and Graphics</bib_journal>
-    <bib_volume>02</bib_volume>
-    <bib_number>01</bib_number>
-    <bib_pages>89-106</bib_pages>
-    <bib_year>2002</bib_year>
-    <bib_extra key="Doi">10.1142/S0219467802000482</bib_extra>
-    <bib_extra key="Eprint">http://www.worldscientific.com/doi/pdf/10.1142/S0219467802000482</bib_extra>
-    <bib_extra key="Url">http://www.worldscientific.com/doi/abs/10.1142/S0219467802000482</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Korn</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Efficiently supporting ad hoc queries in large datasets of time sequences</bib_title>
-    <bib_authors>Korn, Flip and Jagadish, H. V. and Faloutsos, Christos</bib_authors>
-    <bib_journal>SIGMOD Rec.</bib_journal>
-    <bib_volume>26</bib_volume>
-    <bib_number>2</bib_number>
-    <bib_pages>289-300</bib_pages>
-    <bib_year>1997</bib_year>
-    <bib_extra key="Acmid">253332</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">10.1145/253262.253332</bib_extra>
-    <bib_extra key="Issn">0163-5808</bib_extra>
-    <bib_extra key="Issue_date">June 1997</bib_extra>
-    <bib_extra key="Month">jun</bib_extra>
-    <bib_extra key="Numpages">12</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/253262.253332</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Wu</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A comparison of DFT and DWT based similarity search in time-series databases</bib_title>
-    <bib_authors>Wu, Yi-Leh and Agrawal, Divyakant and El Abbadi, Amr</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>488-495</bib_pages>
-    <bib_year>2000</bib_year>
-    <bib_extra key="Acmid">354857</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the ninth international conference on Information and knowledge management</bib_extra>
-    <bib_extra key="Doi">10.1145/354756.354857</bib_extra>
-    <bib_extra key="Isbn">1-58113-320-0</bib_extra>
-    <bib_extra key="Keywords">fourier transform, smoothing, time-series analysis, time-series database, time-series matching, wavelet transform</bib_extra>
-    <bib_extra key="Location">McLean, Virginia, USA</bib_extra>
-    <bib_extra key="Numpages">8</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Series">CIKM ’00</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/354756.354857</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Fu</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>A review on time series data mining</bib_title>
-    <bib_authors>Fu, Tak-chung</bib_authors>
-    <bib_journal>Eng. Appl. Artif. Intell.</bib_journal>
-    <bib_volume>24</bib_volume>
-    <bib_number>1</bib_number>
-    <bib_pages>164-181</bib_pages>
-    <bib_year>2011</bib_year>
-    <bib_extra key="Acmid">1897378</bib_extra>
-    <bib_extra key="Address">Tarrytown, NY, USA</bib_extra>
-    <bib_extra key="Doi">10.1016/j.engappai.2010.09.007</bib_extra>
-    <bib_extra key="Issn">0952-1976</bib_extra>
-    <bib_extra key="Issue_date">February, 2011</bib_extra>
-    <bib_extra key="Keywords">Representation, Segmentation, Similarity measure, Time series data mining, Visualization</bib_extra>
-    <bib_extra key="Month">feb</bib_extra>
-    <bib_extra key="Numpages">18</bib_extra>
-    <bib_extra key="Publisher">Pergamon Press, Inc.</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1016/j.engappai.2010.09.007</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>vempala</key>
-    <notes></notes>
-    <bib_type>Book</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The Random Projection Method</bib_title>
-    <bib_authors>Vempala, S. S.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year>2004</bib_year>
-    <bib_extra key="Isbn">9780821871072</bib_extra>
-    <bib_extra key="Publisher">American Mathematical Society</bib_extra>
-    <bib_extra key="Series">DIMACS Series</bib_extra>
-    <bib_extra key="Url">http://books.google.com/books?id=L5L2J0UEY4QC</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>fernrandom</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Random projection for high dimensional data clustering: A cluster ensemble approach</bib_title>
-    <bib_authors>Fern, Xiaoli Zhang and Brodley, Carla E.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year></bib_year>
-    <bib_extra key="BookTitle"></bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Urruty2007</key>
-    <notes></notes>
-    <bib_type>InCollection</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Lecture Notes in Computer Science</bib_title>
-    <bib_authors>Urruty, Thierry and Djeraba, Chabane and Simovici, DanA.</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume>4597</bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>107-119</bib_pages>
-    <bib_year>2007</bib_year>
-    <bib_extra key="BookTitle">Advances in Data Mining. Theoretical Aspects and Applications</bib_extra>
-    <bib_extra key="Chapter">Clustering by Random Projections</bib_extra>
-    <bib_extra key="Doi">10.1007/978-3-540-73435-2_9</bib_extra>
-    <bib_extra key="Editor">Perner, Petra</bib_extra>
-    <bib_extra key="Isbn">978-3-540-73434-5</bib_extra>
-    <bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1007/978-3-540-73435-2_9</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Dasgupta2000</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Experiments with random projection</bib_title>
-    <bib_authors>Dasgupta, Sanjoy</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>143-151</bib_pages>
-    <bib_year>2000</bib_year>
-    <bib_extra key="Acmid">2073964</bib_extra>
-    <bib_extra key="Address">San Francisco, CA, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the Sixteenth conference on Uncertainty in artificial intelligence</bib_extra>
-    <bib_extra key="Isbn">1-55860-709-9</bib_extra>
-    <bib_extra key="Location">Stanford, California</bib_extra>
-    <bib_extra key="Numpages">9</bib_extra>
-    <bib_extra key="Publisher">Morgan Kaufmann Publishers Inc.</bib_extra>
-    <bib_extra key="Series">UAI’00</bib_extra>
-    <bib_extra key="Url">http://dl.acm.org/citation.cfm?id=2073946.2073964</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Zhang2003</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Clustering Incomplete Data Using Kernel-Based Fuzzy C-means Algorithm</bib_title>
-    <bib_authors>Zhang, Dao-Qiang and Chen, Song-Can</bib_authors>
-    <bib_journal>Neural Processing Letters</bib_journal>
-    <bib_volume>18</bib_volume>
-    <bib_number>3</bib_number>
-    <bib_pages>155-162</bib_pages>
-    <bib_year>2003</bib_year>
-    <bib_extra key="Doi">10.1023/B:NEPL.0000011135.19145.1b</bib_extra>
-    <bib_extra key="Issn">1370-4621</bib_extra>
-    <bib_extra key="Keywords">clustering; fuzzy c-means; incomplete data; Kernel methods</bib_extra>
-    <bib_extra key="Language">English</bib_extra>
-    <bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1023/B%3ANEPL.0000011135.19145.1b</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Hathaway</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Fuzzy c-means clustering of incomplete data</bib_title>
-    <bib_authors>Hathaway, R. J. and Bezdek, J. C.</bib_authors>
-    <bib_journal>Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on</bib_journal>
-    <bib_volume>31</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>735-744</bib_pages>
-    <bib_year>2001</bib_year>
-    <bib_extra key="Doi">10.1109/3477.956035</bib_extra>
-    <bib_extra key="Issn">1083-4419</bib_extra>
-    <bib_extra key="Keywords">fuzzy logic;pattern clustering;convergence properties;fuzzy c-means clustering;incomplete data;real s-dimensional data set;Clustering algorithms;Computer science;Convergence of numerical methods;Fuzzy logic;Mathematics;Maximum likelihood estimation;Parameter estimation;Pattern recognition;Performance analysis;Testing</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Bezdek</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>FCM: The fuzzy c-means clustering algorithm </bib_title>
-    <bib_authors>Bezdek, James C. and Ehrlich, Robert and Full, William</bib_authors>
-    <bib_journal>Computers &amp; Geosciences </bib_journal>
-    <bib_volume>10</bib_volume>
-    <bib_number>2–3</bib_number>
-    <bib_pages>191-203</bib_pages>
-    <bib_year>1984</bib_year>
-    <bib_extra key="Doi">http://dx.doi.org/10.1016/0098-3004(84)90020-7</bib_extra>
-    <bib_extra key="Issn">0098-3004</bib_extra>
-    <bib_extra key="Keywords">Cluster analysis; Cluster validity; Fuzzy clustering; Fuzzy QMODEL; Least-squared errors </bib_extra>
-    <bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/0098300484900207</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Ladner</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Parallel Prefix Computation</bib_title>
-    <bib_authors>Ladner, Richard E. and Fischer, Michael J.</bib_authors>
-    <bib_journal>J. ACM</bib_journal>
-    <bib_volume>27</bib_volume>
-    <bib_number>4</bib_number>
-    <bib_pages>831-838</bib_pages>
-    <bib_year>1980</bib_year>
-    <bib_extra key="Acmid">322232</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">10.1145/322217.322232</bib_extra>
-    <bib_extra key="Issn">0004-5411</bib_extra>
-    <bib_extra key="Issue_date">Oct. 1980</bib_extra>
-    <bib_extra key="Month">oct</bib_extra>
-    <bib_extra key="Numpages">8</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/322217.322232</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>Vardy95</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Even more efficient bounded-distance decoding of the hexacode, the Golay code, and the Leech lattice</bib_title>
-    <bib_authors>Vardy, A.</bib_authors>
-    <bib_journal>Information Theory, IEEE Transactions on</bib_journal>
-    <bib_volume>41</bib_volume>
-    <bib_number>5</bib_number>
-    <bib_pages>1495-1499</bib_pages>
-    <bib_year>1995</bib_year>
-    <bib_extra key="Doi">10.1109/18.412695</bib_extra>
-    <bib_extra key="Issn">0018-9448</bib_extra>
-    <bib_extra key="Keywords">Golay codes;computational complexity;decoding;error correction codes;lattice theory;Golay code;Leech lattice;algorithm;bounded-distance decoding;decoding complexity;error-correction radius;hexacode;Convolutional codes;Error correction;Error correction codes;Lattices;Maximum likelihood decoding;Modems;Sun;Very large scale integration</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>chowdhury</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>Performance and Scalability of Broadcast in Spark</bib_title>
-    <bib_authors>Chowdhury, Mosharaf and Zaharia, Matei and Stoica, Ion</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages></bib_pages>
-    <bib_year></bib_year>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>hadoop</key>
-    <notes></notes>
-    <bib_type>InProceedings</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>The Hadoop Distributed File System</bib_title>
-    <bib_authors>Shvachko, Konstantin and Kuang, Hairong and Radia, Sanjay and Chansler, Robert</bib_authors>
-    <bib_journal></bib_journal>
-    <bib_volume></bib_volume>
-    <bib_number></bib_number>
-    <bib_pages>1-10</bib_pages>
-    <bib_year>2010</bib_year>
-    <bib_extra key="Acmid">1914427</bib_extra>
-    <bib_extra key="Address">Washington, DC, USA</bib_extra>
-    <bib_extra key="BookTitle">Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST)</bib_extra>
-    <bib_extra key="Doi">10.1109/MSST.2010.5496972</bib_extra>
-    <bib_extra key="Isbn">978-1-4244-7152-2</bib_extra>
-    <bib_extra key="Numpages">10</bib_extra>
-    <bib_extra key="Publisher">IEEE Computer Society</bib_extra>
-    <bib_extra key="Series">MSST ’10</bib_extra>
-    <bib_extra key="Url">http://dx.doi.org/10.1109/MSST.2010.5496972</bib_extra>
-  </doc>
-  <doc>
-    <filename></filename>
-    <relative_filename></relative_filename>
-    <key>mapreduce</key>
-    <notes></notes>
-    <bib_type>Article</bib_type>
-    <bib_doi></bib_doi>
-    <bib_title>MapReduce: Simplified Data Processing on Large Clusters</bib_title>
-    <bib_authors>Dean, Jeffrey and Ghemawat, Sanjay</bib_authors>
-    <bib_journal>Commun. ACM</bib_journal>
-    <bib_volume>51</bib_volume>
-    <bib_number>1</bib_number>
-    <bib_pages>107-113</bib_pages>
-    <bib_year>2008</bib_year>
-    <bib_extra key="Acmid">1327492</bib_extra>
-    <bib_extra key="Address">New York, NY, USA</bib_extra>
-    <bib_extra key="Doi">10.1145/1327452.1327492</bib_extra>
-    <bib_extra key="Issn">0001-0782</bib_extra>
-    <bib_extra key="Issue_date">January 2008</bib_extra>
-    <bib_extra key="Month">jan</bib_extra>
-    <bib_extra key="Numpages">7</bib_extra>
-    <bib_extra key="Publisher">ACM</bib_extra>
-    <bib_extra key="Url">http://doi.acm.org/10.1145/1327452.1327492</bib_extra>
-  </doc>
-</doclist>
+	<manage_target braces="false" utf8="false"></manage_target>
+	<library_folder monitor="false"></library_folder>
+	<taglist/>
+	<doclist>
+		<doc>
+			<filename></filename>
+			<key>Gollapudi</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The power of two min-hashes for similarity search among hierarchical data objects</bib_title>
+			<bib_authors>Gollapudi, Sreenivas and Panigrahy, Rina</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>211-220</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Acmid">1376946</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/1376916.1376946</bib_extra>
+			<bib_extra key="Isbn">978-1-60558-152-1</bib_extra>
+			<bib_extra key="Keywords">earth movers distance, locality sensitive hashing, similarity</bib_extra>
+			<bib_extra key="Location">Vancouver, Canada</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">PODS ’08</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1376916.1376946</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Vardy</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Maximum likelihood decoding of the Leech lattice</bib_title>
+			<bib_authors>Vardy, A. and Be’ery, Y.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>39</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>1435-1444</bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Doi">10.1109/18.243466</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">(6,3,4) quaternary code;Leech lattice;binary Golay code;cosets;hexacode;lattice partitions;maximum likelihood decoding;decoding;lattice theory and statistics;maximum likelihood estimation;</bib_extra>
+			<bib_extra key="Month">jul</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lowe</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Object recognition from local scale-invariant features</bib_title>
+			<bib_authors>Lowe, D. G.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>2</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1150-1157</bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="BookTitle">Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/ICCV.1999.790410</bib_extra>
+			<bib_extra key="Keywords">3D projection;blurred image gradients;candidate object matches;cluttered partially occluded images;computation time;inferior temporal cortex;local geometric deformations;local image features;local scale-invariant features;low residual least squares solution;multiple orientation planes;nearest neighbor indexing method;primate vision;robust object recognition;staged filtering approach;unknown model parameters;computational geometry;feature extraction;image matching;least squares approximations;object recognition;</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>cuda</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>NVIDIA CUDA C Programming Guide</bib_title>
+			<bib_authors>Corporation, N. V. I. D. I. A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Added-at">2011-05-06T13:22:35.000+0200</bib_extra>
+			<bib_extra key="Biburl">http://www.bibsonomy.org/bibtex/2e90a6474d85eac083c921cf5be29f6ef/toevanen</bib_extra>
+			<bib_extra key="Interhash">b29ebbf94430d6d1720b5562b86f6a32</bib_extra>
+			<bib_extra key="Intrahash">e90a6474d85eac083c921cf5be29f6ef</bib_extra>
+			<bib_extra key="Keywords">CUDA</bib_extra>
+			<bib_extra key="Note">Version 3.2</bib_extra>
+			<bib_extra key="Timestamp">2011-05-06T13:22:35.000+0200</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sun</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Leech lattice, the octacode, and decoding algorithms</bib_title>
+			<bib_authors>Sun, Feng-Wen and van Tilborg, H. C. A.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>41</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>1097-1106</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Doi">10.1109/18.391252</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">Golay code;Leech lattice;bounded distance decoding;bounded-distance decoder;bounded-distance decoders;coset decoding;decoding algorithms;effective error coefficient;glue code;holy construction;lattice partition chain;linear code;multilevel representation;octacode;permuted Turyn construction;self dual code;subcode;Golay codes;decoding;dual codes;linear codes;</bib_extra>
+			<bib_extra key="Month">jul</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>calderbank</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The art of signaling: fifty years of coding theory</bib_title>
+			<bib_authors>Calderbank, A. R.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>44</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>2561-2595</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Doi">10.1109/18.720549</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">Euclidean space;Gaussian channel;Gilbert-Varshamov bound;Hamming space;algebraic theory;algebraic-geometry codes;block codes;channel capacity;coding theory;data networking;error probability;error-correcting codes;fundamental limits;history;noisy channels;polynomial time;quantum information theory;reliable communication;review;signaling;wireless communication;algebraic geometric codes;block codes;channel capacity;decoding;encoding;error correction codes;history;reviews;telecommunication signalling;</bib_extra>
+			<bib_extra key="Month">oct</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Amrani</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Leech lattice and the Golay code: bounded-distance decoding and multilevel constructions</bib_title>
+			<bib_authors>Amrani, O. and Be’ery, Y. and Vardy, A. and Sun, Feng-Wen and van Tilborg, H. C. A.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>40</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>1030-1043</bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Doi">10.1109/18.335970</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">AWGN channel;BER;Leech lattice;binary Golay code;bounded-distance decoder;bounded-distance decoding;coding-gain;computer simulation;decoder complexity;decoding algorithms;error-correction radius;maximum-likelihood decoder;multilevel constructions;decoding;error correction codes;maximum likelihood estimation;random noise;telecommunication channels;white noise;</bib_extra>
+			<bib_extra key="Month">jul</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lowe04</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Distinctive Image Features from Scale-Invariant Keypoints</bib_title>
+			<bib_authors>Lowe, David G.</bib_authors>
+			<bib_journal>Int. J. Comput. Vision</bib_journal>
+			<bib_volume>60</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>91-110</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Acmid">996342</bib_extra>
+			<bib_extra key="Address">Hingham, MA, USA</bib_extra>
+			<bib_extra key="Doi">10.1023/B:VISI.0000029664.99615.94</bib_extra>
+			<bib_extra key="Issn">0920-5691</bib_extra>
+			<bib_extra key="Keywords">image matching, invariant features, object recognition, scale invariance</bib_extra>
+			<bib_extra key="Month">November</bib_extra>
+			<bib_extra key="Numpages">20</bib_extra>
+			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=993451.996342</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Andoni</key>
+			<notes></notes>
+			<bib_type>PhdThesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Nearest Neighbor Search: the Old, the New, and the Impossible</bib_title>
+			<bib_authors>Andoni, Alexandr</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Month">September</bib_extra>
+			<bib_extra key="School">MASSACHUSETTS INSTITUTE OF TECHNOLOGY</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>panigrahy</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Entropy based nearest neighbor search in high dimensions</bib_title>
+			<bib_authors>Panigrahy, Rina</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1186-1195</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Acmid">1109688</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/1109557.1109688</bib_extra>
+			<bib_extra key="Isbn">0-89871-605-5</bib_extra>
+			<bib_extra key="Location">Miami, Florida</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">SODA ’06</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1109557.1109688</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tarokh1</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Trellis complexity versus the coding gain of lattices. I</bib_title>
+			<bib_authors>Tarokh, V. and Blake, I. F.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>42</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>1796-1807</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Doi">10.1109/18.556675</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
+			<bib_extra key="Month">nov</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Tarokh2</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Trellis complexity versus the coding gain of lattices. I</bib_title>
+			<bib_authors>Tarokh, V. and Blake, I. F.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>42</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>1796-1807</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Doi">10.1109/18.556675</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
+			<bib_extra key="Month">nov</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sun2</key>
+			<notes></notes>
+			<bib_type>PhdThesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Decoding Techniques and Modulations Scheme for Band-Limited Communication Channels</bib_title>
+			<bib_authors>Sun, Feng-wen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Month">February</bib_extra>
+			<bib_extra key="School">Technical University of Eidenhoven</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Andoni08</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Near-optimal hashing algorithms for approximate nearest neighbor in high dimensions</bib_title>
+			<bib_authors>Andoni, Alexandr and Indyk, Piotr</bib_authors>
+			<bib_journal>Commun. ACM</bib_journal>
+			<bib_volume>51</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>117-122</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Acmid">1327494</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/1327452.1327494</bib_extra>
+			<bib_extra key="Issn">0001-0782</bib_extra>
+			<bib_extra key="Issue_date">January 2008</bib_extra>
+			<bib_extra key="Month">January</bib_extra>
+			<bib_extra key="Numpages">6</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1327452.1327494</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>caltech</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Caltech-256 Object Category Dataset</bib_title>
+			<bib_authors>Griffin, G. and Holub, A. and Perona, P.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>7694</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Publisher">California Institute of Technology</bib_extra>
+			<bib_extra key="Url">http://authors.library.caltech.edu/7694</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Be'ery</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Efficient bounded-distance decoding of the hexacode and associated decoders for the Leech lattice and the Golay code</bib_title>
+			<bib_authors>Amrani, O. and Beery, Y.</bib_authors>
+			<bib_journal>Communications, IEEE Transactions on</bib_journal>
+			<bib_volume>44</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>534-537</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Doi">10.1109/26.494294</bib_extra>
+			<bib_extra key="Issn">0090-6778</bib_extra>
+			<bib_extra key="Keywords">Golay code;Leech lattice;bounded-distance decoding;decoders;efficient bounded-distance decoding;hexacode;minimum Euclidean distance;near-optimal performance;quaternary code;real-number operations;simulation;soft-decision decoding algorithms;trellis codes;Golay codes;codes;decoding;</bib_extra>
+			<bib_extra key="Month">may</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Georgescu</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mean shift based clustering in high dimensions: a texture classification example</bib_title>
+			<bib_authors>Georgescu, B. and Shimshoni, I. and Meer, P.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>456-463</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="BookTitle">Computer Vision, 2003. Proceedings. Ninth IEEE International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/ICCV.2003.1238382</bib_extra>
+			<bib_extra key="Keywords">computer vision;feature space analysis;mean shift based clustering;texture classification;computer vision;feature extraction;image classification;image texture;pattern clustering;</bib_extra>
+			<bib_extra key="Month">oct.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>meanShift</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mean shift is a bound optimization</bib_title>
+			<bib_authors>Fashing, M. and Tomasi, C.</bib_authors>
+			<bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
+			<bib_volume>27</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>471-474</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Doi">10.1109/TPAMI.2005.59</bib_extra>
+			<bib_extra key="Issn">0162-8828</bib_extra>
+			<bib_extra key="Keywords">Newton method;bound optimization;gradient methods;mean shift procedure;piecewise constant kernels;quadratic bound maximization;Newton method;gradient methods;quadratic programming;Algorithms;Artificial Intelligence;Cluster Analysis;Computer Graphics;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Numerical Analysis, Computer-Assisted;Pattern Recognition, Automated;Sample Size;Signal Processing, Computer-Assisted;</bib_extra>
+			<bib_extra key="Month">march </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Andoni06</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions</bib_title>
+			<bib_authors>Andoni, Alexandr and Indyk, Piotr</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>459-468</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="BookTitle">Foundations of Computer Science, 2006. FOCS ’06. 47th Annual IEEE Symposium on</bib_extra>
+			<bib_extra key="Doi">10.1109/FOCS.2006.49</bib_extra>
+			<bib_extra key="Issn">0272-5428</bib_extra>
+			<bib_extra key="Keywords">Leech lattice;bounded-distance decoder;c-approximate nearest neighbor;d-dimensional Euclidean space;near-optimal hashing algorithms;computational complexity;file organisation;</bib_extra>
+			<bib_extra key="Month">oct. </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jegou1</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Locality sensitive hashing: A comparison of hash function types and querying mechanisms</bib_title>
+			<bib_authors>Paulevé, Loïc and Jégou, Hervé and Amsaleg, Laurent</bib_authors>
+			<bib_journal>Pattern Recognition Letters</bib_journal>
+			<bib_volume>31</bib_volume>
+			<bib_number>11</bib_number>
+			<bib_pages>1348-1358</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Doi">10.1016/j.patrec.2010.04.004</bib_extra>
+			<bib_extra key="Issn">0167-8655</bib_extra>
+			<bib_extra key="Keywords">Search methods; Image databases; Quantization; Database searching; Information retrieval; LSH</bib_extra>
+			<bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0167865510001169</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Leech</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Notes on sphere packings</bib_title>
+			<bib_authors>Leech, John</bib_authors>
+			<bib_journal>Canadian Journal of Mathematics</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1967</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Forney</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A bounded-distance decoding algorithm for the Leech lattice, with generalizations</bib_title>
+			<bib_authors>Forney, G.  D.  ,.  Jr.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>35</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>906-909</bib_pages>
+			<bib_year>1989</bib_year>
+			<bib_extra key="Doi">10.1109/18.32173</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">Leech lattice;binary code formulas;bounded-distance decoding algorithm;construction B lattices;effective error coefficient;effective minimum distance;multistage algorithms;decoding;</bib_extra>
+			<bib_extra key="Month">jul</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jegou</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Query-adaptive locality sensitive hashing</bib_title>
+			<bib_authors>Jégou, H.  ,. Amsaleg, L.  ,. Schmid, C.  ,. Gros, P.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Booktitle">Internat. Conf. Acoustics, Speech, and Signal Processing 2008</bib_extra>
+			<bib_extra key="Url">In International Conference on Acoustics, Speech, and Signal Processing. IEEE</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Samet</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Foundations of Multidimensional and Metric Data Structures</bib_title>
+			<bib_authors>Samet, Hanan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Publisher">Morgan Kaufmann</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>SPLAG</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Sphere Packings Lattices and Groups Third Edition</bib_title>
+			<bib_authors>Conway, John and Sloane, Neil</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Address">New York</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Qin</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Multi-probe LSH: efficient indexing for high-dimensional similarity search</bib_title>
+			<bib_authors>Lv, Qin and Josephson, William and Wang, Zhe and Charikar, Moses and Li, Kai</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>950-961</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Acmid">1325958</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 33rd international conference on Very large data bases</bib_extra>
+			<bib_extra key="Isbn">978-1-59593-649-3</bib_extra>
+			<bib_extra key="Location">Vienna, Austria</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">VLDB Endowment</bib_extra>
+			<bib_extra key="Series">VLDB ’07</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1325851.1325958</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Har-Peled</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A replacement for Voronoi diagrams of near linear size</bib_title>
+			<bib_authors>Har-Peled, S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>94-103</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="BookTitle">Foundations of Computer Science, 2001. Proceedings. 42nd IEEE Symposium on</bib_extra>
+			<bib_extra key="Doi">10.1109/SFCS.2001.959884</bib_extra>
+			<bib_extra key="Issn"> </bib_extra>
+			<bib_extra key="Keywords"> Voronoi diagram replacement; complexity; distance function; geometric computing; near linear size Voronoi diagrams; space decomposition; standard Voronoi diagram; epsi;-approximation; computational complexity; computational geometry; set theory;</bib_extra>
+			<bib_extra key="Month">oct.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Forney05</key>
+			<notes></notes>
+			<bib_type>Unpublished</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Chapter 14: Introduction to lattice and trellis codes</bib_title>
+			<bib_authors>Forney, David</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Note">Lecture: Principles of Digital Communication</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Weber</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces</bib_title>
+			<bib_authors>Weber, Roger and Schek, Hans-Jörg and Blott, Stephen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>194-205</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Acmid">671192</bib_extra>
+			<bib_extra key="Address">San Francisco, CA, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 24rd International Conference on Very Large Data Bases</bib_extra>
+			<bib_extra key="Isbn">1-55860-566-5</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">Morgan Kaufmann Publishers Inc.</bib_extra>
+			<bib_extra key="Series">VLDB ’98</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=645924.671192</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Indyk</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Approximate nearest neighbors: towards removing the curse of dimensionality</bib_title>
+			<bib_authors>Indyk, Piotr and Motwani, Rajeev</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>604-613</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Acmid">276876</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the thirtieth annual ACM symposium on Theory of computing</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/276698.276876</bib_extra>
+			<bib_extra key="Isbn">0-89791-962-9</bib_extra>
+			<bib_extra key="Location">Dallas, Texas, United States</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">STOC ’98</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/276698.276876</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Datar</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Locality-sensitive hashing scheme based on p-stable distributions</bib_title>
+			<bib_authors>Datar, Mayur and Immorlica, Nicole and Indyk, Piotr and Mirrokni, Vahab S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>253-262</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Acmid">997857</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the twentieth annual symposium on Computational geometry</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/997817.997857</bib_extra>
+			<bib_extra key="Isbn">1-58113-885-7</bib_extra>
+			<bib_extra key="Keywords">p-stable distributions, approximate nearest neighbor, locally sensitive hashing, sublinear algorithm</bib_extra>
+			<bib_extra key="Location">Brooklyn, New York, USA</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">SCG ’04</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/997817.997857</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pless</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fundamentals of Error-Correcting Codes</bib_title>
+			<bib_authors>Huffman W. , Pless V.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Edition">1</bib_extra>
+			<bib_extra key="Publisher">Cambridge University Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wicker</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Error control systems for digital communication and storage</bib_title>
+			<bib_authors>Wicker, Stephen B.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Address">Upper Saddle River, NJ, USA</bib_extra>
+			<bib_extra key="Isbn">0-13-200809-2</bib_extra>
+			<bib_extra key="Publisher">Prentice-Hall, Inc.</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Woelfel</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Asymmetric balanced allocation with simple hash functions</bib_title>
+			<bib_authors>Woelfel, Philipp</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>424-433</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Acmid">1109605</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/1109557.1109605</bib_extra>
+			<bib_extra key="Isbn">0-89871-605-5</bib_extra>
+			<bib_extra key="Location">Miami, Florida</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">SODA ’06</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1109557.1109605</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ostlin</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Uniform hashing in constant time and linear space</bib_title>
+			<bib_authors>Ostlin, Anna and Pagh, Rasmus</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>622-628</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Acmid">780633</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the thirty-fifth annual ACM symposium on Theory of computing</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/780542.780633</bib_extra>
+			<bib_extra key="Isbn">1-58113-674-9</bib_extra>
+			<bib_extra key="Keywords">data structures, hash function, uniform hashing</bib_extra>
+			<bib_extra key="Location">San Diego, CA, USA</bib_extra>
+			<bib_extra key="Numpages">7</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">STOC ’03</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/780542.780633</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Cohn</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Optimality and Uniqueness of the Leech Lattice Among Lattices</bib_title>
+			<bib_authors>Cohn, Henry and Kumar, Abhinav</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Publisher">arXiv:math.MG/04 03263v1 16</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>FLANN</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration</bib_title>
+			<bib_authors>Muja, Marius and Lowe, David G.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>331-340</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="BookTitle">International Conference on Computer Vision Theory and Application VISSAPP’09)</bib_extra>
+			<bib_extra key="Publisher">INSTICC Press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>imagemagick</key>
+			<notes></notes>
+			<bib_type>Manual</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ImageMagick v6 Examples – Reference Index</bib_title>
+			<bib_authors>Thyssen, Anthony</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Organisation">Imagemagick</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Curtis</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A new combinatorial approach to M24</bib_title>
+			<bib_authors>Curtis, R. T.</bib_authors>
+			<bib_journal>Mathematical Proceedings of the Cambridge Philosophical Society</bib_journal>
+			<bib_volume>79</bib_volume>
+			<bib_number>01</bib_number>
+			<bib_pages>25-42</bib_pages>
+			<bib_year>1976</bib_year>
+			<bib_extra key="Doi">10.1017/S0305004100052075</bib_extra>
+			<bib_extra key="Eprint">http://journals.cambridge.org/article_S0305004100052075</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1017/S0305004100052075</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Shakhnarovich</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fast Pose Estimation with Parameter-Sensitive Hashing</bib_title>
+			<bib_authors>Shakhnarovich, Gregory and Viola, Paul A. and Darrell, Trevor</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>750-759</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="BookTitle">ICCV</bib_extra>
+			<bib_extra key="Ee">http://doi.ieeecomputersociety.org/10.1109/ICCV.2003.1238424</bib_extra>
+			<bib_extra key="Isbn">0-7695-1950-4</bib_extra>
+			<bib_extra key="Publisher">IEEE Computer Society</bib_extra>
+			<bib_extra key="Series">9th IEEE International Conference on Computer Vision (ICCV 2003), 14-17 October 2003, Nice, France</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Forney1</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Modulation and coding for linear Gaussian channels</bib_title>
+			<bib_authors>Forney, G.  D.  ,.  Jr. and Ungerboeck, G.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>44</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>2384-2415</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Doi">10.1109/18.720542</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">SNR;binary coding;channel capacity;combined coding/precoding;high-signal-to-noise ratio;intersymbol-interference channels;linear Gaussian channels;low-signal-to-noise ratio;multilevel coding;nonbinary coding;orthogonal minimum-bandwidth modulation;review;turbo coding;turbo decoding;Gaussian channels;channel capacity;decoding;encoding;modulation;reviews;</bib_extra>
+			<bib_extra key="Month">oct</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Irving</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An efficient algorithm for the optimal stable marriage</bib_title>
+			<bib_authors>Irving, Robert W. and Leather, Paul and Gusfield, Dan</bib_authors>
+			<bib_journal>J. ACM</bib_journal>
+			<bib_volume>34</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>532-543</bib_pages>
+			<bib_year>1987</bib_year>
+			<bib_extra key="Acmid">28871</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/28869.28871</bib_extra>
+			<bib_extra key="Issn">0004-5411</bib_extra>
+			<bib_extra key="Month">July</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/28869.28871</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>SLSH</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Spherical LSH for Approximate Nearest Neighbor Search on Unit Hypersphere</bib_title>
+			<bib_authors>Terasawa, Kengo and Tanaka, Yuzuru</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>27-38</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="BookTitle">WADS</bib_extra>
+			<bib_extra key="Crossref">DBLP:conf/wads/2007</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1007/978-3-540-73951-7_4</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Garcia</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fast k nearest neighbor search using GPU</bib_title>
+			<bib_authors>Garcia, V. and Debreuve, E. and Barlaud, M.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Address">Anchorage, Alaska, USA</bib_extra>
+			<bib_extra key="BookTitle">CVPR Workshop on Computer Vision on GPU</bib_extra>
+			<bib_extra key="Month">June</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Li</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A variant of adaptive mean shift-based clustering</bib_title>
+			<bib_authors>Li, Fajie and Klette, Reinhard</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1002-1009</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Acmid">1813621</bib_extra>
+			<bib_extra key="Address">Berlin, Heidelberg</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 15th international conference on Advances in neuro-information processing - Volume Part I</bib_extra>
+			<bib_extra key="Isbn">3-642-02489-0, 978-3-642-02489-4</bib_extra>
+			<bib_extra key="Location">Auckland, New Zealand</bib_extra>
+			<bib_extra key="Numpages">8</bib_extra>
+			<bib_extra key="Publisher">Springer-Verlag</bib_extra>
+			<bib_extra key="Series">ICONIP’08</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1813488.1813621</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Karger</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Minimum cuts in near-linear time</bib_title>
+			<bib_authors>Karger, David R.</bib_authors>
+			<bib_journal>J. ACM</bib_journal>
+			<bib_volume>47</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>46-76</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Acmid">331608</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">http://doi.acm.org/10.1145/331605.331608</bib_extra>
+			<bib_extra key="Issn">0004-5411</bib_extra>
+			<bib_extra key="Keywords">Monte Carlo algorithm, connectivity, min-cut, optimization, tree packing</bib_extra>
+			<bib_extra key="Month">January</bib_extra>
+			<bib_extra key="Numpages">31</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/331605.331608</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ullman</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mining of Massive Datasets</bib_title>
+			<bib_authors>Rajaraman, A. and Ullman, J. D.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Isbn">9781107015357</bib_extra>
+			<bib_extra key="Publisher">Cambridge University Press</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Url">http://books.google.com/books?id=OefRhZyYOb0C</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>berg</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Computational geometry : algorithms and applications</bib_title>
+			<bib_authors>Berg, Mark de and Kreveld, Marc van and ], Mark Overmars.  .. ..  .. ..  [et al.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Address">Berlin</bib_extra>
+			<bib_extra key="Isbn">3-540-65620-0</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+			<bib_extra key="Url">http://opac.inria.fr/record=b1096186</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Beyer</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>When Is &quot;Nearest Neighbor&quot; Meaningful?</bib_title>
+			<bib_authors>Beyer, Kevin and Goldstein, Jonathan and Ramakrishnan, Raghu and Shaft, Uri</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>217-235</bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="BookTitle">In Int. Conf. on Database Theory</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Harish</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Accelerating large graph algorithms on the GPU using CUDA</bib_title>
+			<bib_authors>Harish, Pawan and Narayanan, P. J.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>197-208</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Acmid">1782200</bib_extra>
+			<bib_extra key="Address">Berlin, Heidelberg</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 14th international conference on High performance computing</bib_extra>
+			<bib_extra key="Isbn">3-540-77219-7, 978-3-540-77219-4</bib_extra>
+			<bib_extra key="Location">Goa, India</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">Springer-Verlag</bib_extra>
+			<bib_extra key="Series">HiPC’07</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=1782174.1782200</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zhou</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Real-time KD-tree construction on graphics hardware</bib_title>
+			<bib_authors>Zhou, Kun and Hou, Qiming and Wang, Rui and Guo, Baining</bib_authors>
+			<bib_journal>ACM Trans. Graph.</bib_journal>
+			<bib_volume>27</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>126-1</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Acmid">1409079</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Articleno">126</bib_extra>
+			<bib_extra key="Doi">10.1145/1409060.1409079</bib_extra>
+			<bib_extra key="Issn">0730-0301</bib_extra>
+			<bib_extra key="Issue_date">December 2008</bib_extra>
+			<bib_extra key="Keywords">kd-tree, photon mapping, point cloud modeling, programable graphics hardware, ray tracing</bib_extra>
+			<bib_extra key="Month">dec</bib_extra>
+			<bib_extra key="Numpages">11</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1409060.1409079</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Freeman</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Parallel Algorithms for Depth-First Search</bib_title>
+			<bib_authors>Freeman, Jon</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>MS-CIS-91-71</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Month">October</bib_extra>
+			<bib_extra key="Publisher">University of Pennsylvania</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bell</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Efficient Sparse Matrix-Vector Multiplication on CUDA</bib_title>
+			<bib_authors>Bell, Nathan and Garland, Michael</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>NVR-2008-004</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Month">dec</bib_extra>
+			<bib_extra key="Publisher">NVIDIA Corporation</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>ANN</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ANN: A library for approximate nearest neighbor searching</bib_title>
+			<bib_authors>Mount, D. M. and , S. Arya.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Url">http://www.cs.umd.edu/ mount/ANN/</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Arya</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Expected-case complexity of approximate nearest neighbor searching</bib_title>
+			<bib_authors>Arya, Sunil and Fu, Ho-Yam Addy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>379-388</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Acmid">338583</bib_extra>
+			<bib_extra key="Address">Philadelphia, PA, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the eleventh annual ACM-SIAM symposium on Discrete algorithms</bib_extra>
+			<bib_extra key="Isbn">0-89871-453-2</bib_extra>
+			<bib_extra key="Location">San Francisco, California, United States</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">Society for Industrial and Applied Mathematics</bib_extra>
+			<bib_extra key="Series">SODA ’00</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=338219.338583</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kaski98</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Dimensionality Reduction by Random Mapping: Fast Similarity Computation for Clustering</bib_title>
+			<bib_authors>Kaski, Samuel</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>hecht</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Context vectors: general purpose approximate meaning representations self-organized from raw data</bib_title>
+			<bib_authors>Hecht-Nielsen, R.</bib_authors>
+			<bib_journal>Computational intelligence: Imitating life</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>43-56</bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Publisher">IEEE press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Meer</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mean shift: a robust approach toward feature space analysis</bib_title>
+			<bib_authors>Comaniciu, D. and Meer, P.</bib_authors>
+			<bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
+			<bib_volume>24</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>603-619</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Doi">10.1109/34.1000236</bib_extra>
+			<bib_extra key="Issn">0162-8828</bib_extra>
+			<bib_extra key="Keywords">Convergence;Density functional theory;Image analysis;Image color analysis;Image resolution;Image segmentation;Kernel;Pattern recognition;Robustness;Smoothing methods;computer vision;estimation theory;image segmentation;nonparametric statistics;pattern clustering;smoothing methods;Nadaraya-Watson estimator;algorithm performance;analysis resolution;arbitrarily shaped cluster delineation;color images;complex multimodal feature space;computational module;convergence;density function;density modes detection;discontinuity-preserving image smoothing;discrete data;gray-level images;image segmentation;kernel regression;location estimation;low-level vision algorithms;mean shift;nearest stationary point;nonparametric technique;pattern recognition procedure;recursive mean shift procedure;robust M-estimators;robust feature space analysis;user-set parameter;</bib_extra>
+			<bib_extra key="Month">may</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bingham</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Random projection in dimensionality reduction: Applications to image and text data</bib_title>
+			<bib_authors>Bingham, Ella and Mannila, Heikki</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>245-250</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="BookTitle">in Knowledge Discovery and Data Mining</bib_extra>
+			<bib_extra key="Publisher">ACM Press</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Boutsidis</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Random Projections for $k$-means Clustering</bib_title>
+			<bib_authors>Boutsidis, Christos and Zouzias, Anastasios and Drineas, Petros</bib_authors>
+			<bib_journal>CoRR</bib_journal>
+			<bib_volume>abs/1011.4632</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://arxiv.org/abs/1011.4632</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>carraher</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Parallel Algorithm for Query Adaptive, Locality Sensitive Hash Search</bib_title>
+			<bib_authors>l.  carraher, f.  annexstein</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Url">http://homepages.uc.edu/~carrahle/thesis.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>carraher2</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A GPGPU Algorithm for c-Approximate r-Nearest Neighbor Search in High Dimensions</bib_title>
+			<bib_authors>l.  carraher, p.  wilsey</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Url">http://homepages.uc.edu/~carrahle/ipdps.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Marlin</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Unsupervised pattern discovery in electronic health care data using probabilistic clustering models</bib_title>
+			<bib_authors>Marlin, Benjamin M. and Kale, David C. and Khemani, Robinder G. and Wetzel, Randall C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>389-398</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Acmid">2110408</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium</bib_extra>
+			<bib_extra key="Doi">10.1145/2110363.2110408</bib_extra>
+			<bib_extra key="Isbn">978-1-4503-0781-9</bib_extra>
+			<bib_extra key="Keywords">clustering, critical care, electronic health records, pediatrics, probabilistic models, time series</bib_extra>
+			<bib_extra key="Location">Miami, Florida, USA</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">IHI ’12</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/2110363.2110408</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Vattani</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>k-means requires exponentially many iterations even in the plane</bib_title>
+			<bib_authors>Vattani, Andrea</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>324-332</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Acmid">1542419</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 25th annual symposium on Computational geometry</bib_extra>
+			<bib_extra key="Doi">10.1145/1542362.1542419</bib_extra>
+			<bib_extra key="Isbn">978-1-60558-501-7</bib_extra>
+			<bib_extra key="Keywords">k-means, lower bounds</bib_extra>
+			<bib_extra key="Location">Aarhus, Denmark</bib_extra>
+			<bib_extra key="Numpages">9</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">SCG ’09</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1542362.1542419</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sivara07</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kernels for Large Margin Time-Series Classification</bib_title>
+			<bib_authors>Sivaramakrishnan, K. R. and Karthik, K. and Bhattacharyya, C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>2746-2751</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Neural Networks, 2007. IJCNN 2007. International Joint Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
+			<bib_extra key="Issn">1098-7576</bib_extra>
+			<bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
+			<bib_extra key="Month">aug.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Warren</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clustering of time series data–-a survey</bib_title>
+			<bib_authors>Liao, T.  Warren</bib_authors>
+			<bib_journal>Pattern Recognition</bib_journal>
+			<bib_volume>38</bib_volume>
+			<bib_number>11</bib_number>
+			<bib_pages>1857-1874</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Doi">10.1016/j.patcog.2005.01.025</bib_extra>
+			<bib_extra key="Issn">0031-3203</bib_extra>
+			<bib_extra key="Keywords">Time series data; Clustering; Distance measure; Data mining</bib_extra>
+			<bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0031320305001305</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Liu2011</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Learning with multiple Gaussian distance kernels for time series classification</bib_title>
+			<bib_authors>Liu, Lei and Zuo, Wangmeng and Zhang, D. and Zhang, Dongyu</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>624-628</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="BookTitle">Advanced Computer Control (ICACC), 2011 3rd International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/ICACC.2011.6016490</bib_extra>
+			<bib_extra key="Keywords">Classification algorithms;Electrocardiography;Kernel;Marine animals;Support vector machines;Gaussian processes;distance measurement;learning (artificial intelligence);pattern classification;support vector machines;time series;GRBF;Gaussian RBF kernel;Gaussian elastic metric distance kernel;MKL;SVM;SimpleMKL;UCR time series data sets;distance measures;kernel classifier;multiple Gaussian distance kernels;multiple kernel learning method;support vector machine-based classification;time series classification;kernel method;multiple kernel learning;support vector machine;time series classification;</bib_extra>
+			<bib_extra key="Month">jan.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sung09</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Quantifying morphology changes in time series data with skew</bib_title>
+			<bib_authors>Sung, P. and Syed, Z. and Guttag, J.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>477-480</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="BookTitle">Acoustics, Speech and Signal Processing, 2009. ICASSP 2009. IEEE International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/ICASSP.2009.4959624</bib_extra>
+			<bib_extra key="Issn">1520-6149</bib_extra>
+			<bib_extra key="Keywords">Earth;Electrical resistance measurement;Electrocardiography;High definition video;Morphology;Noise shaping;Power measurement;Shape measurement;Time measurement;Timing;mathematical morphology;signal processing;time series;ECG signals;Earth movers distance;Frechet distance;Hausdorff distance;dynamic time-warping;morphology changes;morphology difference metrics;signal shape comparison;time series data;time skew;shape matching;time skew;</bib_extra>
+			<bib_extra key="Month">april</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dilts95</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using cluster analysis for medical resource decision making</bib_title>
+			<bib_authors>Dilts, D. and Khamalah, J. and Plotkin, A. T. I. T. L. E.</bib_authors>
+			<bib_journal>Med Decis Making</bib_journal>
+			<bib_volume>15</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>333-47</bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="Issn">0272-989X</bib_extra>
+			<bib_extra key="Pubmedid">8544677</bib_extra>
+			<bib_extra key="Url">http://www.biomedsearch.com/nih/Using-cluster-analysis-medical-resource/8544677.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Carreira</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Gaussian Mean-Shift Is an EM Algorithm</bib_title>
+			<bib_authors>Carreira-Perpinan, M. A.</bib_authors>
+			<bib_journal>Pattern Analysis and Machine Intelligence, IEEE Transactions on</bib_journal>
+			<bib_volume>29</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>767-776</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Doi">10.1109/TPAMI.2007.1057</bib_extra>
+			<bib_extra key="Issn">0162-8828</bib_extra>
+			<bib_extra key="Keywords">Acceleration;Application software;Clustering algorithms;Clustering methods;Computer vision;Convergence;Fractals;Image converters;Image segmentation;Kernel;Gaussian processes;computer vision;expectation-maximisation algorithm;Gaussian mean-shift algorithm;computer vision;expectation-maximization algorithm;hill-climbing algorithm;image segmentation;image tracking;kernel density estimate;nonparametric clustering method;sublinear convergence;superlinear convergence;EM algorithm;Gaussian mixtures;Mean-shift algorithm;clustering.;kernel density estimators;Algorithms;Artificial Intelligence;Computer Simulation;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Likelihood Functions;Models, Statistical;Normal Distribution;Pattern Recognition, Automated;</bib_extra>
+			<bib_extra key="Month">may </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>mahout</key>
+			<notes></notes>
+			<bib_type>Manual</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Apache Mahout:: Scalable machine-learning and data-mining library</bib_title>
+			<bib_authors>Foundation, Apache Software</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Abstract">Apache Mahout’s goal is to build scalable machine learning libraries. With scalable we mean: Scalable to reasonably large data sets. Our core algorithms for clustering, classfication and batch based collaborative filtering are implemented on top of Apache Hadoop using the map/reduce paradigm. However we do not restrict contributions to Hadoop based implementations: Contributions that run on a single node or on a non-Hadoop cluster are welcome as well. The core libraries are highly optimized to allow for good performance also for non-distributed algorithms</bib_extra>
+			<bib_extra key="Bdsk-url-1">http://mahout.apache.org</bib_extra>
+			<bib_extra key="Date-added">2011-03-15 13:39:56 +0100</bib_extra>
+			<bib_extra key="Date-modified">2011-04-29 14:12:11 +0200</bib_extra>
+			<bib_extra key="Description">	Mahout’s goal is to build scalable machine learning libraries. With scalable we mean: Scalable to reasonably large data sets. Our core algorithms for clustering, classfication and batch based collaborative filtering are implemented on top of Apache Hadoop using the map/reduce paradigm. However we do not restrict contributions to Hadoop based implementations: Contributions that run on a single node or on a non-Hadoop cluster are welcome as well. The core libraries are highly optimized to allow for good performance also for non-distributed algorithms. Scalable to support your business case. Mahout is distributed under a commercially friendly Apache Software license. Scalable community. The goal of Mahout is to build a vibrant, responsive, diverse community to facilitate discussions not only on the project itself but also on potential use cases. Come to the mailing lists to find out more.</bib_extra>
+			<bib_extra key="Distribution">Global</bib_extra>
+			<bib_extra key="Keywords">apache, apache hadoop, apache hive, apache incubator, apache lucene, apache solr, apache taste, apache thrift, apache xml, business data mining, cloudbase hadoop, cluster analysis, collaborative filtering, data extraction, data filtering, data framework, data integration, data matching, data mining, data mining algorithms, data mining analysis, data mining data, data mining introduction, data mining pdf, data mining software, data mining sql, data mining techniques, data representation, data set, data visualization, datamining, distributed solr, feature extraction, fuzzy k means, genetic algorithm, hadoop, hadoop cluster, hadoop download, hadoop forum, hadoop gfs, hadoop lucene, hadoop pig latin, hadoop sequence file, hadoop sequencefile, hierarchical clustering, high dimensional, hive hadoop, install solr, introduction to data mining, kmeans, knowledge discovery, learning approach, learning approaches, learning methods, learning techniques, lucene, machine learning, machine translation, mahout apache, mahout taste, map reduce hadoop, mining data, mining methods, naive bayes, natural language processing, open source search engine, open source search engine software, opencms search, org apache lucene, pattern recognition, pattern recognition and machine learning, pig apache, pig hadoop, search algorithms, search engine, solr api, solr faceted, solr open source, solr search engine, solr tika, statistical consulting, statistical data mining, supervised, text mining, time series data, unsupervised, web data mining, zookeeper, zookeeper apache</bib_extra>
+			<bib_extra key="Lastchecked">2011-03-15</bib_extra>
+			<bib_extra key="Month">April</bib_extra>
+			<bib_extra key="Robots">index,follow</bib_extra>
+			<bib_extra key="Url">http://mahout.apache.org</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Liao</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clustering of time series data–-a survey</bib_title>
+			<bib_authors>Liao, T.  Warren</bib_authors>
+			<bib_journal>Pattern Recognition</bib_journal>
+			<bib_volume>38</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1857-1874</bib_pages>
+			<bib_year>2005</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>MIMICII</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Multiparameter Intelligent Monitoring in Intensive Care II (MIMIC-II): A public-access intensive care unit database</bib_title>
+			<bib_authors>Saeed, Mohammed and Villarroel, Mauricio and Reisner, Andrew T. and Clifford, Gari and Lehman, Li-Wei and Moody, George and Heldt, Thomas and Kyaw, Tin H. and Moody, Benjamin and Mark, Roger G.</bib_authors>
+			<bib_journal>Critical Care Medicine</bib_journal>
+			<bib_volume>39</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>952-960</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Month">May</bib_extra>
+			<bib_extra key="Url">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124312/</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hofmann</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Unsupervised Learning by Probabilistic Latent Semantic Analysis</bib_title>
+			<bib_authors>Hofmann, Thomas</bib_authors>
+			<bib_journal>Mach. Learn.</bib_journal>
+			<bib_volume>42</bib_volume>
+			<bib_number>1-2</bib_number>
+			<bib_pages>177-196</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Acmid">599631</bib_extra>
+			<bib_extra key="Address">Hingham, MA, USA</bib_extra>
+			<bib_extra key="Doi">10.1023/A:1007617005950</bib_extra>
+			<bib_extra key="Issn">0885-6125</bib_extra>
+			<bib_extra key="Issue_date">January-February 2001</bib_extra>
+			<bib_extra key="Keywords">EM algorithm, dimension reduction, information retrieval, language modeling, latent class models, mixture models, natural language processing, unsupervised learning</bib_extra>
+			<bib_extra key="Month">jan</bib_extra>
+			<bib_extra key="Numpages">20</bib_extra>
+			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1023/A:1007617005950</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Yang</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Temporal Data Clustering via Weighted Clustering Ensemble with Different Representations</bib_title>
+			<bib_authors>Yang, Yun and Chen, Ke</bib_authors>
+			<bib_journal>Knowledge and Data Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume>23</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>307-320</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Doi">10.1109/TKDE.2010.112</bib_extra>
+			<bib_extra key="Issn">1041-4347</bib_extra>
+			<bib_extra key="Keywords">Algorithm design and analysis;Clustering algorithms;Context modeling;Data mining;Data processing;Partitioning algorithms;Unsupervised learning;data structures;formal verification;pattern clustering;temporal databases;time series;benchmark time series;clustering analysis;data set;formal analysis;motion trajectory;temporal data clustering;temporal data representations;time-series data stream;underpinning techniques;weighted clustering;Temporal data clustering;clustering ensemble;different representations;model selection.;weighted consensus function;</bib_extra>
+			<bib_extra key="Month">feb. </bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Fajie</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Variant of Adaptive Mean Shift-Based Clustering</bib_title>
+			<bib_authors>Li, Fajie and Klette, Reinhard</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1002-1009</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="BookTitle">ICONIP (1)</bib_extra>
+			<bib_extra key="Crossref">DBLP:conf/iconip/2009-1</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1007/978-3-642-02490-0_122</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Arias2013</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Advances in Intelligent Systems and Computing: Application to Atmospheric Pollutants</bib_title>
+			<bib_authors>Arias, Marta and Troncoso, Alicia and Riquelme, JoséC.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>188</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>417-426</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="BookTitle">Soft Computing Models in Industrial and Environmental Applications</bib_extra>
+			<bib_extra key="Chapter">A Kernel for Time Series Classification</bib_extra>
+			<bib_extra key="Doi">10.1007/978-3-642-32922-7_43</bib_extra>
+			<bib_extra key="Editor">Snášel, Václav and Abraham, Ajith and Corchado, Emilio S.</bib_extra>
+			<bib_extra key="Isbn">978-3-642-32921-0</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/978-3-642-32922-7_43</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sivaramakrishnan</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kernels for Large Margin Time-Series Classification</bib_title>
+			<bib_authors>Sivaramakrishnan, K. R. and Karthik, K. and Bhattacharyya, C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>2746-2751</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Neural Networks, 2007. IJCNN 2007. International Joint Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
+			<bib_extra key="Issn">1098-7576</bib_extra>
+			<bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
+			<bib_extra key="Month">aug.</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>deident</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Identifying personal genomes by surname inference</bib_title>
+			<bib_authors>Gymrek M, McGuire AL, Golan D, Halperin E. and Y, Erlich</bib_authors>
+			<bib_journal>Science</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>339</bib_number>
+			<bib_pages>321-324</bib_pages>
+			<bib_year>2013</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>deanon1</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Brief Survey on De-anonymization Attacks in Online Social Networks</bib_title>
+			<bib_authors>Ding, Xuan and Zhang, Lan and Wan, Zhiguo and Gu, Ming</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>611-615</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="BookTitle">Computational Aspects of Social Networks (CASoN), 2010 International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/CASoN.2010.139</bib_extra>
+			<bib_extra key="Keywords">data privacy;social networking (online);anonymization techniques;deanonymization attacks;feature matching;online social networks;privacy preservation;Context;Data privacy;History;Knowledge engineering;Privacy;Security;Social network services;De-anonymization;Online Social Network;Privacy</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>deanon2</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Robust De-anonymization of Large Sparse Datasets</bib_title>
+			<bib_authors>Narayanan, A. and Shmatikov, V.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>111-125</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="BookTitle">Security and Privacy, 2008. SP 2008. IEEE Symposium on</bib_extra>
+			<bib_extra key="Doi">10.1109/SP.2008.33</bib_extra>
+			<bib_extra key="Issn">1081-6011</bib_extra>
+			<bib_extra key="Keywords">Internet;data mining;data privacy;very large databases;Internet movie database;Netflix prize dataset;data mining;large sparse dataset;online movie rental service;privacy risk;statistical de-anonymization attack;DVD;Data mining;Data privacy;Data security;Internet;Motion pictures;Probability;Robustness;Tail;Transaction databases;Anonymity;Attack;Privacy</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Azzouzi</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Analysing time series structure with hidden Markov models</bib_title>
+			<bib_authors>Azzouzi, M. and Nabney, I. T.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>402-408</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="BookTitle">Neural Networks for Signal Processing VIII, 1998. Proceedings of the 1998 IEEE Signal Processing Society Workshop</bib_extra>
+			<bib_extra key="Doi">10.1109/NNSP.1998.710670</bib_extra>
+			<bib_extra key="Issn">1089-3555</bib_extra>
+			<bib_extra key="Keywords">hidden Markov models;pattern recognition;time series;hidden Markov models;nonlinear nonstationary environment;oil drilling process;synthetic data;time series structure;Character generation;Data mining;Fluctuations;Hidden Markov models;Monitoring;Oil drilling;Petroleum;Random variables;Time series analysis;Tin</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dasha</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mining for similarities in time series data using wavelet-based feature vectors and neural networks </bib_title>
+			<bib_authors>Dash, P. K. and Nayak, Maya and Senapati, M. R. and Lee, I. W. C.</bib_authors>
+			<bib_journal>Engineering Applications of Artificial Intelligence </bib_journal>
+			<bib_volume>20</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>185-201</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Doi">http://dx.doi.org/10.1016/j.engappai.2006.06.018</bib_extra>
+			<bib_extra key="Issn">0952-1976</bib_extra>
+			<bib_extra key="Keywords">Wavelet Transform; S-transform; Time series; Similarity detection; Classification; Knowledge discovery; Data mining </bib_extra>
+			<bib_extra key="Note">&lt;ce:title&gt;Special Issue on Applications of Artificial Intelligence in Process Systems Engineering&lt;/ce:title&gt; </bib_extra>
+			<bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/S0952197606001187</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Pratt</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>SEARCH FOR PATTERNS IN COMPRESSED TIME SERIES</bib_title>
+			<bib_authors>PRATT, KEVIN B. and FINK, EUGENE</bib_authors>
+			<bib_journal>International Journal of Image and Graphics</bib_journal>
+			<bib_volume>02</bib_volume>
+			<bib_number>01</bib_number>
+			<bib_pages>89-106</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Doi">10.1142/S0219467802000482</bib_extra>
+			<bib_extra key="Eprint">http://www.worldscientific.com/doi/pdf/10.1142/S0219467802000482</bib_extra>
+			<bib_extra key="Url">http://www.worldscientific.com/doi/abs/10.1142/S0219467802000482</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Korn</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Efficiently supporting ad hoc queries in large datasets of time sequences</bib_title>
+			<bib_authors>Korn, Flip and Jagadish, H. V. and Faloutsos, Christos</bib_authors>
+			<bib_journal>SIGMOD Rec.</bib_journal>
+			<bib_volume>26</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>289-300</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Acmid">253332</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">10.1145/253262.253332</bib_extra>
+			<bib_extra key="Issn">0163-5808</bib_extra>
+			<bib_extra key="Issue_date">June 1997</bib_extra>
+			<bib_extra key="Month">jun</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/253262.253332</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Wu</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A comparison of DFT and DWT based similarity search in time-series databases</bib_title>
+			<bib_authors>Wu, Yi-Leh and Agrawal, Divyakant and El Abbadi, Amr</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>488-495</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Acmid">354857</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the ninth international conference on Information and knowledge management</bib_extra>
+			<bib_extra key="Doi">10.1145/354756.354857</bib_extra>
+			<bib_extra key="Isbn">1-58113-320-0</bib_extra>
+			<bib_extra key="Keywords">fourier transform, smoothing, time-series analysis, time-series database, time-series matching, wavelet transform</bib_extra>
+			<bib_extra key="Location">McLean, Virginia, USA</bib_extra>
+			<bib_extra key="Numpages">8</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">CIKM ’00</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/354756.354857</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Fu</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A review on time series data mining</bib_title>
+			<bib_authors>Fu, Tak-chung</bib_authors>
+			<bib_journal>Eng. Appl. Artif. Intell.</bib_journal>
+			<bib_volume>24</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>164-181</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Acmid">1897378</bib_extra>
+			<bib_extra key="Address">Tarrytown, NY, USA</bib_extra>
+			<bib_extra key="Doi">10.1016/j.engappai.2010.09.007</bib_extra>
+			<bib_extra key="Issn">0952-1976</bib_extra>
+			<bib_extra key="Issue_date">February, 2011</bib_extra>
+			<bib_extra key="Keywords">Representation, Segmentation, Similarity measure, Time series data mining, Visualization</bib_extra>
+			<bib_extra key="Month">feb</bib_extra>
+			<bib_extra key="Numpages">18</bib_extra>
+			<bib_extra key="Publisher">Pergamon Press, Inc.</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1016/j.engappai.2010.09.007</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>vempala</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Random Projection Method</bib_title>
+			<bib_authors>Vempala, S. S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Isbn">9780821871072</bib_extra>
+			<bib_extra key="Publisher">American Mathematical Society</bib_extra>
+			<bib_extra key="Series">DIMACS Series</bib_extra>
+			<bib_extra key="Url">http://books.google.com/books?id=L5L2J0UEY4QC</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>fernrandom</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Random projection for high dimensional data clustering: A cluster ensemble approach</bib_title>
+			<bib_authors>Fern, Xiaoli Zhang and Brodley, Carla E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="BookTitle"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Urruty2007</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Lecture Notes in Computer Science</bib_title>
+			<bib_authors>Urruty, Thierry and Djeraba, Chabane and Simovici, DanA.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>4597</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>107-119</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Advances in Data Mining. Theoretical Aspects and Applications</bib_extra>
+			<bib_extra key="Chapter">Clustering by Random Projections</bib_extra>
+			<bib_extra key="Doi">10.1007/978-3-540-73435-2_9</bib_extra>
+			<bib_extra key="Editor">Perner, Petra</bib_extra>
+			<bib_extra key="Isbn">978-3-540-73434-5</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/978-3-540-73435-2_9</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dasgupta2000</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Experiments with random projection</bib_title>
+			<bib_authors>Dasgupta, Sanjoy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>143-151</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Acmid">2073964</bib_extra>
+			<bib_extra key="Address">San Francisco, CA, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the Sixteenth conference on Uncertainty in artificial intelligence</bib_extra>
+			<bib_extra key="Isbn">1-55860-709-9</bib_extra>
+			<bib_extra key="Location">Stanford, California</bib_extra>
+			<bib_extra key="Numpages">9</bib_extra>
+			<bib_extra key="Publisher">Morgan Kaufmann Publishers Inc.</bib_extra>
+			<bib_extra key="Series">UAI’00</bib_extra>
+			<bib_extra key="Url">http://dl.acm.org/citation.cfm?id=2073946.2073964</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zhang2003</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clustering Incomplete Data Using Kernel-Based Fuzzy C-means Algorithm</bib_title>
+			<bib_authors>Zhang, Dao-Qiang and Chen, Song-Can</bib_authors>
+			<bib_journal>Neural Processing Letters</bib_journal>
+			<bib_volume>18</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>155-162</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Doi">10.1023/B:NEPL.0000011135.19145.1b</bib_extra>
+			<bib_extra key="Issn">1370-4621</bib_extra>
+			<bib_extra key="Keywords">clustering; fuzzy c-means; incomplete data; Kernel methods</bib_extra>
+			<bib_extra key="Language">English</bib_extra>
+			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1023/B%3ANEPL.0000011135.19145.1b</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Hathaway</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fuzzy c-means clustering of incomplete data</bib_title>
+			<bib_authors>Hathaway, R. J. and Bezdek, J. C.</bib_authors>
+			<bib_journal>Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on</bib_journal>
+			<bib_volume>31</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>735-744</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Doi">10.1109/3477.956035</bib_extra>
+			<bib_extra key="Issn">1083-4419</bib_extra>
+			<bib_extra key="Keywords">fuzzy logic;pattern clustering;convergence properties;fuzzy c-means clustering;incomplete data;real s-dimensional data set;Clustering algorithms;Computer science;Convergence of numerical methods;Fuzzy logic;Mathematics;Maximum likelihood estimation;Parameter estimation;Pattern recognition;Performance analysis;Testing</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Bezdek</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>FCM: The fuzzy c-means clustering algorithm </bib_title>
+			<bib_authors>Bezdek, James C. and Ehrlich, Robert and Full, William</bib_authors>
+			<bib_journal>Computers &amp; Geosciences </bib_journal>
+			<bib_volume>10</bib_volume>
+			<bib_number>2–3</bib_number>
+			<bib_pages>191-203</bib_pages>
+			<bib_year>1984</bib_year>
+			<bib_extra key="Doi">http://dx.doi.org/10.1016/0098-3004(84)90020-7</bib_extra>
+			<bib_extra key="Issn">0098-3004</bib_extra>
+			<bib_extra key="Keywords">Cluster analysis; Cluster validity; Fuzzy clustering; Fuzzy QMODEL; Least-squared errors </bib_extra>
+			<bib_extra key="Url">http://www.sciencedirect.com/science/article/pii/0098300484900207</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ladner</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Parallel Prefix Computation</bib_title>
+			<bib_authors>Ladner, Richard E. and Fischer, Michael J.</bib_authors>
+			<bib_journal>J. ACM</bib_journal>
+			<bib_volume>27</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>831-838</bib_pages>
+			<bib_year>1980</bib_year>
+			<bib_extra key="Acmid">322232</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">10.1145/322217.322232</bib_extra>
+			<bib_extra key="Issn">0004-5411</bib_extra>
+			<bib_extra key="Issue_date">Oct. 1980</bib_extra>
+			<bib_extra key="Month">oct</bib_extra>
+			<bib_extra key="Numpages">8</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/322217.322232</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Vardy95</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Even more efficient bounded-distance decoding of the hexacode, the Golay code, and the Leech lattice</bib_title>
+			<bib_authors>Vardy, A.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>41</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>1495-1499</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Doi">10.1109/18.412695</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">Golay codes;computational complexity;decoding;error correction codes;lattice theory;Golay code;Leech lattice;algorithm;bounded-distance decoding;decoding complexity;error-correction radius;hexacode;Convolutional codes;Error correction;Error correction codes;Lattices;Maximum likelihood decoding;Modems;Sun;Very large scale integration</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>chowdhury</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Performance and Scalability of Broadcast in Spark</bib_title>
+			<bib_authors>Chowdhury, Mosharaf and Zaharia, Matei and Stoica, Ion</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>hadoop</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Hadoop Distributed File System</bib_title>
+			<bib_authors>Shvachko, Konstantin and Kuang, Hairong and Radia, Sanjay and Chansler, Robert</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-10</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Acmid">1914427</bib_extra>
+			<bib_extra key="Address">Washington, DC, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST)</bib_extra>
+			<bib_extra key="Doi">10.1109/MSST.2010.5496972</bib_extra>
+			<bib_extra key="Isbn">978-1-4244-7152-2</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">IEEE Computer Society</bib_extra>
+			<bib_extra key="Series">MSST ’10</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1109/MSST.2010.5496972</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>mapreduce</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>MapReduce: Simplified Data Processing on Large Clusters</bib_title>
+			<bib_authors>Dean, Jeffrey and Ghemawat, Sanjay</bib_authors>
+			<bib_journal>Commun. ACM</bib_journal>
+			<bib_volume>51</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>107-113</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Acmid">1327492</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">10.1145/1327452.1327492</bib_extra>
+			<bib_extra key="Issn">0001-0782</bib_extra>
+			<bib_extra key="Issue_date">January 2008</bib_extra>
+			<bib_extra key="Month">jan</bib_extra>
+			<bib_extra key="Numpages">7</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1327452.1327492</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>achlioptas01</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Database-friendly random projections</bib_title>
+			<bib_authors>Achlioptas, Dimitris</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>274-281</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the twentieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>alweighted06</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Weighted clustering ensembles</bib_title>
+			<bib_authors>Al-Razgan, Muna and Domeniconi, Carlotta</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>258-269</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="BookTitle">Proceedings of the SIAM international conference on data mining</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>avogadri09</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fuzzy ensemble clustering based on random projections for DNA microarray data analysis</bib_title>
+			<bib_authors>Avogadri, Roberto and Valentini, Giorgio</bib_authors>
+			<bib_journal>Artificial Intelligence in Medicine</bib_journal>
+			<bib_volume>45</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>173-183</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>florescu09</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Scaling and convergence of projection sampling</bib_title>
+			<bib_authors>Florescu, Ionut and Molyboha, Anton and Myasnikov, Alexey</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>dbscan</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A density-based algorithm for discovering clusters in large spatial databases with noise.</bib_title>
+			<bib_authors>Ester, Martin and Kriegel, Hans-Peter and Sander, Jörg and Xu, Xiaowei</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>96</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>226-231</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="BookTitle">KDD</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>clarans</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>CLARANS: A method for clustering objects for spatial data mining</bib_title>
+			<bib_authors>Ng, Raymond T. and Han, Jiawei</bib_authors>
+			<bib_journal>Knowledge and Data Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume>14</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>1003-1016</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>proclus</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fast algorithms for projected clustering</bib_title>
+			<bib_authors>Aggarwal, Charu C. and Wolf, Joel L. and Yu, Philip S. and Procopiuc, Cecilia and Park, Jong Soo</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>28</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>61-72</bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="BookTitle">ACM SIGMOD Record</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>clique</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Automatic subspace clustering of high dimensional data for data mining applications</bib_title>
+			<bib_authors>Agrawal, Rakesh and Gehrke, Johannes and Gunopulos, Dimitrios and Raghavan, Prabhakar</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>27</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>dasgupta08</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The hardness of k-means clustering</bib_title>
+			<bib_authors>Dasgupta, Sanjoy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Publisher">Department of Computer Science and Engineering, University of California, San Diego</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Mahajan09</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Planar k-Means Problem is NP-Hard</bib_title>
+			<bib_authors>Mahajan, Meena and Nimbhorkar, Prajakta and Varadarajan, Kasturi</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>5431</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>274-285</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="BookTitle">WALCOM: Algorithms and Computation</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/978-3-642-00202-1_24</bib_extra>
+			<bib_extra key="Editor">Das, Sandip and Uehara, Ryuhei</bib_extra>
+			<bib_extra key="Isbn">978-3-642-00201-4</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/978-3-642-00202-1_24</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>UrrutyRP</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clustering by random projections</bib_title>
+			<bib_authors>Urruty, Thierry and Djeraba, Chabane and Simovici, Dan A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>107-119</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="BookTitle">Advances in Data Mining. Theoretical Aspects and Applications</bib_extra>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>presidential</key>
+			<notes></notes>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>PRIVACY and PROGRESS in Whole Genome Sequencing</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="address">Washington</bib_extra>
+			<bib_extra key="institution">Presidential Commission for the Study of Bioethical Issues</bib_extra>
+			<bib_extra key="month">October</bib_extra>
+			<bib_extra key="type">Report to the President</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>subset1</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Feature Subset Selection Using the Wrapper Method: Overfitting and Dynamic Search Space Topology.</bib_title>
+			<bib_authors>Kohavi, Ron and Sommerfield, Dan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>192-197</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="BookTitle">KDD</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>subset2</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clustering via concave minimization</bib_title>
+			<bib_authors>Bradley, Paul S. and Mangasarian, Olvi L. and Street, W. Nick</bib_authors>
+			<bib_journal>Advances in neural information processing systems</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>368-374</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Publisher">MORGAN KAUFMANN PUBLISHERS</bib_extra>
+		</doc>
+	</doclist>
 </library>
