@@ -1,0 +1,48 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{fullpage}
+\usepackage[margin=1in]{geometry}
+\usepackage{cite}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{ifthen}
+\usepackage{listings}
+
+\usepackage{xtab}
+\usepackage{url}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\DeclareGraphicsExtensions{.pdf,.eps,.svg,.pgm}
+
+\setboolean{@twoside}{false} 
+    % EXTREMELY COMMON LaTeX PACKAGES TO INCLUDE:
+    \usepackage{amsmath,amsthm, amsfonts,amssymb} % For AMS Beautification
+    \usepackage{setspace} % For Single & Double Spacing Commands
+    \usepackage[linktocpage,bookmarksopen,bookmarksnumbered,% For PDF navigation
+		pdftitle={R21 Grant Proposal},%   and URL hyperlinks
+		pdfauthor={Department of Electronic and Computing Systems},%
+		pdfsubject={UC },%
+		pdfkeywords={UC}]{hyperref}
+           \usepackage{caption3} % load caption package kernel first
+    \DeclareCaptionOption{parskip}[]{} % disable "parskip" caption option
+    \usepackage[small]{caption}
+\title{}
+\author{}
+
+\begin{document}
+\begin{verbatim}
+f = open("refs.bib",'r')
+s = f.readline()
+while s!='':                                
+    if s.find('@')>-1:print s.split('{')[1][:-2],
+    s = f.readline()
+\end{verbatim}
+
+
+\cite{Gollapudi, Vardy, Lowe, cuda, Sun, calderbank, Amrani, Lowe04, Andoni, panigrahy, Tarokh1, Tarokh2, Sun2, Andoni08, caltech, Be'ery, Georgescu, meanShift, Andoni06, Jegou1, Leech, Forney, Jegou, Samet, SPLAG, Qin, Har-Peled, Forney05, Weber, Indyk, Datar, Pless, Wicker, Woelfel, Ostlin, Cohn, FLANN, imagemagick, Curtis, Shakhnarovich, Forney1, Irving, SLSH, Garcia, Li, Karger, Ullman, berg, Beyer, Harish, Zhou, Freeman, Bell, ANN, Arya, Kaski98, hecht, Meer, Bingham, Boutsidis, carraher, carraher2, Marlin, Vattani, Sivara07, Warren, Liu2011, Sung09, Dilts95, Carreira, mahout, Liao, MIMICII, Hofmann, Yang, Fajie, Arias2013, Sivaramakrishnan, deident, deanon1, deanon2, Azzouzi, Dasha, Pratt, Korn, Wu, Fu, vempala, fernrandom, Urruty2007, Dasgupta2000, Zhang2003, Hathaway, Bezdek, Ladner, Vardy95, chowdhury, hadoop, mapreduce, Achlioptas01, alweighted06, avogadri09, florescu09, dbscan, Clarans, Proclus, clique, dasgupta08, Mahajan09, UrrutyRP, presidential, subset1, subset2, stochastic, clusters, carraher-1, bourgain1985lipschitz, latent1, clusterstats, mpicluster, Amdahl, distributeddata, parclus, han2006, waldo1997, Lindell2000, Grossman, zaki2000, ailon2006, Dasgupta, Webb2000, Fortune, Klein1988, Gavrilova2003, Zass2005, Agrell, anders2010differential, mpispec, anderberg1973, reed2002, ailon2009fast, Ailon2013, Liberty2008}
+\bibliography{refs}
+\bibliographystyle{ieeetr} \markright{ }
+
+\end{document}

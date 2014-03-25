@@ -1,0 +1,710 @@
+\begin{thebibliography}{100}
+
+\bibitem{Gollapudi}
+S.~Gollapudi and R.~Panigrahy, ``The power of two min-hashes for similarity
+  search among hierarchical data objects,'' in {\em Proceedings of the
+  twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on Principles of database
+  systems}, PODS {'}08, (New York, NY, USA), pp.~211--220, ACM, 2008.
+
+\bibitem{Vardy}
+A.~Vardy and Y.~Be{'}ery, ``Maximum likelihood decoding of the leech lattice,''
+  {\em Information Theory, IEEE Transactions on}, vol.~39, pp.~1435--1444, jul
+  1993.
+
+\bibitem{Lowe}
+D.~G. Lowe, ``Object recognition from local scale-invariant features,'' in {\em
+  Computer Vision, 1999. The Proceedings of the Seventh IEEE International
+  Conference on}, vol.~2, pp.~1150--1157, 1999.
+
+\bibitem{cuda}
+N.~V. I. D. I.~A. Corporation, ``Nvidia cuda c programming guide,'' 2010.
+\newblock Version 3.2.
+
+\bibitem{Sun}
+F.-W. Sun and H.~C.~A. van Tilborg, ``The leech lattice, the octacode, and
+  decoding algorithms,'' {\em Information Theory, IEEE Transactions on},
+  vol.~41, pp.~1097--1106, jul 1995.
+
+\bibitem{calderbank}
+A.~R. Calderbank, ``The art of signaling: fifty years of coding theory,'' {\em
+  Information Theory, IEEE Transactions on}, vol.~44, pp.~2561--2595, oct 1998.
+
+\bibitem{Amrani}
+O.~Amrani, Y.~Be{'}ery, A.~Vardy, F.-W. Sun, and H.~C.~A. van Tilborg, ``The
+  leech lattice and the golay code: bounded-distance decoding and multilevel
+  constructions,'' {\em Information Theory, IEEE Transactions on}, vol.~40,
+  pp.~1030--1043, jul 1994.
+
+\bibitem{Lowe04}
+D.~G. Lowe, ``Distinctive image features from scale-invariant keypoints,'' {\em
+  Int. J. Comput. Vision}, vol.~60, pp.~91--110, November 2004.
+
+\bibitem{Andoni}
+A.~Andoni, {\em Nearest Neighbor Search: the Old, the New, and the Impossible}.
+\newblock PhD thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, September 2009.
+
+\bibitem{panigrahy}
+R.~Panigrahy, ``Entropy based nearest neighbor search in high dimensions,'' in
+  {\em Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete
+  algorithm}, SODA {'}06, (New York, NY, USA), pp.~1186--1195, ACM, 2006.
+
+\bibitem{Tarokh1}
+V.~Tarokh and I.~F. Blake, ``Trellis complexity versus the coding gain of
+  lattices. i,'' {\em Information Theory, IEEE Transactions on}, vol.~42,
+  pp.~1796--1807, nov 1996.
+
+\bibitem{Tarokh2}
+V.~Tarokh and I.~F. Blake, ``Trellis complexity versus the coding gain of
+  lattices. i,'' {\em Information Theory, IEEE Transactions on}, vol.~42,
+  pp.~1796--1807, nov 1996.
+
+\bibitem{Sun2}
+F.-w. Sun, {\em Decoding Techniques and Modulations Scheme for Band-Limited
+  Communication Channels}.
+\newblock PhD thesis, Technical University of Eidenhoven, February 1994.
+
+\bibitem{Andoni08}
+A.~Andoni and P.~Indyk, ``Near-optimal hashing algorithms for approximate
+  nearest neighbor in high dimensions,'' {\em Commun. ACM}, vol.~51,
+  pp.~117--122, January 2008.
+
+\bibitem{caltech}
+G.~Griffin, A.~Holub, and P.~Perona, ``Caltech-256 object category dataset,''
+  Tech. Rep. 7694, 2007.
+
+\bibitem{Be'ery}
+O.~Amrani and Y.~Beery, ``Efficient bounded-distance decoding of the hexacode
+  and associated decoders for the leech lattice and the golay code,'' {\em
+  Communications, IEEE Transactions on}, vol.~44, pp.~534--537, may 1996.
+
+\bibitem{Georgescu}
+B.~Georgescu, I.~Shimshoni, and P.~Meer, ``Mean shift based clustering in high
+  dimensions: a texture classification example,'' in {\em Computer Vision,
+  2003. Proceedings. Ninth IEEE International Conference on}, pp.~456--463,
+  oct. 2003.
+
+\bibitem{meanShift}
+M.~Fashing and C.~Tomasi, ``Mean shift is a bound optimization,'' {\em Pattern
+  Analysis and Machine Intelligence, IEEE Transactions on}, vol.~27,
+  pp.~471--474, march 2005.
+
+\bibitem{Andoni06}
+A.~Andoni and P.~Indyk, ``Near-optimal hashing algorithms for approximate
+  nearest neighbor in high dimensions,'' in {\em Foundations of Computer
+  Science, 2006. FOCS {'}06. 47th Annual IEEE Symposium on}, pp.~459--468, oct.
+  2006.
+
+\bibitem{Jegou1}
+L.~Paulev{\'{e}}, H.~J{\'{e}}gou, and L.~Amsaleg, ``Locality sensitive hashing:
+  A comparison of hash function types and querying mechanisms,'' {\em Pattern
+  Recognition Letters}, vol.~31, no.~11, pp.~1348--1358, 2010.
+
+\bibitem{Leech}
+J.~Leech, ``Notes on sphere packings,'' {\em Canadian Journal of Mathematics},
+  1967.
+
+\bibitem{Forney}
+.~J. Forney, G.~D., ``A bounded-distance decoding algorithm for the leech
+  lattice, with generalizations,'' {\em Information Theory, IEEE Transactions
+  on}, vol.~35, pp.~906--909, jul 1989.
+
+\bibitem{Jegou}
+.~A. L. . S. C. . G.~P. J{\'{e}}gou, H., ``Query-adaptive locality sensitive
+  hashing,'' 2008.
+
+\bibitem{Samet}
+H.~Samet, {\em Foundations of Multidimensional and Metric Data Structures}.
+\newblock Morgan Kaufmann, 2006.
+
+\bibitem{SPLAG}
+J.~Conway and N.~Sloane, {\em Sphere Packings Lattices and Groups Third
+  Edition}.
+\newblock New York: Springer, 1998.
+
+\bibitem{Qin}
+Q.~Lv, W.~Josephson, Z.~Wang, M.~Charikar, and K.~Li, ``Multi-probe lsh:
+  efficient indexing for high-dimensional similarity search,'' in {\em
+  Proceedings of the 33rd international conference on Very large data bases},
+  VLDB {'}07, pp.~950--961, VLDB Endowment, 2007.
+
+\bibitem{Har-Peled}
+S.~Har-Peled, ``A replacement for voronoi diagrams of near linear size,'' in
+  {\em Foundations of Computer Science, 2001. Proceedings. 42nd IEEE Symposium
+  on}, pp.~94--103, oct. 2001.
+
+\bibitem{Forney05}
+D.~Forney, ``Chapter 14: Introduction to lattice and trellis codes.'' Lecture:
+  Principles of Digital Communication, 2005.
+
+\bibitem{Weber}
+R.~Weber, H.-J. Schek, and S.~Blott, ``A quantitative analysis and performance
+  study for similarity-search methods in high-dimensional spaces,'' in {\em
+  Proceedings of the 24rd International Conference on Very Large Data Bases},
+  VLDB {'}98, (San Francisco, CA, USA), pp.~194--205, Morgan Kaufmann
+  Publishers Inc., 1998.
+
+\bibitem{Indyk}
+P.~Indyk and R.~Motwani, ``Approximate nearest neighbors: towards removing the
+  curse of dimensionality,'' in {\em Proceedings of the thirtieth annual ACM
+  symposium on Theory of computing}, STOC {'}98, (New York, NY, USA),
+  pp.~604--613, ACM, 1998.
+
+\bibitem{Datar}
+M.~Datar, N.~Immorlica, P.~Indyk, and V.~S. Mirrokni, ``Locality-sensitive
+  hashing scheme based on p-stable distributions,'' in {\em Proceedings of the
+  twentieth annual symposium on Computational geometry}, SCG {'}04, (New York,
+  NY, USA), pp.~253--262, ACM, 2004.
+
+\bibitem{Pless}
+P.~V. Huffman~W., {\em Fundamentals of Error-Correcting Codes}.
+\newblock Cambridge University Press, 1~ed., 2003.
+
+\bibitem{Wicker}
+S.~B. Wicker, {\em Error control systems for digital communication and
+  storage}.
+\newblock Upper Saddle River, NJ, USA: Prentice-Hall, Inc., 1995.
+
+\bibitem{Woelfel}
+P.~Woelfel, ``Asymmetric balanced allocation with simple hash functions,'' in
+  {\em Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete
+  algorithm}, SODA {'}06, (New York, NY, USA), pp.~424--433, ACM, 2006.
+
+\bibitem{Ostlin}
+A.~Ostlin and R.~Pagh, ``Uniform hashing in constant time and linear space,''
+  in {\em Proceedings of the thirty-fifth annual ACM symposium on Theory of
+  computing}, STOC {'}03, (New York, NY, USA), pp.~622--628, ACM, 2003.
+
+\bibitem{Cohn}
+H.~Cohn and A.~Kumar, ``Optimality and uniqueness of the leech lattice among
+  lattices,'' tech. rep., 2004.
+
+\bibitem{FLANN}
+M.~Muja and D.~G. Lowe, ``Fast approximate nearest neighbors with automatic
+  algorithm configuration,'' in {\em International Conference on Computer
+  Vision Theory and Application VISSAPP{'}09)}, pp.~331--340, INSTICC Press,
+  2009.
+
+\bibitem{imagemagick}
+A.~Thyssen, {\em ImageMagick v6 Examples {--} Reference Index}, 2010.
+
+\bibitem{Curtis}
+R.~T. Curtis, ``A new combinatorial approach to m24,'' {\em Mathematical
+  Proceedings of the Cambridge Philosophical Society}, vol.~79, no.~01,
+  pp.~25--42, 1976.
+
+\bibitem{Shakhnarovich}
+G.~Shakhnarovich, P.~A. Viola, and T.~Darrell, ``Fast pose estimation with
+  parameter-sensitive hashing,'' in {\em ICCV}, 9th IEEE International
+  Conference on Computer Vision (ICCV 2003), 14-17 October 2003, Nice, France,
+  pp.~750--759, IEEE Computer Society, 2003.
+
+\bibitem{Forney1}
+.~J. Forney, G.~D. and G.~Ungerboeck, ``Modulation and coding for linear
+  gaussian channels,'' {\em Information Theory, IEEE Transactions on}, vol.~44,
+  pp.~2384--2415, oct 1998.
+
+\bibitem{Irving}
+R.~W. Irving, P.~Leather, and D.~Gusfield, ``An efficient algorithm for the
+  optimal stable marriage,'' {\em J. ACM}, vol.~34, pp.~532--543, July 1987.
+
+\bibitem{SLSH}
+K.~Terasawa and Y.~Tanaka, ``Spherical lsh for approximate nearest neighbor
+  search on unit hypersphere,'' in {\em WADS}, pp.~27--38, 2007.
+
+\bibitem{Garcia}
+V.~Garcia, E.~Debreuve, and M.~Barlaud, ``Fast k nearest neighbor search using
+  gpu,'' in {\em CVPR Workshop on Computer Vision on GPU}, (Anchorage, Alaska,
+  USA), June 2008.
+
+\bibitem{Li}
+F.~Li and R.~Klette, ``A variant of adaptive mean shift-based clustering,'' in
+  {\em Proceedings of the 15th international conference on Advances in
+  neuro-information processing - Volume Part I}, ICONIP{'}08, (Berlin,
+  Heidelberg), pp.~1002--1009, Springer-Verlag, 2009.
+
+\bibitem{Karger}
+D.~R. Karger, ``Minimum cuts in near-linear time,'' {\em J. ACM}, vol.~47,
+  pp.~46--76, January 2000.
+
+\bibitem{Ullman}
+A.~Rajaraman and J.~D. Ullman, {\em Mining of Massive Datasets}.
+\newblock Cambridge University Press, 2011.
+
+\bibitem{berg}
+M.~d. Berg, M.~v. Kreveld, and M.~O. . . . . e.~a. ], {\em Computational
+  geometry : algorithms and applications}.
+\newblock Berlin: Springer, 2000.
+
+\bibitem{Beyer}
+K.~Beyer, J.~Goldstein, R.~Ramakrishnan, and U.~Shaft, ``When is "nearest
+  neighbor" meaningful?,'' in {\em In Int. Conf. on Database Theory},
+  pp.~217--235, 1999.
+
+\bibitem{Harish}
+P.~Harish and P.~J. Narayanan, ``Accelerating large graph algorithms on the gpu
+  using cuda,'' in {\em Proceedings of the 14th international conference on
+  High performance computing}, HiPC{'}07, (Berlin, Heidelberg), pp.~197--208,
+  Springer-Verlag, 2007.
+
+\bibitem{Zhou}
+K.~Zhou, Q.~Hou, R.~Wang, and B.~Guo, ``Real-time kd-tree construction on
+  graphics hardware,'' {\em ACM Trans. Graph.}, vol.~27, pp.~126--1, dec 2008.
+
+\bibitem{Freeman}
+J.~Freeman, ``Parallel algorithms for depth-first search,'' Tech. Rep.
+  MS-CIS-91-71, October 1991.
+
+\bibitem{Bell}
+N.~Bell and M.~Garland, ``Efficient sparse matrix-vector multiplication on
+  cuda,'' Tech. Rep. NVR-2008-004, dec 2008.
+
+\bibitem{ANN}
+D.~M. Mount and S.~A. ~, ``Ann: A library for approximate nearest neighbor
+  searching,'' 1998.
+
+\bibitem{Arya}
+S.~Arya and H.-Y.~A. Fu, ``Expected-case complexity of approximate nearest
+  neighbor searching,'' in {\em Proceedings of the eleventh annual ACM-SIAM
+  symposium on Discrete algorithms}, SODA {'}00, (Philadelphia, PA, USA),
+  pp.~379--388, Society for Industrial and Applied Mathematics, 2000.
+
+\bibitem{Kaski98}
+S.~Kaski, ``Dimensionality reduction by random mapping: Fast similarity
+  computation for clustering,'' 1998.
+
+\bibitem{hecht}
+R.~Hecht-Nielsen, ``Context vectors: general purpose approximate meaning
+  representations self-organized from raw data,'' {\em Computational
+  intelligence: Imitating life}, pp.~43--56, 1994.
+
+\bibitem{Meer}
+D.~Comaniciu and P.~Meer, ``Mean shift: a robust approach toward feature space
+  analysis,'' {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, vol.~24, pp.~603--619, may 2002.
+
+\bibitem{Bingham}
+E.~Bingham and H.~Mannila, ``Random projection in dimensionality reduction:
+  Applications to image and text data,'' in {\em in Knowledge Discovery and
+  Data Mining}, pp.~245--250, ACM Press, 2001.
+
+\bibitem{Boutsidis}
+C.~Boutsidis, A.~Zouzias, and P.~Drineas, ``Random projections for $k$-means
+  clustering,'' {\em CoRR}, vol.~abs/1011.4632, 2010.
+
+\bibitem{carraher}
+l.~Carraher, ``A parallel algorithm for query adaptive, locality sensitive hash
+  search,'' 2012.
+
+\bibitem{carraher2}
+W.~Carraher, ``A gpgpu algorithm for c-approximate r-nearest neighbor search in
+  high dimensions,'' 2012.
+
+\bibitem{Marlin}
+B.~M. Marlin, D.~C. Kale, R.~G. Khemani, and R.~C. Wetzel, ``Unsupervised
+  pattern discovery in electronic health care data using probabilistic
+  clustering models,'' in {\em Proceedings of the 2nd ACM SIGHIT International
+  Health Informatics Symposium}, IHI {'}12, (New York, NY, USA), pp.~389--398,
+  ACM, 2012.
+
+\bibitem{Vattani}
+A.~Vattani, ``k-means requires exponentially many iterations even in the
+  plane,'' in {\em Proceedings of the 25th annual symposium on Computational
+  geometry}, SCG {'}09, (New York, NY, USA), pp.~324--332, ACM, 2009.
+
+\bibitem{Sivara07}
+K.~R. Sivaramakrishnan, K.~Karthik, and C.~Bhattacharyya, ``Kernels for large
+  margin time-series classification,'' in {\em Neural Networks, 2007. IJCNN
+  2007. International Joint Conference on}, pp.~2746--2751, aug. 2007.
+
+\bibitem{Warren}
+T.~W. Liao, ``Clustering of time series data{--}-a survey,'' {\em Pattern
+  Recognition}, vol.~38, no.~11, pp.~1857--1874, 2005.
+
+\bibitem{Liu2011}
+L.~Liu, W.~Zuo, D.~Zhang, and D.~Zhang, ``Learning with multiple gaussian
+  distance kernels for time series classification,'' in {\em Advanced Computer
+  Control (ICACC), 2011 3rd International Conference on}, pp.~624--628, jan.
+  2011.
+
+\bibitem{Sung09}
+P.~Sung, Z.~Syed, and J.~Guttag, ``Quantifying morphology changes in time
+  series data with skew,'' in {\em Acoustics, Speech and Signal Processing,
+  2009. ICASSP 2009. IEEE International Conference on}, pp.~477--480, april
+  2009.
+
+\bibitem{Dilts95}
+D.~Dilts, J.~Khamalah, and A.~T. I. T. L.~E. Plotkin, ``Using cluster analysis
+  for medical resource decision making,'' {\em Med Decis Making}, vol.~15,
+  no.~4, pp.~333--47.
+
+\bibitem{Carreira}
+M.~A. Carreira-Perpinan, ``Gaussian mean-shift is an em algorithm,'' {\em
+  Pattern Analysis and Machine Intelligence, IEEE Transactions on}, vol.~29,
+  pp.~767--776, may 2007.
+
+\bibitem{mahout}
+A.~S. Foundation, {\em Apache Mahout:: Scalable machine-learning and
+  data-mining library}, April 2011.
+
+\bibitem{Liao}
+T.~W. Liao, ``Clustering of time series data{--}-a survey,'' {\em Pattern
+  Recognition}, vol.~38, pp.~1857--1874, 2005.
+
+\bibitem{MIMICII}
+M.~Saeed, M.~Villarroel, A.~T. Reisner, G.~Clifford, L.-W. Lehman, G.~Moody,
+  T.~Heldt, T.~H. Kyaw, B.~Moody, and R.~G. Mark, ``Multiparameter intelligent
+  monitoring in intensive care ii (mimic-ii): A public-access intensive care
+  unit database,'' {\em Critical Care Medicine}, vol.~39, pp.~952--960, May
+  2011.
+
+\bibitem{Hofmann}
+T.~Hofmann, ``Unsupervised learning by probabilistic latent semantic
+  analysis,'' {\em Mach. Learn.}, vol.~42, pp.~177--196, jan 2001.
+
+\bibitem{Yang}
+Y.~Yang and K.~Chen, ``Temporal data clustering via weighted clustering
+  ensemble with different representations,'' {\em Knowledge and Data
+  Engineering, IEEE Transactions on}, vol.~23, pp.~307--320, feb. 2011.
+
+\bibitem{Fajie}
+F.~Li and R.~Klette, ``A variant of adaptive mean shift-based clustering,'' in
+  {\em ICONIP (1)}, pp.~1002--1009, 2008.
+
+\bibitem{Arias2013}
+M.~Arias, A.~Troncoso, and J.~Riquelme, ``Advances in intelligent systems and
+  computing: Application to atmospheric pollutants,'' in {\em Soft Computing
+  Models in Industrial and Environmental Applications} (V.~Sn{\'{a}}{\v{s}}el,
+  A.~Abraham, and E.~S. Corchado, eds.), vol.~188, ch.~A Kernel for Time Series
+  Classification, pp.~417--426, Springer Berlin Heidelberg, 2013.
+
+\bibitem{Sivaramakrishnan}
+K.~R. Sivaramakrishnan, K.~Karthik, and C.~Bhattacharyya, ``Kernels for large
+  margin time-series classification,'' in {\em Neural Networks, 2007. IJCNN
+  2007. International Joint Conference on}, pp.~2746--2751, aug. 2007.
+
+\bibitem{deident}
+G.~D. H.~E. Gymrek~M, McGuire~AL and E.~Y, ``Identifying personal genomes by
+  surname inference,'' {\em Science}, no.~339, pp.~321--324, 2013.
+
+\bibitem{deanon1}
+X.~Ding, L.~Zhang, Z.~Wan, and M.~Gu, ``A brief survey on de-anonymization
+  attacks in online social networks,'' in {\em Computational Aspects of Social
+  Networks (CASoN), 2010 International Conference on}, pp.~611--615, 2010.
+
+\bibitem{deanon2}
+A.~Narayanan and V.~Shmatikov, ``Robust de-anonymization of large sparse
+  datasets,'' in {\em Security and Privacy, 2008. SP 2008. IEEE Symposium on},
+  pp.~111--125, 2008.
+
+\bibitem{Azzouzi}
+M.~Azzouzi and I.~T. Nabney, ``Analysing time series structure with hidden
+  markov models,'' in {\em Neural Networks for Signal Processing VIII, 1998.
+  Proceedings of the 1998 IEEE Signal Processing Society Workshop},
+  pp.~402--408, 1998.
+
+\bibitem{Dasha}
+P.~K. Dash, M.~Nayak, M.~R. Senapati, and I.~W.~C. Lee, ``Mining for
+  similarities in time series data using wavelet-based feature vectors and
+  neural networks,'' {\em Engineering Applications of Artificial Intelligence},
+  vol.~20, no.~2, pp.~185--201, 2007.
+\newblock <ce:title>Special Issue on Applications of Artificial Intelligence in
+  Process Systems Engineering</ce:title>.
+
+\bibitem{Pratt}
+K.~B. PRATT and E.~FINK, ``Search for patterns in compressed time series,''
+  {\em International Journal of Image and Graphics}, vol.~02, no.~01,
+  pp.~89--106, 2002.
+
+\bibitem{Korn}
+F.~Korn, H.~V. Jagadish, and C.~Faloutsos, ``Efficiently supporting ad hoc
+  queries in large datasets of time sequences,'' {\em SIGMOD Rec.}, vol.~26,
+  pp.~289--300, jun 1997.
+
+\bibitem{Wu}
+Y.-L. Wu, D.~Agrawal, and A.~El~Abbadi, ``A comparison of dft and dwt based
+  similarity search in time-series databases,'' in {\em Proceedings of the
+  ninth international conference on Information and knowledge management}, CIKM
+  {'}00, (New York, NY, USA), pp.~488--495, ACM, 2000.
+
+\bibitem{Fu}
+T.-c. Fu, ``A review on time series data mining,'' {\em Eng. Appl. Artif.
+  Intell.}, vol.~24, pp.~164--181, feb 2011.
+
+\bibitem{vempala}
+S.~S. Vempala, {\em The Random Projection Method}.
+\newblock DIMACS Series, American Mathematical Society, 2004.
+
+\bibitem{fernrandom}
+X.~Z. Fern and C.~E. Brodley, ``Random projection for high dimensional data
+  clustering: A cluster ensemble approach,''
+
+\bibitem{Urruty2007}
+T.~Urruty, C.~Djeraba, and D.~Simovici, ``Lecture notes in computer science,''
+  in {\em Advances in Data Mining. Theoretical Aspects and Applications}
+  (P.~Perner, ed.), vol.~4597, ch.~Clustering by Random Projections,
+  pp.~107--119, Springer Berlin Heidelberg, 2007.
+
+\bibitem{Dasgupta2000}
+S.~Dasgupta, ``Experiments with random projection,'' in {\em Proceedings of the
+  Sixteenth conference on Uncertainty in artificial intelligence}, UAI{'}00,
+  (San Francisco, CA, USA), pp.~143--151, Morgan Kaufmann Publishers Inc.,
+  2000.
+
+\bibitem{Zhang2003}
+D.-Q. Zhang and S.-C. Chen, ``Clustering incomplete data using kernel-based
+  fuzzy c-means algorithm,'' {\em Neural Processing Letters}, vol.~18, no.~3,
+  pp.~155--162, 2003.
+
+\bibitem{Hathaway}
+R.~J. Hathaway and J.~C. Bezdek, ``Fuzzy c-means clustering of incomplete
+  data,'' {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, vol.~31, no.~5, pp.~735--744, 2001.
+
+\bibitem{Bezdek}
+J.~C. Bezdek, R.~Ehrlich, and W.~Full, ``Fcm: The fuzzy c-means clustering
+  algorithm,'' {\em Computers \& Geosciences}, vol.~10, no.~2{--}3,
+  pp.~191--203, 1984.
+
+\bibitem{Ladner}
+R.~E. Ladner and M.~J. Fischer, ``Parallel prefix computation,'' {\em J. ACM},
+  vol.~27, pp.~831--838, oct 1980.
+
+\bibitem{Vardy95}
+A.~Vardy, ``Even more efficient bounded-distance decoding of the hexacode, the
+  golay code, and the leech lattice,'' {\em Information Theory, IEEE
+  Transactions on}, vol.~41, no.~5, pp.~1495--1499, 1995.
+
+\bibitem{chowdhury}
+M.~Chowdhury, M.~Zaharia, and I.~Stoica, ``Performance and scalability of
+  broadcast in spark,''
+
+\bibitem{hadoop}
+K.~Shvachko, H.~Kuang, S.~Radia, and R.~Chansler, ``The hadoop distributed file
+  system,'' in {\em Proceedings of the 2010 IEEE 26th Symposium on Mass Storage
+  Systems and Technologies (MSST)}, MSST {'}10, (Washington, DC, USA),
+  pp.~1--10, IEEE Computer Society, 2010.
+
+\bibitem{mapreduce}
+J.~Dean and S.~Ghemawat, ``Mapreduce: Simplified data processing on large
+  clusters,'' {\em Commun. ACM}, vol.~51, pp.~107--113, jan 2008.
+
+\bibitem{Achlioptas01}
+D.~Achlioptas, ``Database-friendly random projections,'' in {\em Proceedings of
+  the twentieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database
+  systems}, pp.~274--281, 2001.
+
+\bibitem{alweighted06}
+M.~Al-Razgan and C.~Domeniconi, ``Weighted clustering ensembles,'' in {\em
+  Proceedings of the SIAM international conference on data mining},
+  pp.~258--269, 2006.
+
+\bibitem{avogadri09}
+R.~Avogadri and G.~Valentini, ``Fuzzy ensemble clustering based on random
+  projections for dna microarray data analysis,'' {\em Artificial Intelligence
+  in Medicine}, vol.~45, no.~2, pp.~173--183, 2009.
+
+\bibitem{florescu09}
+I.~Florescu, A.~Molyboha, and A.~Myasnikov, ``Scaling and convergence of
+  projection sampling,'' 2009.
+
+\bibitem{dbscan}
+M.~Ester, H.-P. Kriegel, J.~Sander, and X.~Xu, ``A density-based algorithm for
+  discovering clusters in large spatial databases with noise.,'' in {\em KDD},
+  vol.~96, pp.~226--231, 1996.
+
+\bibitem{Clarans}
+R.~T. Ng and J.~Han, ``Clarans: A method for clustering objects for spatial
+  data mining,'' {\em Knowledge and Data Engineering, IEEE Transactions on},
+  vol.~14, no.~5, pp.~1003--1016, 2002.
+
+\bibitem{Proclus}
+C.~C. Aggarwal, J.~L. Wolf, P.~S. Yu, C.~Procopiuc, and J.~S. Park, ``Fast
+  algorithms for projected clustering,'' in {\em ACM SIGMOD Record}, vol.~28,
+  pp.~61--72, 1999.
+
+\bibitem{clique}
+R.~Agrawal, J.~Gehrke, D.~Gunopulos, and P.~Raghavan, {\em Automatic subspace
+  clustering of high dimensional data for data mining applications}, vol.~27.
+\newblock ACM, 1998.
+
+\bibitem{dasgupta08}
+S.~Dasgupta, {\em The hardness of k-means clustering}.
+\newblock Department of Computer Science and Engineering, University of
+  California, San Diego, 2008.
+
+\bibitem{Mahajan09}
+M.~Mahajan, P.~Nimbhorkar, and K.~Varadarajan, ``The planar k-means problem is
+  np-hard,'' in {\em WALCOM: Algorithms and Computation} (S.~Das and R.~Uehara,
+  eds.), vol.~5431, ch.~Lecture Notes in Computer Science, pp.~274--285,
+  Springer Berlin Heidelberg, 2009.
+
+\bibitem{UrrutyRP}
+T.~Urruty, C.~Djeraba, and D.~A. Simovici, ``Clustering by random
+  projections,'' in {\em Advances in Data Mining. Theoretical Aspects and
+  Applications}, pp.~107--119, Springer, 2007.
+
+\bibitem{presidential}
+``Privacy and progress in whole genome sequencing,'' report to the president,
+  Presidential Commission for the Study of Bioethical Issues, Washington,
+  October 2012.
+
+\bibitem{subset1}
+R.~Kohavi and D.~Sommerfield, ``Feature subset selection using the wrapper
+  method: Overfitting and dynamic search space topology.,'' in {\em KDD},
+  pp.~192--197, 1995.
+
+\bibitem{subset2}
+P.~S. Bradley, O.~L. Mangasarian, and W.~N. Street, ``Clustering via concave
+  minimization,'' {\em Advances in neural information processing systems},
+  pp.~368--374, 1997.
+
+\bibitem{stochastic}
+G.~Reeves and M.~Gastpar, ``Sampling bounds for sparse support recovery in the
+  presence of noise,'' in {\em Information Theory, 2008. ISIT 2008. IEEE
+  International Symposium on}, pp.~2187--2191, July 2008.
+
+\bibitem{clusters}
+R.~Xu and .~I.~I. Wunsch, D., ``Survey of clustering algorithms,'' {\em Neural
+  Networks, IEEE Transactions on}, vol.~16, pp.~645--678, May 2005.
+
+\bibitem{carraher-1}
+L.~A. Carraher, P.~A. Wilsey, and F.~S. Annexstein, ``A gpgpu algorithm for
+  c-approximate r-nearest neighbor search in high dimensions,'' in {\em
+  Parallel and Distributed Processing Symposium Workshops PhD Forum (IPDPSW),
+  2013 IEEE 27th International}, pp.~2079--2088, May 2013.
+
+\bibitem{bourgain1985lipschitz}
+J.~Bourgain, ``On lipschitz embedding of finite metric spaces in hilbert
+  space,'' {\em Israel Journal of Mathematics}, vol.~52, no.~1-2, pp.~46--52,
+  1985.
+
+\bibitem{latent1}
+J.~Magidson and J.~Vermunt, ``Latent class models for clustering: A comparison
+  with k-means,'' {\em Canadian Journal of Marketing Research}, vol.~20, no.~1,
+  pp.~36--43, 2002.
+
+\bibitem{clusterstats}
+U.~V. Luxburg and S.~Ben-david, ``Towards a statistical theory of clustering,''
+  in {\em In PASCAL workshop on Statistics and Optimization of Clustering},
+  2005.
+
+\bibitem{mpicluster}
+I.~Dhillon and D.~Modha, ``A data-clustering algorithm on distributed memory
+  multiprocessors,'' in {\em Large-Scale Parallel Data Mining} (M.~Zaki and
+  C.-T. Ho, eds.), vol.~1759, ch.~Lecture Notes in Computer Science,
+  pp.~245--260, Springer Berlin Heidelberg, 2000.
+
+\bibitem{Amdahl}
+G.~M. Amdahl, ``Validity of the single processor approach to achieving large
+  scale computing capabilities,'' in {\em Proceedings of the April 18-20, 1967,
+  Spring Joint Computer Conference}, AFIPS {'}67 (Spring), (New York, NY, USA),
+  pp.~483--485, ACM, 1967.
+
+\bibitem{distributeddata}
+B.-H. Park and H.~Kargupta, ``Distributed data mining: Algorithms, systems, and
+  applications,'' pp.~341--358, 2002.
+
+\bibitem{parclus}
+T.~Tamura, M.~Oguchi, and M.~Kitsuregawa, ``Parallel database processing on a
+  100 node pc cluster: Cases for decision support query processing and data
+  mining,'' {\em SC Conference}, vol.~0, p.~49, 1997.
+
+\bibitem{han2006}
+J.~Han, M.~Kamber, and J.~Pei, {\em Data mining: concepts and techniques}.
+\newblock Morgan kaufmann, 2006.
+
+\bibitem{waldo1997}
+J.~Waldo, G.~Wyant, A.~Wollrath, and S.~Kendall, {\em A note on distributed
+  computing}.
+\newblock Springer, 1997.
+
+\bibitem{Lindell2000}
+Y.~Lindell and B.~Pinkas, ``Privacy preserving data mining,'' in {\em Advances
+  in Cryptology {---} CRYPTO 2000} (M.~Bellare, ed.), vol.~1880, ch.~Lecture
+  Notes in Computer Science, pp.~36--54, Springer Berlin Heidelberg, 2000.
+
+\bibitem{Grossman}
+R.~Grossman and Y.~Gu, ``Data mining using high performance data clouds:
+  Experimental studies using sector and sphere,'' in {\em Proceedings of the
+  14th ACM SIGKDD International Conference on Knowledge Discovery and Data
+  Mining}, KDD {'}08, (New York, NY, USA), pp.~920--927, ACM, 2008.
+
+\bibitem{zaki2000}
+M.~J. Zaki and C.-T. Ho, {\em Large-scale parallel data mining}.
+\newblock No.~1759, Springer, 2000.
+
+\bibitem{ailon2006}
+N.~Ailon and B.~Chazelle, ``Approximate nearest neighbors and the fast
+  johnson-lindenstrauss transform,'' in {\em Proceedings of the thirty-eighth
+  annual ACM symposium on Theory of computing}, pp.~557--563, 2006.
+
+\bibitem{Dasgupta}
+A.~Dasgupta, R.~Kumar, and T.~Sarlos, ``A sparse johnson: Lindenstrauss
+  transform,'' in {\em Proceedings of the Forty-second ACM Symposium on Theory
+  of Computing}, STOC {'}10, (New York, NY, USA), pp.~341--350, ACM, 2010.
+
+\bibitem{Webb2000}
+G.~Webb, ``Multiboosting: A technique for combining boosting and wagging,''
+  {\em Machine Learning}, vol.~40, no.~2, pp.~159--196, 2000.
+
+\bibitem{Fortune}
+S.~Fortune, ``A sweepline algorithm for voronoi diagrams,'' in {\em Proceedings
+  of the Second Annual Symposium on Computational Geometry}, SCG {'}86, (New
+  York, NY, USA), pp.~313--322, ACM, 1986.
+
+\bibitem{Klein1988}
+R.~Klein, ``Abstract voronoi diagrams and their applications,'' in {\em
+  Computational Geometry and its Applications} (H.~Noltemeier, ed.), vol.~333,
+  ch.~Lecture Notes in Computer Science, pp.~148--157, Springer Berlin
+  Heidelberg, 1988.
+
+\bibitem{Gavrilova2003}
+M.~L. Gavrilova, ``An explicit solution for computing the euclidean
+  d-dimensional voronoi diagram of spheres in a floating-point arithmetic,'' in
+  {\em Computational Science and Its Applications {---} ICCSA 2003} (V.~Kumar,
+  M.~Gavrilova, C.~Tan, and P.~L{'}Ecuyer, eds.), vol.~2669, ch.~Lecture Notes
+  in Computer Science, pp.~827--835, Springer Berlin Heidelberg, 2003.
+
+\bibitem{Zass2005}
+R.~Zass and A.~Shashua, ``A unifying approach to hard and probabilistic
+  clustering,'' in {\em Computer Vision, 2005. ICCV 2005. Tenth IEEE
+  International Conference on}, vol.~1, pp.~294--301, Oct 2005.
+
+\bibitem{Agrell}
+E.~Agrell, T.~Eriksson, A.~Vardy, and K.~Zeger, ``Closest point search in
+  lattices,'' {\em Information Theory, IEEE Transactions on}, vol.~48,
+  pp.~2201--2214, Aug 2002.
+
+\bibitem{anders2010differential}
+S.~Anders and W.~Huber, ``Differential expression analysis for sequence count
+  data,'' {\em Genome biol}, vol.~11, no.~10, pp.~--106, 2010.
+
+\bibitem{mpispec}
+T.~M. Forum, ``Mpi: A message passing interface,'' 1993.
+
+\bibitem{anderberg1973}
+M.~R. Anderberg, ``Cluster analysis for applications,'' tech. rep., 1973.
+
+\bibitem{reed2002}
+W.~J. Reed and B.~D. Hughes, ``From gene families and genera to incomes and
+  internet file sizes: Why power laws are so common in nature,'' {\em Physical
+  Review E}, vol.~66, no.~6, p.~067103, 2002.
+
+\bibitem{ailon2009fast}
+N.~Ailon and E.~Liberty, ``Fast dimension reduction using rademacher series on
+  dual bch codes,'' {\em Discrete \& Computational Geometry}, vol.~42, no.~4,
+  pp.~615--630, 2009.
+
+\bibitem{Ailon2013}
+N.~Ailon and E.~Liberty, ``An almost optimal unrestricted fast
+  johnson-lindenstrauss transform,'' {\em ACM Trans. Algorithms}, vol.~9,
+  pp.~21--1, jun 2013.
+
+\bibitem{Liberty2008}
+E.~Liberty, N.~Ailon, and A.~Singer, ``Dense fast random projections and lean
+  walsh transforms,'' in {\em Approximation, Randomization and Combinatorial
+  Optimization. Algorithms and Techniques} (A.~Goel, K.~Jansen, J.~P. Rolim,
+  and R.~Rubinfeld, eds.), vol.~5171, ch.~Lecture Notes in Computer Science,
+  pp.~512--522, Springer Berlin Heidelberg, 2008.
+
+\end{thebibliography}
