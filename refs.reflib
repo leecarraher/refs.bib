@@ -1133,10 +1133,10 @@
 			<filename></filename>
 			<key>carraher</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
+			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>A Parallel Algorithm for Query Adaptive, Locality Sensitive Hash Search</bib_title>
-			<bib_authors>l.  carraher, f.  annexstein</bib_authors>
+			<bib_authors>Carraher, l.</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
@@ -1148,10 +1148,10 @@
 			<filename></filename>
 			<key>carraher2</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
+			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>A GPGPU Algorithm for c-Approximate r-Nearest Neighbor Search in High Dimensions</bib_title>
-			<bib_authors>l.  carraher, p.  wilsey</bib_authors>
+			<bib_authors>Carraher, Wilsey</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
@@ -1882,7 +1882,7 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>achlioptas01</key>
+			<key>Achlioptas01</key>
 			<notes></notes>
 			<bib_type>InProceedings</bib_type>
 			<bib_doi></bib_doi>
@@ -1957,7 +1957,7 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>clarans</key>
+			<key>Clarans</key>
 			<notes></notes>
 			<bib_type>Article</bib_type>
 			<bib_doi></bib_doi>
@@ -1972,7 +1972,7 @@
 		</doc>
 		<doc>
 			<filename></filename>
-			<key>proclus</key>
+			<key>Proclus</key>
 			<notes></notes>
 			<bib_type>InProceedings</bib_type>
 			<bib_doi></bib_doi>
@@ -2102,6 +2102,564 @@
 			<bib_pages>368-374</bib_pages>
 			<bib_year>1997</bib_year>
 			<bib_extra key="Publisher">MORGAN KAUFMANN PUBLISHERS</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>stochastic</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Sampling bounds for sparse support recovery in the presence of noise</bib_title>
+			<bib_authors>Reeves, G. and Gastpar, M.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>2187-2191</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="BookTitle">Information Theory, 2008. ISIT 2008. IEEE International Symposium on</bib_extra>
+			<bib_extra key="Doi">10.1109/ISIT.2008.4595378</bib_extra>
+			<bib_extra key="Keywords">quantisation (signal);signal denoising;stochastic processes;nonstochastic signal models;per-sample signal-to-noise ratio;quantization;signal denoising;sparse signal;sparse support recovery;stochastic signal;unbounded rate per sample;Graphical models;Quantization;Sampling methods;Signal analysis;Signal denoising;Signal to noise ratio;Statistics;Stochastic processes;Stochastic resonance;Sufficient conditions</bib_extra>
+			<bib_extra key="Month">July</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>clusters</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Survey of clustering algorithms</bib_title>
+			<bib_authors>Xu, Rui and Wunsch, D. ,. I. I.</bib_authors>
+			<bib_journal>Neural Networks, IEEE Transactions on</bib_journal>
+			<bib_volume>16</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>645-678</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Doi">10.1109/TNN.2005.845141</bib_extra>
+			<bib_extra key="Issn">1045-9227</bib_extra>
+			<bib_extra key="Keywords">data analysis;pattern classification;pattern clustering;benchmark data sets;bioinformatics;cluster analysis;data analysis;traveling salesman problem;Application software;Bioinformatics;Clustering algorithms;Computer science;Data analysis;Humans;Machine learning;Machine learning algorithms;Statistics;Traveling salesman problems;Adaptive resonance theory (ART);cluster validation;clustering;clustering algorithm;neural networks;proximity;self-organizing feature map (SOFM);Algorithms;Computer Simulation;Models, Statistical;Neural Networks (Computer);Numerical Analysis, Computer-Assisted;Pattern Recognition, Automated;Signal Processing, Computer-Assisted;Stochastic Processes</bib_extra>
+			<bib_extra key="Month">May</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>carraher-1</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A GPGPU Algorithm for c-Approximate r-Nearest Neighbor Search in High Dimensions</bib_title>
+			<bib_authors>Carraher, L. A. and Wilsey, P. A. and Annexstein, F. S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>2079-2088</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="BookTitle">Parallel and Distributed Processing Symposium Workshops PhD Forum (IPDPSW), 2013 IEEE 27th International</bib_extra>
+			<bib_extra key="Doi">10.1109/IPDPSW.2013.239</bib_extra>
+			<bib_extra key="Keywords">computational complexity;data mining;graphics processing units;learning (artificial intelligence);parallel architectures;search problems;CUDA;GPGPU algorithm;GPGPU computing;LSH-NN;approximate nearest neighbor methods;bounded error approximate nearest neighbor searches;c-approximate r-nearest neighbor search algorithm;computer vision algorithms;data intensive distance metrics;data mining;database search;diverse utility;high dimensional data;locality sensitive hash with nearest neighbor search;machine learning;naive linear search;near-optimal search complexity;real world image SIFT vector data;redundant datasets;serial version;significant speedup;sublinear search complexity;Complexity theory;Databases;Decoding;Instruction sets;Lattices;Nearest neighbor searches;Vectors;GPGPU;KNN;LSH;Nearest Neighbor</bib_extra>
+			<bib_extra key="Month">May</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>bourgain1985lipschitz</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On Lipschitz embedding of finite metric spaces in Hilbert space</bib_title>
+			<bib_authors>Bourgain, Jean</bib_authors>
+			<bib_journal>Israel Journal of Mathematics</bib_journal>
+			<bib_volume>52</bib_volume>
+			<bib_number>1-2</bib_number>
+			<bib_pages>46-52</bib_pages>
+			<bib_year>1985</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>latent1</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Latent class models for clustering: A comparison with K-means</bib_title>
+			<bib_authors>Magidson, Jay and Vermunt, Jeroen</bib_authors>
+			<bib_journal>Canadian Journal of Marketing Research</bib_journal>
+			<bib_volume>20</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>36-43</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Publisher">Citeseer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>clusterstats</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Towards a statistical theory of clustering</bib_title>
+			<bib_authors>Luxburg, Ulrike Von and Ben-david, Shai</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="BookTitle">In PASCAL workshop on Statistics and Optimization of Clustering</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>mpicluster</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Data-Clustering Algorithm on Distributed Memory Multiprocessors</bib_title>
+			<bib_authors>Dhillon, InderjitS. and Modha, DharmendraS.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1759</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>245-260</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="BookTitle">Large-Scale Parallel Data Mining</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/3-540-46502-2_13</bib_extra>
+			<bib_extra key="Editor">Zaki, MohammedJ. and Ho, Ching-Tien</bib_extra>
+			<bib_extra key="Isbn">978-3-540-67194-7</bib_extra>
+			<bib_extra key="Language">English</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/3-540-46502-2_13</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Amdahl</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities</bib_title>
+			<bib_authors>Amdahl, Gene M.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>483-485</bib_pages>
+			<bib_year>1967</bib_year>
+			<bib_extra key="Acmid">1465560</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the April 18-20, 1967, Spring Joint Computer Conference</bib_extra>
+			<bib_extra key="Doi">10.1145/1465482.1465560</bib_extra>
+			<bib_extra key="Location">Atlantic City, New Jersey</bib_extra>
+			<bib_extra key="Numpages">3</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">AFIPS ’67 (Spring)</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1465482.1465560</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>distributeddata</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Distributed Data Mining: Algorithms, Systems, and Applications</bib_title>
+			<bib_authors>Park, Byung-Hoon and Kargupta, Hillol</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>341-358</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="BookTitle"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>parclus</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Parallel Database Processing on a 100 Node PC Cluster: Cases for Decision Support Query Processing and Data Mining</bib_title>
+			<bib_authors>Tamura, Takayuki and Oguchi, Masato and Kitsuregawa, Masaru</bib_authors>
+			<bib_journal>SC Conference</bib_journal>
+			<bib_volume>0</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>49</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Address">Los Alamitos, CA, USA</bib_extra>
+			<bib_extra key="Doi">http://doi.ieeecomputersociety.org/10.1109/SC.1997.10030</bib_extra>
+			<bib_extra key="Isbn">0-89791-985-8</bib_extra>
+			<bib_extra key="Publisher">IEEE Computer Society</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>han2006</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Data mining: concepts and techniques</bib_title>
+			<bib_authors>Han, Jiawei and Kamber, Micheline and Pei, Jian</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Publisher">Morgan kaufmann</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>waldo1997</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A note on distributed computing</bib_title>
+			<bib_authors>Waldo, Jim and Wyant, Geoff and Wollrath, Ann and Kendall, Sam</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lindell2000</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Privacy Preserving Data Mining</bib_title>
+			<bib_authors>Lindell, Yehuda and Pinkas, Benny</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1880</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>36-54</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="BookTitle">Advances in Cryptology — CRYPTO 2000</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/3-540-44598-6_3</bib_extra>
+			<bib_extra key="Editor">Bellare, Mihir</bib_extra>
+			<bib_extra key="Isbn">978-3-540-67907-3</bib_extra>
+			<bib_extra key="Language">English</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/3-540-44598-6_3</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Grossman</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Data Mining Using High Performance Data Clouds: Experimental Studies Using Sector and Sphere</bib_title>
+			<bib_authors>Grossman, Robert and Gu, Yunhong</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>920-927</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Acmid">1402000</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</bib_extra>
+			<bib_extra key="Doi">10.1145/1401890.1402000</bib_extra>
+			<bib_extra key="Isbn">978-1-60558-193-4</bib_extra>
+			<bib_extra key="Keywords">cloud computing, distributed data mining, high performance data mining</bib_extra>
+			<bib_extra key="Location">Las Vegas, Nevada, USA</bib_extra>
+			<bib_extra key="Numpages">8</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">KDD ’08</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1401890.1402000</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>zaki2000</key>
+			<notes></notes>
+			<bib_type>Book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Large-scale parallel data mining</bib_title>
+			<bib_authors>Zaki, Mohammed J. and Ho, Ching-Tien</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>1759</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+			<bib_extra key="Series"></bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>ailon2006</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Approximate nearest neighbors and the fast Johnson-Lindenstrauss transform</bib_title>
+			<bib_authors>Ailon, Nir and Chazelle, Bernard</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>557-563</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the thirty-eighth annual ACM symposium on Theory of computing</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Dasgupta</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Sparse Johnson: Lindenstrauss Transform</bib_title>
+			<bib_authors>Dasgupta, Anirban and Kumar, Ravi and Sarlos, Tamás</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>341-350</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Acmid">1806737</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the Forty-second ACM Symposium on Theory of Computing</bib_extra>
+			<bib_extra key="Doi">10.1145/1806689.1806737</bib_extra>
+			<bib_extra key="Isbn">978-1-4503-0050-6</bib_extra>
+			<bib_extra key="Keywords">Johnson-Lindenstrauss transform, dimensionality reduction</bib_extra>
+			<bib_extra key="Location">Cambridge, Massachusetts, USA</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">STOC ’10</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/1806689.1806737</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Webb2000</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>MultiBoosting: A Technique for Combining Boosting and Wagging</bib_title>
+			<bib_authors>Webb, GeoffreyI.</bib_authors>
+			<bib_journal>Machine Learning</bib_journal>
+			<bib_volume>40</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>159-196</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Doi">10.1023/A:1007659514849</bib_extra>
+			<bib_extra key="Issn">0885-6125</bib_extra>
+			<bib_extra key="Keywords">boosting; bagging; wagging; aggregation; decision committee; decision tree</bib_extra>
+			<bib_extra key="Language">English</bib_extra>
+			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1023/A%3A1007659514849</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Fortune</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Sweepline Algorithm for Voronoi Diagrams</bib_title>
+			<bib_authors>Fortune, S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>313-322</bib_pages>
+			<bib_year>1986</bib_year>
+			<bib_extra key="Acmid">10549</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="BookTitle">Proceedings of the Second Annual Symposium on Computational Geometry</bib_extra>
+			<bib_extra key="Doi">10.1145/10515.10549</bib_extra>
+			<bib_extra key="Isbn">0-89791-194-6</bib_extra>
+			<bib_extra key="Location">Yorktown Heights, New York, USA</bib_extra>
+			<bib_extra key="Numpages">10</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Series">SCG ’86</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/10515.10549</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Klein1988</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Abstract voronoi diagrams and their applications</bib_title>
+			<bib_authors>Klein, Rolf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>333</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>148-157</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="BookTitle">Computational Geometry and its Applications</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/3-540-50335-8_31</bib_extra>
+			<bib_extra key="Editor">Noltemeier, Hartmut</bib_extra>
+			<bib_extra key="Isbn">978-3-540-50335-4</bib_extra>
+			<bib_extra key="Keywords">Voronoi diagram; metric; computational geometry</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/3-540-50335-8_31</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Gavrilova2003</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Explicit Solution for Computing the Euclidean d-dimensional Voronoi Diagram of Spheres in a Floating-Point Arithmetic</bib_title>
+			<bib_authors>Gavrilova, M. L.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>2669</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>827-835</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="BookTitle">Computational Science and Its Applications — ICCSA 2003</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/3-540-44842-X_84</bib_extra>
+			<bib_extra key="Editor">Kumar, Vipin and Gavrilova, MarinaL. and Tan, ChihJengKenneth and L’Ecuyer, Pierre</bib_extra>
+			<bib_extra key="Isbn">978-3-540-40156-8</bib_extra>
+			<bib_extra key="Language">English</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/3-540-44842-X_84</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Zass2005</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A unifying approach to hard and probabilistic clustering</bib_title>
+			<bib_authors>Zass, R. and Shashua, A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>294-301</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="BookTitle">Computer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on</bib_extra>
+			<bib_extra key="Doi">10.1109/ICCV.2005.27</bib_extra>
+			<bib_extra key="Issn">1550-5499</bib_extra>
+			<bib_extra key="Keywords">matrix algebra;pattern clustering;probability;affinity matrix;algebraic problem;doubly stochastic constraint;hard clustering;kernel K-means;multi class clustering;normalized cuts;positive factorization;probabilistic clustering;spectral clustering;Chromium;Clustering algorithms;Computer science;Computer vision;Euclidean distance;Kernel;Labeling;Matrices;Particle measurements;Stochastic processes</bib_extra>
+			<bib_extra key="Month">Oct</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Agrell</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Closest point search in lattices</bib_title>
+			<bib_authors>Agrell, E. and Eriksson, T. and Vardy, A. and Zeger, K.</bib_authors>
+			<bib_journal>Information Theory, IEEE Transactions on</bib_journal>
+			<bib_volume>48</bib_volume>
+			<bib_number>8</bib_number>
+			<bib_pages>2201-2214</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Doi">10.1109/TIT.2002.800499</bib_extra>
+			<bib_extra key="Issn">0018-9448</bib_extra>
+			<bib_extra key="Keywords">computational complexity;decoding;matrix algebra;reviews;search problems;Kannan algorithm;Korkine-Zolotareff reduced basis;Pohst algorithm;Pohst method;Schnorr-Euchner method;Viterbo-Boutros decoder;Voronoi-relevant vectors;complexity analysis;efficient closest point search algorithm;kissing number;lattice decoding;lattice generator matrix;lattices;shortest vector;Channel coding;Codes;Lattices;Maximum likelihood decoding;Nearest neighbor searches;Quantization;Search methods;Search problems;Source coding;Terminology</bib_extra>
+			<bib_extra key="Month">Aug</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>anders2010differential</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Differential expression analysis for sequence count data</bib_title>
+			<bib_authors>Anders, Simon and Huber, Wolfgang</bib_authors>
+			<bib_journal>Genome biol</bib_journal>
+			<bib_volume>11</bib_volume>
+			<bib_number>10</bib_number>
+			<bib_pages>-106</bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>mpispec</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>MPI: A Message Passing Interface</bib_title>
+			<bib_authors>Forum, The MPI</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1993</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>anderberg1973</key>
+			<notes></notes>
+			<bib_type>TechReport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Cluster analysis for applications</bib_title>
+			<bib_authors>Anderberg, Michael R.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1973</bib_year>
+			<bib_extra key="Publisher">DTIC Document</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>reed2002</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>From gene families and genera to incomes and internet file sizes: Why power laws are so common in nature</bib_title>
+			<bib_authors>Reed, William J. and Hughes, Barry D.</bib_authors>
+			<bib_journal>Physical Review E</bib_journal>
+			<bib_volume>66</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>067103</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Publisher">APS</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>ailon2009fast</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Fast dimension reduction using Rademacher series on dual BCH codes</bib_title>
+			<bib_authors>Ailon, Nir and Liberty, Edo</bib_authors>
+			<bib_journal>Discrete &amp; Computational Geometry</bib_journal>
+			<bib_volume>42</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>615-630</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ailon2013</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Almost Optimal Unrestricted Fast Johnson-Lindenstrauss Transform</bib_title>
+			<bib_authors>Ailon, Nir and Liberty, Edo</bib_authors>
+			<bib_journal>ACM Trans. Algorithms</bib_journal>
+			<bib_volume>9</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>21-1</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Acmid">2483701</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Articleno">21</bib_extra>
+			<bib_extra key="Doi">10.1145/2483699.2483701</bib_extra>
+			<bib_extra key="Issn">1549-6325</bib_extra>
+			<bib_extra key="Issue_date">June 2013</bib_extra>
+			<bib_extra key="Keywords">Johnson-Lindenstrauss, compressed sensing, restricted isometry</bib_extra>
+			<bib_extra key="Month">jun</bib_extra>
+			<bib_extra key="Numpages">12</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/2483699.2483701</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Liberty2008</key>
+			<notes></notes>
+			<bib_type>InCollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Dense Fast Random Projections and Lean Walsh Transforms</bib_title>
+			<bib_authors>Liberty, Edo and Ailon, Nir and Singer, Amit</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>5171</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>512-522</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="BookTitle">Approximation, Randomization and Combinatorial Optimization. Algorithms and Techniques</bib_extra>
+			<bib_extra key="Chapter">Lecture Notes in Computer Science</bib_extra>
+			<bib_extra key="Doi">10.1007/978-3-540-85363-3_40</bib_extra>
+			<bib_extra key="Editor">Goel, Ashish and Jansen, Klaus and Rolim, JoséD. P. and Rubinfeld, Ronitt</bib_extra>
+			<bib_extra key="Isbn">978-3-540-85362-6</bib_extra>
+			<bib_extra key="Keywords">Random Projections; Lean Walsh Transforms; Johnson Lindenstrauss; Dimension reduction</bib_extra>
+			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1007/978-3-540-85363-3_40</bib_extra>
 		</doc>
 	</doclist>
 </library>
