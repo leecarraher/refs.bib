@@ -45,7 +45,7 @@
 			<bib_extra key="Doi">10.1109/18.243466</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">(6,3,4) quaternary code;Leech lattice;binary Golay code;cosets;hexacode;lattice partitions;maximum likelihood decoding;decoding;lattice theory and statistics;maximum likelihood estimation;</bib_extra>
-			<bib_extra key="Month">jul</bib_extra>
+			<bib_extra key="Month">Jul</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -101,7 +101,7 @@
 			<bib_extra key="Doi">10.1109/18.391252</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">Golay code;Leech lattice;bounded distance decoding;bounded-distance decoder;bounded-distance decoders;coset decoding;decoding algorithms;effective error coefficient;glue code;holy construction;lattice partition chain;linear code;multilevel representation;octacode;permuted Turyn construction;self dual code;subcode;Golay codes;decoding;dual codes;linear codes;</bib_extra>
-			<bib_extra key="Month">jul</bib_extra>
+			<bib_extra key="Month">Jul</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -119,7 +119,7 @@
 			<bib_extra key="Doi">10.1109/18.720549</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">Euclidean space;Gaussian channel;Gilbert-Varshamov bound;Hamming space;algebraic theory;algebraic-geometry codes;block codes;channel capacity;coding theory;data networking;error probability;error-correcting codes;fundamental limits;history;noisy channels;polynomial time;quantum information theory;reliable communication;review;signaling;wireless communication;algebraic geometric codes;block codes;channel capacity;decoding;encoding;error correction codes;history;reviews;telecommunication signalling;</bib_extra>
-			<bib_extra key="Month">oct</bib_extra>
+			<bib_extra key="Month">Oct</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -137,7 +137,7 @@
 			<bib_extra key="Doi">10.1109/18.335970</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">AWGN channel;BER;Leech lattice;binary Golay code;bounded-distance decoder;bounded-distance decoding;coding-gain;computer simulation;decoder complexity;decoding algorithms;error-correction radius;maximum-likelihood decoder;multilevel constructions;decoding;error correction codes;maximum likelihood estimation;random noise;telecommunication channels;white noise;</bib_extra>
-			<bib_extra key="Month">jul</bib_extra>
+			<bib_extra key="Month">Jul</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -166,7 +166,7 @@
 			<filename></filename>
 			<key>Andoni</key>
 			<notes></notes>
-			<bib_type>PhdThesis</bib_type>
+			<bib_type>phdthesis</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Nearest Neighbor Search: the Old, the New, and the Impossible</bib_title>
 			<bib_authors>Andoni, Alexandr</bib_authors>
@@ -175,8 +175,8 @@
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
 			<bib_year>2009</bib_year>
-			<bib_extra key="Month">September</bib_extra>
-			<bib_extra key="School">MASSACHUSETTS INSTITUTE OF TECHNOLOGY</bib_extra>
+			<bib_extra key="month">September</bib_extra>
+			<bib_extra key="school">Massachusetts Institute of Technology</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -218,7 +218,7 @@
 			<bib_extra key="Doi">10.1109/18.556675</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
-			<bib_extra key="Month">nov</bib_extra>
+			<bib_extra key="Month">Nov</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -236,7 +236,7 @@
 			<bib_extra key="Doi">10.1109/18.556675</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">coding gain;complexity functions;lattices;lower-bound;minimum trellis decoding complexity;trellis complexity;computational complexity;lattice theory;maximum likelihood decoding;trellis codes;</bib_extra>
-			<bib_extra key="Month">nov</bib_extra>
+			<bib_extra key="Month">Nov</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -309,7 +309,7 @@
 			<bib_extra key="Doi">10.1109/26.494294</bib_extra>
 			<bib_extra key="Issn">0090-6778</bib_extra>
 			<bib_extra key="Keywords">Golay code;Leech lattice;bounded-distance decoding;decoders;efficient bounded-distance decoding;hexacode;minimum Euclidean distance;near-optimal performance;quaternary code;real-number operations;simulation;soft-decision decoding algorithms;trellis codes;Golay codes;codes;decoding;</bib_extra>
-			<bib_extra key="Month">may</bib_extra>
+			<bib_extra key="Month">May</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -327,7 +327,7 @@
 			<bib_extra key="BookTitle">Computer Vision, 2003. Proceedings. Ninth IEEE International Conference on</bib_extra>
 			<bib_extra key="Doi">10.1109/ICCV.2003.1238382</bib_extra>
 			<bib_extra key="Keywords">computer vision;feature space analysis;mean shift based clustering;texture classification;computer vision;feature extraction;image classification;image texture;pattern clustering;</bib_extra>
-			<bib_extra key="Month">oct.</bib_extra>
+			<bib_extra key="Month">Oct.</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -345,7 +345,7 @@
 			<bib_extra key="Doi">10.1109/TPAMI.2005.59</bib_extra>
 			<bib_extra key="Issn">0162-8828</bib_extra>
 			<bib_extra key="Keywords">Newton method;bound optimization;gradient methods;mean shift procedure;piecewise constant kernels;quadratic bound maximization;Newton method;gradient methods;quadratic programming;Algorithms;Artificial Intelligence;Cluster Analysis;Computer Graphics;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Numerical Analysis, Computer-Assisted;Pattern Recognition, Automated;Sample Size;Signal Processing, Computer-Assisted;</bib_extra>
-			<bib_extra key="Month">march </bib_extra>
+			<bib_extra key="Month">March </bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -364,7 +364,7 @@
 			<bib_extra key="Doi">10.1109/FOCS.2006.49</bib_extra>
 			<bib_extra key="Issn">0272-5428</bib_extra>
 			<bib_extra key="Keywords">Leech lattice;bounded-distance decoder;c-approximate nearest neighbor;d-dimensional Euclidean space;near-optimal hashing algorithms;computational complexity;file organisation;</bib_extra>
-			<bib_extra key="Month">oct. </bib_extra>
+			<bib_extra key="Month">Oct. </bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -414,7 +414,7 @@
 			<bib_extra key="Doi">10.1109/18.32173</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">Leech lattice;binary code formulas;bounded-distance decoding algorithm;construction B lattices;effective error coefficient;effective minimum distance;multistage algorithms;decoding;</bib_extra>
-			<bib_extra key="Month">jul</bib_extra>
+			<bib_extra key="Month">Jul</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -504,7 +504,7 @@
 			<bib_extra key="Doi">10.1109/SFCS.2001.959884</bib_extra>
 			<bib_extra key="Issn"> </bib_extra>
 			<bib_extra key="Keywords"> Voronoi diagram replacement; complexity; distance function; geometric computing; near linear size Voronoi diagrams; space decomposition; standard Voronoi diagram; epsi;-approximation; computational complexity; computational geometry; set theory;</bib_extra>
-			<bib_extra key="Month">oct.</bib_extra>
+			<bib_extra key="Month">Oct.</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -775,7 +775,7 @@
 			<bib_extra key="Doi">10.1109/18.720542</bib_extra>
 			<bib_extra key="Issn">0018-9448</bib_extra>
 			<bib_extra key="Keywords">SNR;binary coding;channel capacity;combined coding/precoding;high-signal-to-noise ratio;intersymbol-interference channels;linear Gaussian channels;low-signal-to-noise ratio;multilevel coding;nonbinary coding;orthogonal minimum-bandwidth modulation;review;turbo coding;turbo decoding;Gaussian channels;channel capacity;decoding;encoding;modulation;reviews;</bib_extra>
-			<bib_extra key="Month">oct</bib_extra>
+			<bib_extra key="Month">Oct</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -975,7 +975,7 @@
 			<bib_extra key="Issn">0730-0301</bib_extra>
 			<bib_extra key="Issue_date">December 2008</bib_extra>
 			<bib_extra key="Keywords">kd-tree, photon mapping, point cloud modeling, programable graphics hardware, ray tracing</bib_extra>
-			<bib_extra key="Month">dec</bib_extra>
+			<bib_extra key="Month">Dec</bib_extra>
 			<bib_extra key="Numpages">11</bib_extra>
 			<bib_extra key="Publisher">ACM</bib_extra>
 			<bib_extra key="Url">http://doi.acm.org/10.1145/1409060.1409079</bib_extra>
@@ -1009,7 +1009,7 @@
 			<bib_number>NVR-2008-004</bib_number>
 			<bib_pages></bib_pages>
 			<bib_year>2008</bib_year>
-			<bib_extra key="Month">dec</bib_extra>
+			<bib_extra key="Month">Dec</bib_extra>
 			<bib_extra key="Publisher">NVIDIA Corporation</bib_extra>
 		</doc>
 		<doc>
@@ -1095,7 +1095,7 @@
 			<bib_extra key="Doi">10.1109/34.1000236</bib_extra>
 			<bib_extra key="Issn">0162-8828</bib_extra>
 			<bib_extra key="Keywords">Convergence;Density functional theory;Image analysis;Image color analysis;Image resolution;Image segmentation;Kernel;Pattern recognition;Robustness;Smoothing methods;computer vision;estimation theory;image segmentation;nonparametric statistics;pattern clustering;smoothing methods;Nadaraya-Watson estimator;algorithm performance;analysis resolution;arbitrarily shaped cluster delineation;color images;complex multimodal feature space;computational module;convergence;density function;density modes detection;discontinuity-preserving image smoothing;discrete data;gray-level images;image segmentation;kernel regression;location estimation;low-level vision algorithms;mean shift;nearest stationary point;nonparametric technique;pattern recognition procedure;recursive mean shift procedure;robust M-estimators;robust feature space analysis;user-set parameter;</bib_extra>
-			<bib_extra key="Month">may</bib_extra>
+			<bib_extra key="Month">May</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1136,7 +1136,7 @@
 			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>A Parallel Algorithm for Query Adaptive, Locality Sensitive Hash Search</bib_title>
-			<bib_authors>Carraher, l.</bib_authors>
+			<bib_authors>Carraher, L.</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
@@ -1226,7 +1226,7 @@
 			<bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
 			<bib_extra key="Issn">1098-7576</bib_extra>
 			<bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
-			<bib_extra key="Month">aug.</bib_extra>
+			<bib_extra key="Month">Aug.</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1262,7 +1262,7 @@
 			<bib_extra key="BookTitle">Advanced Computer Control (ICACC), 2011 3rd International Conference on</bib_extra>
 			<bib_extra key="Doi">10.1109/ICACC.2011.6016490</bib_extra>
 			<bib_extra key="Keywords">Classification algorithms;Electrocardiography;Kernel;Marine animals;Support vector machines;Gaussian processes;distance measurement;learning (artificial intelligence);pattern classification;support vector machines;time series;GRBF;Gaussian RBF kernel;Gaussian elastic metric distance kernel;MKL;SVM;SimpleMKL;UCR time series data sets;distance measures;kernel classifier;multiple Gaussian distance kernels;multiple kernel learning method;support vector machine-based classification;time series classification;kernel method;multiple kernel learning;support vector machine;time series classification;</bib_extra>
-			<bib_extra key="Month">jan.</bib_extra>
+			<bib_extra key="Month">Jan.</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1281,7 +1281,7 @@
 			<bib_extra key="Doi">10.1109/ICASSP.2009.4959624</bib_extra>
 			<bib_extra key="Issn">1520-6149</bib_extra>
 			<bib_extra key="Keywords">Earth;Electrical resistance measurement;Electrocardiography;High definition video;Morphology;Noise shaping;Power measurement;Shape measurement;Time measurement;Timing;mathematical morphology;signal processing;time series;ECG signals;Earth movers distance;Frechet distance;Hausdorff distance;dynamic time-warping;morphology changes;morphology difference metrics;signal shape comparison;time series data;time skew;shape matching;time skew;</bib_extra>
-			<bib_extra key="Month">april</bib_extra>
+			<bib_extra key="Month">April</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1316,7 +1316,7 @@
 			<bib_extra key="Doi">10.1109/TPAMI.2007.1057</bib_extra>
 			<bib_extra key="Issn">0162-8828</bib_extra>
 			<bib_extra key="Keywords">Acceleration;Application software;Clustering algorithms;Clustering methods;Computer vision;Convergence;Fractals;Image converters;Image segmentation;Kernel;Gaussian processes;computer vision;expectation-maximisation algorithm;Gaussian mean-shift algorithm;computer vision;expectation-maximization algorithm;hill-climbing algorithm;image segmentation;image tracking;kernel density estimate;nonparametric clustering method;sublinear convergence;superlinear convergence;EM algorithm;Gaussian mixtures;Mean-shift algorithm;clustering.;kernel density estimators;Algorithms;Artificial Intelligence;Computer Simulation;Image Enhancement;Image Interpretation, Computer-Assisted;Information Storage and Retrieval;Likelihood Functions;Models, Statistical;Normal Distribution;Pattern Recognition, Automated;</bib_extra>
-			<bib_extra key="Month">may </bib_extra>
+			<bib_extra key="Month">May </bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1377,8 +1377,8 @@
 			<filename></filename>
 			<key>Hofmann</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1023/A:1007617005950</bib_doi>
 			<bib_title>Unsupervised Learning by Probabilistic Latent Semantic Analysis</bib_title>
 			<bib_authors>Hofmann, Thomas</bib_authors>
 			<bib_journal>Mach. Learn.</bib_journal>
@@ -1388,11 +1388,10 @@
 			<bib_year>2001</bib_year>
 			<bib_extra key="Acmid">599631</bib_extra>
 			<bib_extra key="Address">Hingham, MA, USA</bib_extra>
-			<bib_extra key="Doi">10.1023/A:1007617005950</bib_extra>
 			<bib_extra key="Issn">0885-6125</bib_extra>
 			<bib_extra key="Issue_date">January-February 2001</bib_extra>
 			<bib_extra key="Keywords">EM algorithm, dimension reduction, information retrieval, language modeling, latent class models, mixture models, natural language processing, unsupervised learning</bib_extra>
-			<bib_extra key="Month">jan</bib_extra>
+			<bib_extra key="Month">Jan</bib_extra>
 			<bib_extra key="Numpages">20</bib_extra>
 			<bib_extra key="Publisher">Kluwer Academic Publishers</bib_extra>
 			<bib_extra key="Url">http://dx.doi.org/10.1023/A:1007617005950</bib_extra>
@@ -1413,7 +1412,7 @@
 			<bib_extra key="Doi">10.1109/TKDE.2010.112</bib_extra>
 			<bib_extra key="Issn">1041-4347</bib_extra>
 			<bib_extra key="Keywords">Algorithm design and analysis;Clustering algorithms;Context modeling;Data mining;Data processing;Partitioning algorithms;Unsupervised learning;data structures;formal verification;pattern clustering;temporal databases;time series;benchmark time series;clustering analysis;data set;formal analysis;motion trajectory;temporal data clustering;temporal data representations;time-series data stream;underpinning techniques;weighted clustering;Temporal data clustering;clustering ensemble;different representations;model selection.;weighted consensus function;</bib_extra>
-			<bib_extra key="Month">feb. </bib_extra>
+			<bib_extra key="Month">Feb. </bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1471,7 +1470,7 @@
 			<bib_extra key="Doi">10.1109/IJCNN.2007.4371393</bib_extra>
 			<bib_extra key="Issn">1098-7576</bib_extra>
 			<bib_extra key="Keywords">Character recognition;Handheld computers;Handwriting recognition;Hidden Markov models;Kernel;Machine learning;Speech processing;Speech recognition;Support vector machine classification;Support vector machines;handwritten character recognition;interpolation;pattern classification;piecewise polynomial techniques;time series;handwritten character recognition;kernel interpolation technique;large margin time-series classification;piecewise polynomial function;</bib_extra>
-			<bib_extra key="Month">aug.</bib_extra>
+			<bib_extra key="Month">Aug.</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -1594,7 +1593,7 @@
 			<bib_extra key="Doi">10.1145/253262.253332</bib_extra>
 			<bib_extra key="Issn">0163-5808</bib_extra>
 			<bib_extra key="Issue_date">June 1997</bib_extra>
-			<bib_extra key="Month">jun</bib_extra>
+			<bib_extra key="Month">Jun</bib_extra>
 			<bib_extra key="Numpages">12</bib_extra>
 			<bib_extra key="Publisher">ACM</bib_extra>
 			<bib_extra key="Url">http://doi.acm.org/10.1145/253262.253332</bib_extra>
@@ -1643,7 +1642,7 @@
 			<bib_extra key="Issn">0952-1976</bib_extra>
 			<bib_extra key="Issue_date">February, 2011</bib_extra>
 			<bib_extra key="Keywords">Representation, Segmentation, Similarity measure, Time series data mining, Visualization</bib_extra>
-			<bib_extra key="Month">feb</bib_extra>
+			<bib_extra key="Month">Feb</bib_extra>
 			<bib_extra key="Numpages">18</bib_extra>
 			<bib_extra key="Publisher">Pergamon Press, Inc.</bib_extra>
 			<bib_extra key="Url">http://dx.doi.org/10.1016/j.engappai.2010.09.007</bib_extra>
@@ -1798,7 +1797,7 @@
 			<bib_extra key="Doi">10.1145/322217.322232</bib_extra>
 			<bib_extra key="Issn">0004-5411</bib_extra>
 			<bib_extra key="Issue_date">Oct. 1980</bib_extra>
-			<bib_extra key="Month">oct</bib_extra>
+			<bib_extra key="Month">Oct</bib_extra>
 			<bib_extra key="Numpages">8</bib_extra>
 			<bib_extra key="Publisher">ACM</bib_extra>
 			<bib_extra key="Url">http://doi.acm.org/10.1145/322217.322232</bib_extra>
@@ -1861,8 +1860,8 @@
 			<filename></filename>
 			<key>mapreduce</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1145/1327452.1327492</bib_doi>
 			<bib_title>MapReduce: Simplified Data Processing on Large Clusters</bib_title>
 			<bib_authors>Dean, Jeffrey and Ghemawat, Sanjay</bib_authors>
 			<bib_journal>Commun. ACM</bib_journal>
@@ -1872,10 +1871,9 @@
 			<bib_year>2008</bib_year>
 			<bib_extra key="Acmid">1327492</bib_extra>
 			<bib_extra key="Address">New York, NY, USA</bib_extra>
-			<bib_extra key="Doi">10.1145/1327452.1327492</bib_extra>
 			<bib_extra key="Issn">0001-0782</bib_extra>
 			<bib_extra key="Issue_date">January 2008</bib_extra>
-			<bib_extra key="Month">jan</bib_extra>
+			<bib_extra key="Month">Jan</bib_extra>
 			<bib_extra key="Numpages">7</bib_extra>
 			<bib_extra key="Publisher">ACM</bib_extra>
 			<bib_extra key="Url">http://doi.acm.org/10.1145/1327452.1327492</bib_extra>
@@ -2634,7 +2632,7 @@
 			<bib_extra key="Issn">1549-6325</bib_extra>
 			<bib_extra key="Issue_date">June 2013</bib_extra>
 			<bib_extra key="Keywords">Johnson-Lindenstrauss, compressed sensing, restricted isometry</bib_extra>
-			<bib_extra key="Month">jun</bib_extra>
+			<bib_extra key="Month">Jun</bib_extra>
 			<bib_extra key="Numpages">12</bib_extra>
 			<bib_extra key="Publisher">ACM</bib_extra>
 			<bib_extra key="Url">http://doi.acm.org/10.1145/2483699.2483701</bib_extra>
@@ -2660,6 +2658,46 @@
 			<bib_extra key="Keywords">Random Projections; Lean Walsh Transforms; Johnson Lindenstrauss; Dimension reduction</bib_extra>
 			<bib_extra key="Publisher">Springer Berlin Heidelberg</bib_extra>
 			<bib_extra key="Url">http://dx.doi.org/10.1007/978-3-540-85363-3_40</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>cownie</key>
+			<notes></notes>
+			<bib_type>conference</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Multicore: The Software View</bib_title>
+			<bib_authors>James Cownie, Intel Corp.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="howpublished">12th EMEA Academic Forum</bib_extra>
+			<bib_extra key="month">June</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Karp</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Simple Algorithm for Finding Frequent Elements in Streams and Bags</bib_title>
+			<bib_authors>Karp, Richard M. and Shenker, Scott and Papadimitriou, Christos H.</bib_authors>
+			<bib_journal>ACM Trans. Database Syst.</bib_journal>
+			<bib_volume>28</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>51-55</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Acmid">762473</bib_extra>
+			<bib_extra key="Address">New York, NY, USA</bib_extra>
+			<bib_extra key="Doi">10.1145/762471.762473</bib_extra>
+			<bib_extra key="Issn">0362-5915</bib_extra>
+			<bib_extra key="Issue_date">March 2003</bib_extra>
+			<bib_extra key="Keywords">Data stream, frequent elements</bib_extra>
+			<bib_extra key="Month">mar</bib_extra>
+			<bib_extra key="Numpages">5</bib_extra>
+			<bib_extra key="Publisher">ACM</bib_extra>
+			<bib_extra key="Url">http://doi.acm.org/10.1145/762471.762473</bib_extra>
 		</doc>
 	</doclist>
 </library>
